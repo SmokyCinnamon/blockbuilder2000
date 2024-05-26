@@ -1,0 +1,258 @@
+
+//hey. do yourself a favor and add spaces into the image names WHILE YOU"RE EXPORTING THEM
+
+OnCreateSurfaceTxt : all {
+	_startNum = 101
+	LOGGING("path below")
+	LOGGING(shellPath)
+	//(slash added)
+	_colors = FENUM("%(shellPath)colors/")
+	_colors = SPLIT(_colors,',')
+	_file = "%(shellPath)surfaces_colors.txt"
+	_f = FOPEN(_file,'w')
+	foreach _colors; _color {
+		FWRITE(_file,"surface%(_startNum)")
+		FWRITE(_file,"{")
+		FWRITE(_file,"    element0,overlay,colors/%(_color),0,0")
+		FWRITE(_file,"}")
+		FWRITE(_file,"")
+		_startNum ++
+	}
+	_f = FCLOSE(_file)
+}
+
+OnCreateDescript : all {
+	LOGGING("path below")
+	LOGGING(shellPath)
+	//(slash added)
+	_colors = FENUM("%(shellPath)colors/")
+	_colors = SPLIT(_colors,',')
+	_file = "%(shellPath)descript_bindgroup.txt"
+	_f = FOPEN(_file,'w')
+	for _i = 0; _i <= 50; _i++ {
+		//the number up there is the max amount of blocks to add colors to. Worried even with less, 100 will be too much... maybe 50 is fine fore now.
+		//_startNum = 101
+		_animNum = 0
+		_char = ''
+		if _i == 0; _char = "sakura"
+		elseif _i == 1; continue
+		else; _char = "char%(_i)"
+		foreach _colors; _color {
+			_color = SPLIT(_color,'_')
+			FWRITE(_file,"%(_char).bindgroup%(_animNum).name,%(_color[0]),%(_color[1])")
+			FWRITE(_file,"%(_char).bindgroup%(_animNum).default,0")
+			_animNum ++
+		}
+	}
+	_f = FCLOSE(_file)
+}
+
+OnCreateAppend : all {
+	_surfacesBase = FENUM("%(shellPath)base/")
+	_surfacesOutline = FENUM("%(shellPath)outline/")
+	_colors = FENUM("%(shellPath)colors/")
+	_surfacesBase = SPLIT(_surfacesBase,','); _surfacesOutline = SPLIT(_surfacesOutline,',')
+	
+	_num = ARRAYSIZE(_surfacesBase)
+	_num -= 1
+	_max = ARRAYSIZE(_colors)
+	_max -= 1
+	
+	//animation0.interval,bind
+	//animation0.pattern0,overlayfast,101,0,0,0
+	
+	_file = "%(shellPath)surfaces_append.txt"
+	_f = FOPEN(_file,'w')
+	FWRITE(_file,"version,1")
+	FWRITE(_file,"surface.append0-%(_num)!10")
+	FWRITE(_file,"{")
+	for _i = 0; _i <= _max; _i++ {
+		_num = _i + 101 //?
+		FWRITE(_file,"    animation%(_i).interval,bind")
+		FWRITE(_file,"    animation%(_i).pattern0,overlayfast,%(_num),0,0,0")
+		FWRITE(_file,"")
+	}
+	FWRITE(_file,"}")
+	_f = FCLOSE(_file)
+}
+
+OnNotifySelfInfo {
+	shellPath = reference4
+}
+
+//—————————————————————————————— Installing something ——————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnInstallBegin
+
+OnInstallComplete
+{
+	"\0\s[0]Installed %(reference1) (%(reference0))."
+	--
+	//A little menu to open or change to the ghost that was installed immediately
+	if "ghost" _in_ reference0
+	{
+		"\n\n\_q"
+		--
+		"\![*]\__q[OnInstallComplete.Action,call]Call %(reference0)\__q  \![*]\__q[OnInstallComplete.Action,change]Change to %(reference0)\__q\n\n"
+		--
+		"\![*]\q[Thanks,blank]"
+	}
+}
+
+OnInstallComplete.Action
+{
+	if reference0 == "change"
+	{
+		"\![change,ghost,lastinstalled]"
+	}
+	else //call
+	{
+		"\![call,ghost,lastinstalled]"
+	}
+}
+
+OnInstallFailure
+{
+	_reason = reference0
+	case reference0
+	{
+		when "unlha32"; _reason = "could not load the dll to decompress lzh files"
+		when "extraction"; _reason = "failed to decompress the file"
+		when "invalid type"; _reason = "the install.txt is incorrect"
+		when "unsupported"; _reason = "the archive is not supported"
+		when "password"; _reason = "incorrect password"
+		when "artificial"; _reason = "canceled by user"
+	}
+	
+	"\0\s[0]Could not complete installation: %(_reason)."
+}
+
+
+//—————————————————————————————— Creating a .nar file ——————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnNarCreating
+
+OnNarCreated
+{
+	//Makes a clickable link that'll open the location of the file they just made
+	_nar = "\_a[OnNarLocation,""%(reference1)""]%(reference0)\_a"
+	
+	"\0\s[0]Successfully created %(_nar)."
+}
+
+OnNarLocation
+{	
+	_path = SPLITPATH(reference0)[0] + SPLITPATH(reference0)[1]
+	
+	"\![open,file,""%(_path)""]"
+}
+
+
+//—————————————————————————————— Network Update ——————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnUpdateBegin
+
+OnUpdateBegin
+{
+	"\0\s[0]Checking for updates.\w8"
+}
+
+//reference0 is the number of new files, starting from 0
+OnUpdateReady
+{
+	reference0++ //Number of files starts from 0, so this displays the correct amount
+	
+	//plural checks, adds an s and changes is to are if there's more than 1 file
+	_s = ""; _are = "is"
+	if reference0 != 1; {_s = "s"; _are = "are"}
+	
+	"\0\s[0]There %(_are) %(reference0) new file%(_s).\w8"
+}
+
+//When the update finishes. Don't forget to initialize any new variables you've created! I highly highly recommend using OnInitialize for this (it's in boot.dic), in case the user updates via the ghost explorer or some other means.
+//reference0 is 'none' if there were no new files to update with
+OnUpdateComplete
+{
+	if reference0 == "none"
+	{
+		"\0\s[0]There are no new files."
+	}
+	else
+	{
+		"\0\s[0]Update complete."
+	}
+}
+
+OnUpdateFailure
+{	
+	_file = SPLITPATH(reference1)[2] + SPLITPATH(reference1)[3] //For MD5 errors, this gets the name and extension of the offending file
+	_reason = reference0
+	case reference0
+	{
+		when "timeout"; _reason = "connection timed out"
+		when "md5 miss"; _reason = "MD5 error on file %(_file)\n\nPlease contact the ghost author for assistance"
+		when "artificial"; _reason = "canceled by user"
+	}
+	"\0\s[0]Could not update: %(_reason)."
+}
+
+
+//—————————————————————————————— SNTP (clock fixing) ——————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnSNTPBegin
+
+OnSNTPCompare
+{
+	if reference3 != 0
+	{
+		_s = ""; if reference3 != 1; _s = "s"
+		
+		"\0\s[0]The clock is off by %(reference3) second%(_s).\n\n"
+		--
+		"\![*]\q[Fix it,script:\6]  \![*]\q[Leave it,blank]"
+	}
+	else
+	{
+		"\0\s[0]The clock is accurate."
+	}
+}
+
+OnSNTPCorrect
+{
+	"\0\s[0]The clock has been corrected."
+}
+
+OnSNTPFailure
+{
+	"\0\s[0]Could not correct the clock."
+}
+
+
+//—————————————————————————————— BIFF (Email check) ———————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnBIFFBegin
+
+OnBIFFFailure
+{
+	_reason = reference0
+	case reference0
+	{
+		when "timeout"; _reason = "connection timed out"
+		when "kick"; _reason = "can't access account"
+		when "defect"; _reason = "POP settings incorrect"
+		when "artificial"; _reason = "canceled by user"
+	}
+
+	"\0\s[0]Could not get emails: %(_reason)."
+}
+
+
+//———————————————————————————————— Headlines/RSS ——————————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnHeadlinesenseBegin
+
+OnHeadlinesenseFailure
+{
+	_reason = reference0
+	case reference0
+	{
+		when "can't download"; _reason = "can't download the file"
+		when "can't analyze"; _reason = "can't analyze the file"
+	}
+
+	"\0\s[0]Could not get RSS: %(_reason)."
+}

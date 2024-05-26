@@ -1,0 +1,56 @@
+OnFirstBoot
+{
+	BlockGenerate.Setting = "Random"
+	"\![get,property,OnGetScopeCount,currentghost.scope.count]"
+	"\1\s[10]\0\s[0]Welcome to block builder 2000. Double-click the gear wheel to get started."
+}
+
+OnInitialize
+{
+	"\![get,property,OnGetScopeCount,currentghost.scope.count]"
+	"\![get,property,OnGetSurfaceList,currentghost.seriko.surfacelist.defined]"
+	//If you want some variables to reset on boot, put them here. This event will happen even if you add other events like OnGhostChanged
+	//OnInitialize is a NOTIFY event! That means it cannot return scripts. This event is only meant for things like variable changes. See this page on Ukadoc for more info: https://ukagakadreamteam.github.io/ukadoc/manual/spec_shiori3.html
+	
+	//If you add new variables in updates, I recommend initializing them like so:
+	//if !ISVAR("NewVariable"); NewVariable = 0
+	//This means that it will only set the new variable if the user doesn't already have it, so that their variables don't get overwritten
+	
+	if reference0 != "reload" //For things you want to reset EXCEPT when just reloading; a convenience for you the dev, basically
+	{
+		LastTalk = ""
+	}
+}
+
+OnGetSurfaceList : all {
+	LOGGING("defined surface list")
+	LOGGING(reference)
+	blockSurfaceList = SPLIT(reference,',')
+	"\![get,property,OnGetKeroID,currentghost.scope1.seriko.defaultsurface]"
+}
+
+OnGetKeroID : all {
+	LOGGING("kero default surface")
+	LOGGING(reference)
+	_temp = ASEARCH(reference,blockSurfaceList)
+	LOGGING(_temp)
+	blockSurfaceList[_temp] = IARRAY
+	LOGGING(blockSurfaceList)
+	//so the settings menu never comes up again lol
+}
+
+OnShellChanged : all {
+	"\1\s[10]\0\s[0]"
+	"\![get,property,OnGetScopeCount,currentghost.scope.count]"; --
+	"\![get,property,OnGetSurfaceList,currentghost.seriko.surfacelist.defined]"
+}
+
+OnBoot
+{
+	"\1\s[10]\0\s[0]"
+}
+
+OnClose
+{
+	"Shutting down.\x\-"
+}

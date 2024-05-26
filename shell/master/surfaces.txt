@@ -1,0 +1,154 @@
+descript
+{
+	version,1
+}
+
+//—————————————————————————————— Sakura surfaces ——————————————————————————————
+
+surface0
+{
+	element0,overlay,base/square.png,0,0
+	element1,overlay,outline/square.png,0,0
+}
+
+surface1
+{
+	element0,overlay,base/square_small.png,0,0
+	element1,overlay,outline/square_small.png,0,0
+}
+
+surface2
+{
+	element0,overlay,base/square_large.png,0,0
+	element1,overlay,outline/square_large.png,0,0
+}
+
+surface3
+{
+	element0,overlay,base/rectangle_horizontal.png,0,0
+	element1,overlay,outline/rectangle_horizontal.png,0,0
+}
+
+surface4
+{
+	element0,overlay,base/rectangle_verticle.png,0,0
+	element1,overlay,outline/rectangle_verticle.png,0,0
+}
+
+surface5
+{
+	element0,overlay,base/rectangle_small_horizontal.png,0,0
+	element1,overlay,outline/rectangle_small_horizontal.png,0,0
+}
+
+surface6
+{
+	element0,overlay,base/rectangle_small_verticle.png,0,0
+	element1,overlay,outline/rectangle_small_verticle.png,0,0
+}
+
+surface7
+{
+	element0,overlay,base/pole_horizontal.png,0,0
+	element1,overlay,outline/pole_horizontal.png,0,0
+}
+
+surface8
+{
+	element0,overlay,base/pole_verticle.png,0,0
+	element1,overlay,outline/pole_verticle.png,0,0
+}
+
+surface9
+{
+	element0,overlay,base/pole_half_verticle.png,0,0
+	element1,overlay,outline/pole_half_verticle.png,0,0
+}
+
+surface11
+{
+	element0,overlay,base/triangle.png,0,0
+	element1,overlay,outline/triangle.png,0,0
+}
+
+surface12
+{
+	element0,overlay,base/triangle_small.png,0,0
+	element1,overlay,outline/triangle_small.png,0,0
+}
+
+surface13
+{
+	element0,overlay,base/triangle_large.png,0,0
+	element1,overlay,outline/triangle_large.png,0,0
+}
+
+//arch time
+
+surface14
+{
+	element0,overlay,base/arch_left.png,0,0
+	element1,overlay,outline/arch_left.png,0,0
+}
+
+surface15
+{
+	element0,overlay,base/arch_right.png,0,0
+	element1,overlay,outline/arch_right.png,0,0
+}
+
+surface16
+{
+	element0,overlay,base/arch_long_left.png,0,0
+	element1,overlay,outline/arch_long_left.png,0,0
+}
+
+surface17
+{
+	element0,overlay,base/arch_long_right.png,0,0
+	element1,overlay,outline/arch_long_right.png,0,0
+}
+
+surface18
+{
+	element0,overlay,base/arch_small_left.png,0,0
+	element1,overlay,outline/arch_small_left.png,0,0
+}
+
+surface19
+{
+	element0,overlay,base/arch_small_right.png,0,0
+	element1,overlay,outline/arch_small_right.png,0,0
+}
+
+surface20
+{
+	element0,overlay,base/arch_small_long_left.png,0,0
+	element1,overlay,outline/arch_small_long_left.png,0,0
+}
+
+surface21
+{
+	element0,overlay,base/arch_small_long_right.png,0,0
+	element1,overlay,outline/arch_small_long_right.png,0,0
+}
+
+surface22
+{
+	element0,overlay,base/arch_large_left.png,0,0
+	element1,overlay,outline/arch_large_left.png,0,0
+}
+
+surface23
+{
+	element0,overlay,base/arch_large_right.png,0,0
+	element1,overlay,outline/arch_large_right.png,0,0
+}
+
+//—————————————————————————————— Kero surfaces ——————————————————————————————
+
+surface10
+{
+	//element0,overlay,base/square_small.png,0,0
+	//element1,overlay,outline/square_small.png,0,0
+}

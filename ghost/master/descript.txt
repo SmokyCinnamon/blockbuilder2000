@@ -1,0 +1,17 @@
+charset,UTF-8
+
+name,Block Builder 2000
+type,ghost
+
+shiori,yaya.dll
+
+craftman,SmokyCinnamonRoll
+craftmanw,SmokyCinnamonRoll
+craftmanurl,https://smokycinnamon.github.io/indifferentsorrel/index
+
+sakura.name,Blocks
+kero.name,Settings
+
+icon,icon.ico
+
+sstp.allowunspecifiedsend,0

@@ -1,0 +1,4264 @@
+charset,UTF-8
+type,shell
+
+name,Default
+craftman,SmokyCinnamonRoll
+craftmanw,SmokyCinnamonRoll
+craftmanurl,https://smokycinnamon.github.io/indifferentsorrel/index.html
+
+seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
+
+sakura.menu,auto
+char2.menu,auto
+char3.menu,auto
+char4.menu,auto
+char5.menu,auto
+char6.menu,auto
+char7.menu,auto
+char8.menu,auto
+char9.menu,auto
+char10.menu,auto
+char11.menu,auto
+char12.menu,auto
+char13.menu,auto
+char14.menu,auto
+char15.menu,auto
+char16.menu,auto
+char17.menu,auto
+char18.menu,auto
+char19.menu,auto
+char20.menu,auto
+char21.menu,auto
+char22.menu,auto
+char23.menu,auto
+char24.menu,auto
+char25.menu,auto
+char26.menu,auto
+char27.menu,auto
+char28.menu,auto
+char29.menu,auto
+char30.menu,auto
+char31.menu,auto
+char32.menu,auto
+char33.menu,auto
+char34.menu,auto
+char35.menu,auto
+char36.menu,auto
+char37.menu,auto
+char38.menu,auto
+char39.menu,auto
+char40.menu,auto
+char41.menu,auto
+char42.menu,auto
+char43.menu,auto
+char44.menu,auto
+char45.menu,auto
+char46.menu,auto
+char47.menu,auto
+char48.menu,auto
+char49.menu,auto
+char50.menu,auto
+
+
+//welcome to hell
+sakura.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+sakura.bindgroup0.default,0
+sakura.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+sakura.bindgroup1.default,0
+sakura.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+sakura.bindgroup2.default,0
+sakura.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+sakura.bindgroup3.default,0
+sakura.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+sakura.bindgroup4.default,0
+sakura.bindgroup5.name,Filling in the Gaps,01.png
+sakura.bindgroup5.default,0
+sakura.bindgroup6.name,Filling in the Gaps,02.png
+sakura.bindgroup6.default,0
+sakura.bindgroup7.name,Filling in the Gaps,03.png
+sakura.bindgroup7.default,0
+sakura.bindgroup8.name,Filling in the Gaps,04.png
+sakura.bindgroup8.default,0
+sakura.bindgroup9.name,foliage,01.png
+sakura.bindgroup9.default,0
+sakura.bindgroup10.name,foliage,02.png
+sakura.bindgroup10.default,0
+sakura.bindgroup11.name,foliage,03.png
+sakura.bindgroup11.default,0
+sakura.bindgroup12.name,foliage,04.png
+sakura.bindgroup12.default,0
+sakura.bindgroup13.name,foliage,05.png
+sakura.bindgroup13.default,0
+sakura.bindgroup14.name,Grasping at Glass,01.png
+sakura.bindgroup14.default,0
+sakura.bindgroup15.name,Grasping at Glass,02.png
+sakura.bindgroup15.default,0
+sakura.bindgroup16.name,Grasping at Glass,03.png
+sakura.bindgroup16.default,0
+sakura.bindgroup17.name,Grasping at Glass,04.png
+sakura.bindgroup17.default,0
+sakura.bindgroup18.name,Grasping at Glass,05.png
+sakura.bindgroup18.default,0
+sakura.bindgroup19.name,Hero of the Day,01.png
+sakura.bindgroup19.default,0
+sakura.bindgroup20.name,Hero of the Day,02.png
+sakura.bindgroup20.default,0
+sakura.bindgroup21.name,Hero of the Day,03.png
+sakura.bindgroup21.default,0
+sakura.bindgroup22.name,Hero of the Day,04.png
+sakura.bindgroup22.default,0
+sakura.bindgroup23.name,Hero of the Day,05.png
+sakura.bindgroup23.default,0
+sakura.bindgroup24.name,Hero of the Day,06.png
+sakura.bindgroup24.default,0
+sakura.bindgroup25.name,Lily Eater,01.png
+sakura.bindgroup25.default,0
+sakura.bindgroup26.name,Lily Eater,02.png
+sakura.bindgroup26.default,0
+sakura.bindgroup27.name,Lily Eater,03.png
+sakura.bindgroup27.default,0
+sakura.bindgroup28.name,Lily Eater,04.png
+sakura.bindgroup28.default,0
+sakura.bindgroup29.name,Lily Eater,05.png
+sakura.bindgroup29.default,0
+sakura.bindgroup30.name,Miss Daisys Vanity,01.png
+sakura.bindgroup30.default,0
+sakura.bindgroup31.name,Miss Daisys Vanity,02.png
+sakura.bindgroup31.default,0
+sakura.bindgroup32.name,Miss Daisys Vanity,03.png
+sakura.bindgroup32.default,0
+sakura.bindgroup33.name,Miss Daisys Vanity,04.png
+sakura.bindgroup33.default,0
+sakura.bindgroup34.name,Miss Daisys Vanity,05.png
+sakura.bindgroup34.default,0
+sakura.bindgroup35.name,space,little fish.png
+sakura.bindgroup35.default,0
+sakura.bindgroup36.name,space,miss daisys vanity.png
+sakura.bindgroup36.default,0
+sakura.bindgroup37.name,space,rainbowbeard.png
+sakura.bindgroup37.default,0
+sakura.bindgroup38.name,tender,01.png
+sakura.bindgroup38.default,0
+sakura.bindgroup39.name,tender,02.png
+sakura.bindgroup39.default,0
+sakura.bindgroup40.name,tender,03.png
+sakura.bindgroup40.default,0
+sakura.bindgroup41.name,tender,04.png
+sakura.bindgroup41.default,0
+char2.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char2.bindgroup0.default,0
+char2.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char2.bindgroup1.default,0
+char2.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char2.bindgroup2.default,0
+char2.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char2.bindgroup3.default,0
+char2.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char2.bindgroup4.default,0
+char2.bindgroup5.name,Filling in the Gaps,01.png
+char2.bindgroup5.default,0
+char2.bindgroup6.name,Filling in the Gaps,02.png
+char2.bindgroup6.default,0
+char2.bindgroup7.name,Filling in the Gaps,03.png
+char2.bindgroup7.default,0
+char2.bindgroup8.name,Filling in the Gaps,04.png
+char2.bindgroup8.default,0
+char2.bindgroup9.name,foliage,01.png
+char2.bindgroup9.default,0
+char2.bindgroup10.name,foliage,02.png
+char2.bindgroup10.default,0
+char2.bindgroup11.name,foliage,03.png
+char2.bindgroup11.default,0
+char2.bindgroup12.name,foliage,04.png
+char2.bindgroup12.default,0
+char2.bindgroup13.name,foliage,05.png
+char2.bindgroup13.default,0
+char2.bindgroup14.name,Grasping at Glass,01.png
+char2.bindgroup14.default,0
+char2.bindgroup15.name,Grasping at Glass,02.png
+char2.bindgroup15.default,0
+char2.bindgroup16.name,Grasping at Glass,03.png
+char2.bindgroup16.default,0
+char2.bindgroup17.name,Grasping at Glass,04.png
+char2.bindgroup17.default,0
+char2.bindgroup18.name,Grasping at Glass,05.png
+char2.bindgroup18.default,0
+char2.bindgroup19.name,Hero of the Day,01.png
+char2.bindgroup19.default,0
+char2.bindgroup20.name,Hero of the Day,02.png
+char2.bindgroup20.default,0
+char2.bindgroup21.name,Hero of the Day,03.png
+char2.bindgroup21.default,0
+char2.bindgroup22.name,Hero of the Day,04.png
+char2.bindgroup22.default,0
+char2.bindgroup23.name,Hero of the Day,05.png
+char2.bindgroup23.default,0
+char2.bindgroup24.name,Hero of the Day,06.png
+char2.bindgroup24.default,0
+char2.bindgroup25.name,Lily Eater,01.png
+char2.bindgroup25.default,0
+char2.bindgroup26.name,Lily Eater,02.png
+char2.bindgroup26.default,0
+char2.bindgroup27.name,Lily Eater,03.png
+char2.bindgroup27.default,0
+char2.bindgroup28.name,Lily Eater,04.png
+char2.bindgroup28.default,0
+char2.bindgroup29.name,Lily Eater,05.png
+char2.bindgroup29.default,0
+char2.bindgroup30.name,Miss Daisys Vanity,01.png
+char2.bindgroup30.default,0
+char2.bindgroup31.name,Miss Daisys Vanity,02.png
+char2.bindgroup31.default,0
+char2.bindgroup32.name,Miss Daisys Vanity,03.png
+char2.bindgroup32.default,0
+char2.bindgroup33.name,Miss Daisys Vanity,04.png
+char2.bindgroup33.default,0
+char2.bindgroup34.name,Miss Daisys Vanity,05.png
+char2.bindgroup34.default,0
+char2.bindgroup35.name,space,little fish.png
+char2.bindgroup35.default,0
+char2.bindgroup36.name,space,miss daisys vanity.png
+char2.bindgroup36.default,0
+char2.bindgroup37.name,space,rainbowbeard.png
+char2.bindgroup37.default,0
+char2.bindgroup38.name,tender,01.png
+char2.bindgroup38.default,0
+char2.bindgroup39.name,tender,02.png
+char2.bindgroup39.default,0
+char2.bindgroup40.name,tender,03.png
+char2.bindgroup40.default,0
+char2.bindgroup41.name,tender,04.png
+char2.bindgroup41.default,0
+char3.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char3.bindgroup0.default,0
+char3.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char3.bindgroup1.default,0
+char3.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char3.bindgroup2.default,0
+char3.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char3.bindgroup3.default,0
+char3.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char3.bindgroup4.default,0
+char3.bindgroup5.name,Filling in the Gaps,01.png
+char3.bindgroup5.default,0
+char3.bindgroup6.name,Filling in the Gaps,02.png
+char3.bindgroup6.default,0
+char3.bindgroup7.name,Filling in the Gaps,03.png
+char3.bindgroup7.default,0
+char3.bindgroup8.name,Filling in the Gaps,04.png
+char3.bindgroup8.default,0
+char3.bindgroup9.name,foliage,01.png
+char3.bindgroup9.default,0
+char3.bindgroup10.name,foliage,02.png
+char3.bindgroup10.default,0
+char3.bindgroup11.name,foliage,03.png
+char3.bindgroup11.default,0
+char3.bindgroup12.name,foliage,04.png
+char3.bindgroup12.default,0
+char3.bindgroup13.name,foliage,05.png
+char3.bindgroup13.default,0
+char3.bindgroup14.name,Grasping at Glass,01.png
+char3.bindgroup14.default,0
+char3.bindgroup15.name,Grasping at Glass,02.png
+char3.bindgroup15.default,0
+char3.bindgroup16.name,Grasping at Glass,03.png
+char3.bindgroup16.default,0
+char3.bindgroup17.name,Grasping at Glass,04.png
+char3.bindgroup17.default,0
+char3.bindgroup18.name,Grasping at Glass,05.png
+char3.bindgroup18.default,0
+char3.bindgroup19.name,Hero of the Day,01.png
+char3.bindgroup19.default,0
+char3.bindgroup20.name,Hero of the Day,02.png
+char3.bindgroup20.default,0
+char3.bindgroup21.name,Hero of the Day,03.png
+char3.bindgroup21.default,0
+char3.bindgroup22.name,Hero of the Day,04.png
+char3.bindgroup22.default,0
+char3.bindgroup23.name,Hero of the Day,05.png
+char3.bindgroup23.default,0
+char3.bindgroup24.name,Hero of the Day,06.png
+char3.bindgroup24.default,0
+char3.bindgroup25.name,Lily Eater,01.png
+char3.bindgroup25.default,0
+char3.bindgroup26.name,Lily Eater,02.png
+char3.bindgroup26.default,0
+char3.bindgroup27.name,Lily Eater,03.png
+char3.bindgroup27.default,0
+char3.bindgroup28.name,Lily Eater,04.png
+char3.bindgroup28.default,0
+char3.bindgroup29.name,Lily Eater,05.png
+char3.bindgroup29.default,0
+char3.bindgroup30.name,Miss Daisys Vanity,01.png
+char3.bindgroup30.default,0
+char3.bindgroup31.name,Miss Daisys Vanity,02.png
+char3.bindgroup31.default,0
+char3.bindgroup32.name,Miss Daisys Vanity,03.png
+char3.bindgroup32.default,0
+char3.bindgroup33.name,Miss Daisys Vanity,04.png
+char3.bindgroup33.default,0
+char3.bindgroup34.name,Miss Daisys Vanity,05.png
+char3.bindgroup34.default,0
+char3.bindgroup35.name,space,little fish.png
+char3.bindgroup35.default,0
+char3.bindgroup36.name,space,miss daisys vanity.png
+char3.bindgroup36.default,0
+char3.bindgroup37.name,space,rainbowbeard.png
+char3.bindgroup37.default,0
+char3.bindgroup38.name,tender,01.png
+char3.bindgroup38.default,0
+char3.bindgroup39.name,tender,02.png
+char3.bindgroup39.default,0
+char3.bindgroup40.name,tender,03.png
+char3.bindgroup40.default,0
+char3.bindgroup41.name,tender,04.png
+char3.bindgroup41.default,0
+char4.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char4.bindgroup0.default,0
+char4.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char4.bindgroup1.default,0
+char4.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char4.bindgroup2.default,0
+char4.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char4.bindgroup3.default,0
+char4.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char4.bindgroup4.default,0
+char4.bindgroup5.name,Filling in the Gaps,01.png
+char4.bindgroup5.default,0
+char4.bindgroup6.name,Filling in the Gaps,02.png
+char4.bindgroup6.default,0
+char4.bindgroup7.name,Filling in the Gaps,03.png
+char4.bindgroup7.default,0
+char4.bindgroup8.name,Filling in the Gaps,04.png
+char4.bindgroup8.default,0
+char4.bindgroup9.name,foliage,01.png
+char4.bindgroup9.default,0
+char4.bindgroup10.name,foliage,02.png
+char4.bindgroup10.default,0
+char4.bindgroup11.name,foliage,03.png
+char4.bindgroup11.default,0
+char4.bindgroup12.name,foliage,04.png
+char4.bindgroup12.default,0
+char4.bindgroup13.name,foliage,05.png
+char4.bindgroup13.default,0
+char4.bindgroup14.name,Grasping at Glass,01.png
+char4.bindgroup14.default,0
+char4.bindgroup15.name,Grasping at Glass,02.png
+char4.bindgroup15.default,0
+char4.bindgroup16.name,Grasping at Glass,03.png
+char4.bindgroup16.default,0
+char4.bindgroup17.name,Grasping at Glass,04.png
+char4.bindgroup17.default,0
+char4.bindgroup18.name,Grasping at Glass,05.png
+char4.bindgroup18.default,0
+char4.bindgroup19.name,Hero of the Day,01.png
+char4.bindgroup19.default,0
+char4.bindgroup20.name,Hero of the Day,02.png
+char4.bindgroup20.default,0
+char4.bindgroup21.name,Hero of the Day,03.png
+char4.bindgroup21.default,0
+char4.bindgroup22.name,Hero of the Day,04.png
+char4.bindgroup22.default,0
+char4.bindgroup23.name,Hero of the Day,05.png
+char4.bindgroup23.default,0
+char4.bindgroup24.name,Hero of the Day,06.png
+char4.bindgroup24.default,0
+char4.bindgroup25.name,Lily Eater,01.png
+char4.bindgroup25.default,0
+char4.bindgroup26.name,Lily Eater,02.png
+char4.bindgroup26.default,0
+char4.bindgroup27.name,Lily Eater,03.png
+char4.bindgroup27.default,0
+char4.bindgroup28.name,Lily Eater,04.png
+char4.bindgroup28.default,0
+char4.bindgroup29.name,Lily Eater,05.png
+char4.bindgroup29.default,0
+char4.bindgroup30.name,Miss Daisys Vanity,01.png
+char4.bindgroup30.default,0
+char4.bindgroup31.name,Miss Daisys Vanity,02.png
+char4.bindgroup31.default,0
+char4.bindgroup32.name,Miss Daisys Vanity,03.png
+char4.bindgroup32.default,0
+char4.bindgroup33.name,Miss Daisys Vanity,04.png
+char4.bindgroup33.default,0
+char4.bindgroup34.name,Miss Daisys Vanity,05.png
+char4.bindgroup34.default,0
+char4.bindgroup35.name,space,little fish.png
+char4.bindgroup35.default,0
+char4.bindgroup36.name,space,miss daisys vanity.png
+char4.bindgroup36.default,0
+char4.bindgroup37.name,space,rainbowbeard.png
+char4.bindgroup37.default,0
+char4.bindgroup38.name,tender,01.png
+char4.bindgroup38.default,0
+char4.bindgroup39.name,tender,02.png
+char4.bindgroup39.default,0
+char4.bindgroup40.name,tender,03.png
+char4.bindgroup40.default,0
+char4.bindgroup41.name,tender,04.png
+char4.bindgroup41.default,0
+char5.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char5.bindgroup0.default,0
+char5.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char5.bindgroup1.default,0
+char5.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char5.bindgroup2.default,0
+char5.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char5.bindgroup3.default,0
+char5.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char5.bindgroup4.default,0
+char5.bindgroup5.name,Filling in the Gaps,01.png
+char5.bindgroup5.default,0
+char5.bindgroup6.name,Filling in the Gaps,02.png
+char5.bindgroup6.default,0
+char5.bindgroup7.name,Filling in the Gaps,03.png
+char5.bindgroup7.default,0
+char5.bindgroup8.name,Filling in the Gaps,04.png
+char5.bindgroup8.default,0
+char5.bindgroup9.name,foliage,01.png
+char5.bindgroup9.default,0
+char5.bindgroup10.name,foliage,02.png
+char5.bindgroup10.default,0
+char5.bindgroup11.name,foliage,03.png
+char5.bindgroup11.default,0
+char5.bindgroup12.name,foliage,04.png
+char5.bindgroup12.default,0
+char5.bindgroup13.name,foliage,05.png
+char5.bindgroup13.default,0
+char5.bindgroup14.name,Grasping at Glass,01.png
+char5.bindgroup14.default,0
+char5.bindgroup15.name,Grasping at Glass,02.png
+char5.bindgroup15.default,0
+char5.bindgroup16.name,Grasping at Glass,03.png
+char5.bindgroup16.default,0
+char5.bindgroup17.name,Grasping at Glass,04.png
+char5.bindgroup17.default,0
+char5.bindgroup18.name,Grasping at Glass,05.png
+char5.bindgroup18.default,0
+char5.bindgroup19.name,Hero of the Day,01.png
+char5.bindgroup19.default,0
+char5.bindgroup20.name,Hero of the Day,02.png
+char5.bindgroup20.default,0
+char5.bindgroup21.name,Hero of the Day,03.png
+char5.bindgroup21.default,0
+char5.bindgroup22.name,Hero of the Day,04.png
+char5.bindgroup22.default,0
+char5.bindgroup23.name,Hero of the Day,05.png
+char5.bindgroup23.default,0
+char5.bindgroup24.name,Hero of the Day,06.png
+char5.bindgroup24.default,0
+char5.bindgroup25.name,Lily Eater,01.png
+char5.bindgroup25.default,0
+char5.bindgroup26.name,Lily Eater,02.png
+char5.bindgroup26.default,0
+char5.bindgroup27.name,Lily Eater,03.png
+char5.bindgroup27.default,0
+char5.bindgroup28.name,Lily Eater,04.png
+char5.bindgroup28.default,0
+char5.bindgroup29.name,Lily Eater,05.png
+char5.bindgroup29.default,0
+char5.bindgroup30.name,Miss Daisys Vanity,01.png
+char5.bindgroup30.default,0
+char5.bindgroup31.name,Miss Daisys Vanity,02.png
+char5.bindgroup31.default,0
+char5.bindgroup32.name,Miss Daisys Vanity,03.png
+char5.bindgroup32.default,0
+char5.bindgroup33.name,Miss Daisys Vanity,04.png
+char5.bindgroup33.default,0
+char5.bindgroup34.name,Miss Daisys Vanity,05.png
+char5.bindgroup34.default,0
+char5.bindgroup35.name,space,little fish.png
+char5.bindgroup35.default,0
+char5.bindgroup36.name,space,miss daisys vanity.png
+char5.bindgroup36.default,0
+char5.bindgroup37.name,space,rainbowbeard.png
+char5.bindgroup37.default,0
+char5.bindgroup38.name,tender,01.png
+char5.bindgroup38.default,0
+char5.bindgroup39.name,tender,02.png
+char5.bindgroup39.default,0
+char5.bindgroup40.name,tender,03.png
+char5.bindgroup40.default,0
+char5.bindgroup41.name,tender,04.png
+char5.bindgroup41.default,0
+char6.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char6.bindgroup0.default,0
+char6.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char6.bindgroup1.default,0
+char6.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char6.bindgroup2.default,0
+char6.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char6.bindgroup3.default,0
+char6.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char6.bindgroup4.default,0
+char6.bindgroup5.name,Filling in the Gaps,01.png
+char6.bindgroup5.default,0
+char6.bindgroup6.name,Filling in the Gaps,02.png
+char6.bindgroup6.default,0
+char6.bindgroup7.name,Filling in the Gaps,03.png
+char6.bindgroup7.default,0
+char6.bindgroup8.name,Filling in the Gaps,04.png
+char6.bindgroup8.default,0
+char6.bindgroup9.name,foliage,01.png
+char6.bindgroup9.default,0
+char6.bindgroup10.name,foliage,02.png
+char6.bindgroup10.default,0
+char6.bindgroup11.name,foliage,03.png
+char6.bindgroup11.default,0
+char6.bindgroup12.name,foliage,04.png
+char6.bindgroup12.default,0
+char6.bindgroup13.name,foliage,05.png
+char6.bindgroup13.default,0
+char6.bindgroup14.name,Grasping at Glass,01.png
+char6.bindgroup14.default,0
+char6.bindgroup15.name,Grasping at Glass,02.png
+char6.bindgroup15.default,0
+char6.bindgroup16.name,Grasping at Glass,03.png
+char6.bindgroup16.default,0
+char6.bindgroup17.name,Grasping at Glass,04.png
+char6.bindgroup17.default,0
+char6.bindgroup18.name,Grasping at Glass,05.png
+char6.bindgroup18.default,0
+char6.bindgroup19.name,Hero of the Day,01.png
+char6.bindgroup19.default,0
+char6.bindgroup20.name,Hero of the Day,02.png
+char6.bindgroup20.default,0
+char6.bindgroup21.name,Hero of the Day,03.png
+char6.bindgroup21.default,0
+char6.bindgroup22.name,Hero of the Day,04.png
+char6.bindgroup22.default,0
+char6.bindgroup23.name,Hero of the Day,05.png
+char6.bindgroup23.default,0
+char6.bindgroup24.name,Hero of the Day,06.png
+char6.bindgroup24.default,0
+char6.bindgroup25.name,Lily Eater,01.png
+char6.bindgroup25.default,0
+char6.bindgroup26.name,Lily Eater,02.png
+char6.bindgroup26.default,0
+char6.bindgroup27.name,Lily Eater,03.png
+char6.bindgroup27.default,0
+char6.bindgroup28.name,Lily Eater,04.png
+char6.bindgroup28.default,0
+char6.bindgroup29.name,Lily Eater,05.png
+char6.bindgroup29.default,0
+char6.bindgroup30.name,Miss Daisys Vanity,01.png
+char6.bindgroup30.default,0
+char6.bindgroup31.name,Miss Daisys Vanity,02.png
+char6.bindgroup31.default,0
+char6.bindgroup32.name,Miss Daisys Vanity,03.png
+char6.bindgroup32.default,0
+char6.bindgroup33.name,Miss Daisys Vanity,04.png
+char6.bindgroup33.default,0
+char6.bindgroup34.name,Miss Daisys Vanity,05.png
+char6.bindgroup34.default,0
+char6.bindgroup35.name,space,little fish.png
+char6.bindgroup35.default,0
+char6.bindgroup36.name,space,miss daisys vanity.png
+char6.bindgroup36.default,0
+char6.bindgroup37.name,space,rainbowbeard.png
+char6.bindgroup37.default,0
+char6.bindgroup38.name,tender,01.png
+char6.bindgroup38.default,0
+char6.bindgroup39.name,tender,02.png
+char6.bindgroup39.default,0
+char6.bindgroup40.name,tender,03.png
+char6.bindgroup40.default,0
+char6.bindgroup41.name,tender,04.png
+char6.bindgroup41.default,0
+char7.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char7.bindgroup0.default,0
+char7.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char7.bindgroup1.default,0
+char7.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char7.bindgroup2.default,0
+char7.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char7.bindgroup3.default,0
+char7.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char7.bindgroup4.default,0
+char7.bindgroup5.name,Filling in the Gaps,01.png
+char7.bindgroup5.default,0
+char7.bindgroup6.name,Filling in the Gaps,02.png
+char7.bindgroup6.default,0
+char7.bindgroup7.name,Filling in the Gaps,03.png
+char7.bindgroup7.default,0
+char7.bindgroup8.name,Filling in the Gaps,04.png
+char7.bindgroup8.default,0
+char7.bindgroup9.name,foliage,01.png
+char7.bindgroup9.default,0
+char7.bindgroup10.name,foliage,02.png
+char7.bindgroup10.default,0
+char7.bindgroup11.name,foliage,03.png
+char7.bindgroup11.default,0
+char7.bindgroup12.name,foliage,04.png
+char7.bindgroup12.default,0
+char7.bindgroup13.name,foliage,05.png
+char7.bindgroup13.default,0
+char7.bindgroup14.name,Grasping at Glass,01.png
+char7.bindgroup14.default,0
+char7.bindgroup15.name,Grasping at Glass,02.png
+char7.bindgroup15.default,0
+char7.bindgroup16.name,Grasping at Glass,03.png
+char7.bindgroup16.default,0
+char7.bindgroup17.name,Grasping at Glass,04.png
+char7.bindgroup17.default,0
+char7.bindgroup18.name,Grasping at Glass,05.png
+char7.bindgroup18.default,0
+char7.bindgroup19.name,Hero of the Day,01.png
+char7.bindgroup19.default,0
+char7.bindgroup20.name,Hero of the Day,02.png
+char7.bindgroup20.default,0
+char7.bindgroup21.name,Hero of the Day,03.png
+char7.bindgroup21.default,0
+char7.bindgroup22.name,Hero of the Day,04.png
+char7.bindgroup22.default,0
+char7.bindgroup23.name,Hero of the Day,05.png
+char7.bindgroup23.default,0
+char7.bindgroup24.name,Hero of the Day,06.png
+char7.bindgroup24.default,0
+char7.bindgroup25.name,Lily Eater,01.png
+char7.bindgroup25.default,0
+char7.bindgroup26.name,Lily Eater,02.png
+char7.bindgroup26.default,0
+char7.bindgroup27.name,Lily Eater,03.png
+char7.bindgroup27.default,0
+char7.bindgroup28.name,Lily Eater,04.png
+char7.bindgroup28.default,0
+char7.bindgroup29.name,Lily Eater,05.png
+char7.bindgroup29.default,0
+char7.bindgroup30.name,Miss Daisys Vanity,01.png
+char7.bindgroup30.default,0
+char7.bindgroup31.name,Miss Daisys Vanity,02.png
+char7.bindgroup31.default,0
+char7.bindgroup32.name,Miss Daisys Vanity,03.png
+char7.bindgroup32.default,0
+char7.bindgroup33.name,Miss Daisys Vanity,04.png
+char7.bindgroup33.default,0
+char7.bindgroup34.name,Miss Daisys Vanity,05.png
+char7.bindgroup34.default,0
+char7.bindgroup35.name,space,little fish.png
+char7.bindgroup35.default,0
+char7.bindgroup36.name,space,miss daisys vanity.png
+char7.bindgroup36.default,0
+char7.bindgroup37.name,space,rainbowbeard.png
+char7.bindgroup37.default,0
+char7.bindgroup38.name,tender,01.png
+char7.bindgroup38.default,0
+char7.bindgroup39.name,tender,02.png
+char7.bindgroup39.default,0
+char7.bindgroup40.name,tender,03.png
+char7.bindgroup40.default,0
+char7.bindgroup41.name,tender,04.png
+char7.bindgroup41.default,0
+char8.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char8.bindgroup0.default,0
+char8.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char8.bindgroup1.default,0
+char8.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char8.bindgroup2.default,0
+char8.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char8.bindgroup3.default,0
+char8.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char8.bindgroup4.default,0
+char8.bindgroup5.name,Filling in the Gaps,01.png
+char8.bindgroup5.default,0
+char8.bindgroup6.name,Filling in the Gaps,02.png
+char8.bindgroup6.default,0
+char8.bindgroup7.name,Filling in the Gaps,03.png
+char8.bindgroup7.default,0
+char8.bindgroup8.name,Filling in the Gaps,04.png
+char8.bindgroup8.default,0
+char8.bindgroup9.name,foliage,01.png
+char8.bindgroup9.default,0
+char8.bindgroup10.name,foliage,02.png
+char8.bindgroup10.default,0
+char8.bindgroup11.name,foliage,03.png
+char8.bindgroup11.default,0
+char8.bindgroup12.name,foliage,04.png
+char8.bindgroup12.default,0
+char8.bindgroup13.name,foliage,05.png
+char8.bindgroup13.default,0
+char8.bindgroup14.name,Grasping at Glass,01.png
+char8.bindgroup14.default,0
+char8.bindgroup15.name,Grasping at Glass,02.png
+char8.bindgroup15.default,0
+char8.bindgroup16.name,Grasping at Glass,03.png
+char8.bindgroup16.default,0
+char8.bindgroup17.name,Grasping at Glass,04.png
+char8.bindgroup17.default,0
+char8.bindgroup18.name,Grasping at Glass,05.png
+char8.bindgroup18.default,0
+char8.bindgroup19.name,Hero of the Day,01.png
+char8.bindgroup19.default,0
+char8.bindgroup20.name,Hero of the Day,02.png
+char8.bindgroup20.default,0
+char8.bindgroup21.name,Hero of the Day,03.png
+char8.bindgroup21.default,0
+char8.bindgroup22.name,Hero of the Day,04.png
+char8.bindgroup22.default,0
+char8.bindgroup23.name,Hero of the Day,05.png
+char8.bindgroup23.default,0
+char8.bindgroup24.name,Hero of the Day,06.png
+char8.bindgroup24.default,0
+char8.bindgroup25.name,Lily Eater,01.png
+char8.bindgroup25.default,0
+char8.bindgroup26.name,Lily Eater,02.png
+char8.bindgroup26.default,0
+char8.bindgroup27.name,Lily Eater,03.png
+char8.bindgroup27.default,0
+char8.bindgroup28.name,Lily Eater,04.png
+char8.bindgroup28.default,0
+char8.bindgroup29.name,Lily Eater,05.png
+char8.bindgroup29.default,0
+char8.bindgroup30.name,Miss Daisys Vanity,01.png
+char8.bindgroup30.default,0
+char8.bindgroup31.name,Miss Daisys Vanity,02.png
+char8.bindgroup31.default,0
+char8.bindgroup32.name,Miss Daisys Vanity,03.png
+char8.bindgroup32.default,0
+char8.bindgroup33.name,Miss Daisys Vanity,04.png
+char8.bindgroup33.default,0
+char8.bindgroup34.name,Miss Daisys Vanity,05.png
+char8.bindgroup34.default,0
+char8.bindgroup35.name,space,little fish.png
+char8.bindgroup35.default,0
+char8.bindgroup36.name,space,miss daisys vanity.png
+char8.bindgroup36.default,0
+char8.bindgroup37.name,space,rainbowbeard.png
+char8.bindgroup37.default,0
+char8.bindgroup38.name,tender,01.png
+char8.bindgroup38.default,0
+char8.bindgroup39.name,tender,02.png
+char8.bindgroup39.default,0
+char8.bindgroup40.name,tender,03.png
+char8.bindgroup40.default,0
+char8.bindgroup41.name,tender,04.png
+char8.bindgroup41.default,0
+char9.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char9.bindgroup0.default,0
+char9.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char9.bindgroup1.default,0
+char9.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char9.bindgroup2.default,0
+char9.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char9.bindgroup3.default,0
+char9.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char9.bindgroup4.default,0
+char9.bindgroup5.name,Filling in the Gaps,01.png
+char9.bindgroup5.default,0
+char9.bindgroup6.name,Filling in the Gaps,02.png
+char9.bindgroup6.default,0
+char9.bindgroup7.name,Filling in the Gaps,03.png
+char9.bindgroup7.default,0
+char9.bindgroup8.name,Filling in the Gaps,04.png
+char9.bindgroup8.default,0
+char9.bindgroup9.name,foliage,01.png
+char9.bindgroup9.default,0
+char9.bindgroup10.name,foliage,02.png
+char9.bindgroup10.default,0
+char9.bindgroup11.name,foliage,03.png
+char9.bindgroup11.default,0
+char9.bindgroup12.name,foliage,04.png
+char9.bindgroup12.default,0
+char9.bindgroup13.name,foliage,05.png
+char9.bindgroup13.default,0
+char9.bindgroup14.name,Grasping at Glass,01.png
+char9.bindgroup14.default,0
+char9.bindgroup15.name,Grasping at Glass,02.png
+char9.bindgroup15.default,0
+char9.bindgroup16.name,Grasping at Glass,03.png
+char9.bindgroup16.default,0
+char9.bindgroup17.name,Grasping at Glass,04.png
+char9.bindgroup17.default,0
+char9.bindgroup18.name,Grasping at Glass,05.png
+char9.bindgroup18.default,0
+char9.bindgroup19.name,Hero of the Day,01.png
+char9.bindgroup19.default,0
+char9.bindgroup20.name,Hero of the Day,02.png
+char9.bindgroup20.default,0
+char9.bindgroup21.name,Hero of the Day,03.png
+char9.bindgroup21.default,0
+char9.bindgroup22.name,Hero of the Day,04.png
+char9.bindgroup22.default,0
+char9.bindgroup23.name,Hero of the Day,05.png
+char9.bindgroup23.default,0
+char9.bindgroup24.name,Hero of the Day,06.png
+char9.bindgroup24.default,0
+char9.bindgroup25.name,Lily Eater,01.png
+char9.bindgroup25.default,0
+char9.bindgroup26.name,Lily Eater,02.png
+char9.bindgroup26.default,0
+char9.bindgroup27.name,Lily Eater,03.png
+char9.bindgroup27.default,0
+char9.bindgroup28.name,Lily Eater,04.png
+char9.bindgroup28.default,0
+char9.bindgroup29.name,Lily Eater,05.png
+char9.bindgroup29.default,0
+char9.bindgroup30.name,Miss Daisys Vanity,01.png
+char9.bindgroup30.default,0
+char9.bindgroup31.name,Miss Daisys Vanity,02.png
+char9.bindgroup31.default,0
+char9.bindgroup32.name,Miss Daisys Vanity,03.png
+char9.bindgroup32.default,0
+char9.bindgroup33.name,Miss Daisys Vanity,04.png
+char9.bindgroup33.default,0
+char9.bindgroup34.name,Miss Daisys Vanity,05.png
+char9.bindgroup34.default,0
+char9.bindgroup35.name,space,little fish.png
+char9.bindgroup35.default,0
+char9.bindgroup36.name,space,miss daisys vanity.png
+char9.bindgroup36.default,0
+char9.bindgroup37.name,space,rainbowbeard.png
+char9.bindgroup37.default,0
+char9.bindgroup38.name,tender,01.png
+char9.bindgroup38.default,0
+char9.bindgroup39.name,tender,02.png
+char9.bindgroup39.default,0
+char9.bindgroup40.name,tender,03.png
+char9.bindgroup40.default,0
+char9.bindgroup41.name,tender,04.png
+char9.bindgroup41.default,0
+char10.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char10.bindgroup0.default,0
+char10.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char10.bindgroup1.default,0
+char10.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char10.bindgroup2.default,0
+char10.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char10.bindgroup3.default,0
+char10.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char10.bindgroup4.default,0
+char10.bindgroup5.name,Filling in the Gaps,01.png
+char10.bindgroup5.default,0
+char10.bindgroup6.name,Filling in the Gaps,02.png
+char10.bindgroup6.default,0
+char10.bindgroup7.name,Filling in the Gaps,03.png
+char10.bindgroup7.default,0
+char10.bindgroup8.name,Filling in the Gaps,04.png
+char10.bindgroup8.default,0
+char10.bindgroup9.name,foliage,01.png
+char10.bindgroup9.default,0
+char10.bindgroup10.name,foliage,02.png
+char10.bindgroup10.default,0
+char10.bindgroup11.name,foliage,03.png
+char10.bindgroup11.default,0
+char10.bindgroup12.name,foliage,04.png
+char10.bindgroup12.default,0
+char10.bindgroup13.name,foliage,05.png
+char10.bindgroup13.default,0
+char10.bindgroup14.name,Grasping at Glass,01.png
+char10.bindgroup14.default,0
+char10.bindgroup15.name,Grasping at Glass,02.png
+char10.bindgroup15.default,0
+char10.bindgroup16.name,Grasping at Glass,03.png
+char10.bindgroup16.default,0
+char10.bindgroup17.name,Grasping at Glass,04.png
+char10.bindgroup17.default,0
+char10.bindgroup18.name,Grasping at Glass,05.png
+char10.bindgroup18.default,0
+char10.bindgroup19.name,Hero of the Day,01.png
+char10.bindgroup19.default,0
+char10.bindgroup20.name,Hero of the Day,02.png
+char10.bindgroup20.default,0
+char10.bindgroup21.name,Hero of the Day,03.png
+char10.bindgroup21.default,0
+char10.bindgroup22.name,Hero of the Day,04.png
+char10.bindgroup22.default,0
+char10.bindgroup23.name,Hero of the Day,05.png
+char10.bindgroup23.default,0
+char10.bindgroup24.name,Hero of the Day,06.png
+char10.bindgroup24.default,0
+char10.bindgroup25.name,Lily Eater,01.png
+char10.bindgroup25.default,0
+char10.bindgroup26.name,Lily Eater,02.png
+char10.bindgroup26.default,0
+char10.bindgroup27.name,Lily Eater,03.png
+char10.bindgroup27.default,0
+char10.bindgroup28.name,Lily Eater,04.png
+char10.bindgroup28.default,0
+char10.bindgroup29.name,Lily Eater,05.png
+char10.bindgroup29.default,0
+char10.bindgroup30.name,Miss Daisys Vanity,01.png
+char10.bindgroup30.default,0
+char10.bindgroup31.name,Miss Daisys Vanity,02.png
+char10.bindgroup31.default,0
+char10.bindgroup32.name,Miss Daisys Vanity,03.png
+char10.bindgroup32.default,0
+char10.bindgroup33.name,Miss Daisys Vanity,04.png
+char10.bindgroup33.default,0
+char10.bindgroup34.name,Miss Daisys Vanity,05.png
+char10.bindgroup34.default,0
+char10.bindgroup35.name,space,little fish.png
+char10.bindgroup35.default,0
+char10.bindgroup36.name,space,miss daisys vanity.png
+char10.bindgroup36.default,0
+char10.bindgroup37.name,space,rainbowbeard.png
+char10.bindgroup37.default,0
+char10.bindgroup38.name,tender,01.png
+char10.bindgroup38.default,0
+char10.bindgroup39.name,tender,02.png
+char10.bindgroup39.default,0
+char10.bindgroup40.name,tender,03.png
+char10.bindgroup40.default,0
+char10.bindgroup41.name,tender,04.png
+char10.bindgroup41.default,0
+char11.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char11.bindgroup0.default,0
+char11.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char11.bindgroup1.default,0
+char11.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char11.bindgroup2.default,0
+char11.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char11.bindgroup3.default,0
+char11.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char11.bindgroup4.default,0
+char11.bindgroup5.name,Filling in the Gaps,01.png
+char11.bindgroup5.default,0
+char11.bindgroup6.name,Filling in the Gaps,02.png
+char11.bindgroup6.default,0
+char11.bindgroup7.name,Filling in the Gaps,03.png
+char11.bindgroup7.default,0
+char11.bindgroup8.name,Filling in the Gaps,04.png
+char11.bindgroup8.default,0
+char11.bindgroup9.name,foliage,01.png
+char11.bindgroup9.default,0
+char11.bindgroup10.name,foliage,02.png
+char11.bindgroup10.default,0
+char11.bindgroup11.name,foliage,03.png
+char11.bindgroup11.default,0
+char11.bindgroup12.name,foliage,04.png
+char11.bindgroup12.default,0
+char11.bindgroup13.name,foliage,05.png
+char11.bindgroup13.default,0
+char11.bindgroup14.name,Grasping at Glass,01.png
+char11.bindgroup14.default,0
+char11.bindgroup15.name,Grasping at Glass,02.png
+char11.bindgroup15.default,0
+char11.bindgroup16.name,Grasping at Glass,03.png
+char11.bindgroup16.default,0
+char11.bindgroup17.name,Grasping at Glass,04.png
+char11.bindgroup17.default,0
+char11.bindgroup18.name,Grasping at Glass,05.png
+char11.bindgroup18.default,0
+char11.bindgroup19.name,Hero of the Day,01.png
+char11.bindgroup19.default,0
+char11.bindgroup20.name,Hero of the Day,02.png
+char11.bindgroup20.default,0
+char11.bindgroup21.name,Hero of the Day,03.png
+char11.bindgroup21.default,0
+char11.bindgroup22.name,Hero of the Day,04.png
+char11.bindgroup22.default,0
+char11.bindgroup23.name,Hero of the Day,05.png
+char11.bindgroup23.default,0
+char11.bindgroup24.name,Hero of the Day,06.png
+char11.bindgroup24.default,0
+char11.bindgroup25.name,Lily Eater,01.png
+char11.bindgroup25.default,0
+char11.bindgroup26.name,Lily Eater,02.png
+char11.bindgroup26.default,0
+char11.bindgroup27.name,Lily Eater,03.png
+char11.bindgroup27.default,0
+char11.bindgroup28.name,Lily Eater,04.png
+char11.bindgroup28.default,0
+char11.bindgroup29.name,Lily Eater,05.png
+char11.bindgroup29.default,0
+char11.bindgroup30.name,Miss Daisys Vanity,01.png
+char11.bindgroup30.default,0
+char11.bindgroup31.name,Miss Daisys Vanity,02.png
+char11.bindgroup31.default,0
+char11.bindgroup32.name,Miss Daisys Vanity,03.png
+char11.bindgroup32.default,0
+char11.bindgroup33.name,Miss Daisys Vanity,04.png
+char11.bindgroup33.default,0
+char11.bindgroup34.name,Miss Daisys Vanity,05.png
+char11.bindgroup34.default,0
+char11.bindgroup35.name,space,little fish.png
+char11.bindgroup35.default,0
+char11.bindgroup36.name,space,miss daisys vanity.png
+char11.bindgroup36.default,0
+char11.bindgroup37.name,space,rainbowbeard.png
+char11.bindgroup37.default,0
+char11.bindgroup38.name,tender,01.png
+char11.bindgroup38.default,0
+char11.bindgroup39.name,tender,02.png
+char11.bindgroup39.default,0
+char11.bindgroup40.name,tender,03.png
+char11.bindgroup40.default,0
+char11.bindgroup41.name,tender,04.png
+char11.bindgroup41.default,0
+char12.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char12.bindgroup0.default,0
+char12.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char12.bindgroup1.default,0
+char12.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char12.bindgroup2.default,0
+char12.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char12.bindgroup3.default,0
+char12.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char12.bindgroup4.default,0
+char12.bindgroup5.name,Filling in the Gaps,01.png
+char12.bindgroup5.default,0
+char12.bindgroup6.name,Filling in the Gaps,02.png
+char12.bindgroup6.default,0
+char12.bindgroup7.name,Filling in the Gaps,03.png
+char12.bindgroup7.default,0
+char12.bindgroup8.name,Filling in the Gaps,04.png
+char12.bindgroup8.default,0
+char12.bindgroup9.name,foliage,01.png
+char12.bindgroup9.default,0
+char12.bindgroup10.name,foliage,02.png
+char12.bindgroup10.default,0
+char12.bindgroup11.name,foliage,03.png
+char12.bindgroup11.default,0
+char12.bindgroup12.name,foliage,04.png
+char12.bindgroup12.default,0
+char12.bindgroup13.name,foliage,05.png
+char12.bindgroup13.default,0
+char12.bindgroup14.name,Grasping at Glass,01.png
+char12.bindgroup14.default,0
+char12.bindgroup15.name,Grasping at Glass,02.png
+char12.bindgroup15.default,0
+char12.bindgroup16.name,Grasping at Glass,03.png
+char12.bindgroup16.default,0
+char12.bindgroup17.name,Grasping at Glass,04.png
+char12.bindgroup17.default,0
+char12.bindgroup18.name,Grasping at Glass,05.png
+char12.bindgroup18.default,0
+char12.bindgroup19.name,Hero of the Day,01.png
+char12.bindgroup19.default,0
+char12.bindgroup20.name,Hero of the Day,02.png
+char12.bindgroup20.default,0
+char12.bindgroup21.name,Hero of the Day,03.png
+char12.bindgroup21.default,0
+char12.bindgroup22.name,Hero of the Day,04.png
+char12.bindgroup22.default,0
+char12.bindgroup23.name,Hero of the Day,05.png
+char12.bindgroup23.default,0
+char12.bindgroup24.name,Hero of the Day,06.png
+char12.bindgroup24.default,0
+char12.bindgroup25.name,Lily Eater,01.png
+char12.bindgroup25.default,0
+char12.bindgroup26.name,Lily Eater,02.png
+char12.bindgroup26.default,0
+char12.bindgroup27.name,Lily Eater,03.png
+char12.bindgroup27.default,0
+char12.bindgroup28.name,Lily Eater,04.png
+char12.bindgroup28.default,0
+char12.bindgroup29.name,Lily Eater,05.png
+char12.bindgroup29.default,0
+char12.bindgroup30.name,Miss Daisys Vanity,01.png
+char12.bindgroup30.default,0
+char12.bindgroup31.name,Miss Daisys Vanity,02.png
+char12.bindgroup31.default,0
+char12.bindgroup32.name,Miss Daisys Vanity,03.png
+char12.bindgroup32.default,0
+char12.bindgroup33.name,Miss Daisys Vanity,04.png
+char12.bindgroup33.default,0
+char12.bindgroup34.name,Miss Daisys Vanity,05.png
+char12.bindgroup34.default,0
+char12.bindgroup35.name,space,little fish.png
+char12.bindgroup35.default,0
+char12.bindgroup36.name,space,miss daisys vanity.png
+char12.bindgroup36.default,0
+char12.bindgroup37.name,space,rainbowbeard.png
+char12.bindgroup37.default,0
+char12.bindgroup38.name,tender,01.png
+char12.bindgroup38.default,0
+char12.bindgroup39.name,tender,02.png
+char12.bindgroup39.default,0
+char12.bindgroup40.name,tender,03.png
+char12.bindgroup40.default,0
+char12.bindgroup41.name,tender,04.png
+char12.bindgroup41.default,0
+char13.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char13.bindgroup0.default,0
+char13.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char13.bindgroup1.default,0
+char13.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char13.bindgroup2.default,0
+char13.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char13.bindgroup3.default,0
+char13.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char13.bindgroup4.default,0
+char13.bindgroup5.name,Filling in the Gaps,01.png
+char13.bindgroup5.default,0
+char13.bindgroup6.name,Filling in the Gaps,02.png
+char13.bindgroup6.default,0
+char13.bindgroup7.name,Filling in the Gaps,03.png
+char13.bindgroup7.default,0
+char13.bindgroup8.name,Filling in the Gaps,04.png
+char13.bindgroup8.default,0
+char13.bindgroup9.name,foliage,01.png
+char13.bindgroup9.default,0
+char13.bindgroup10.name,foliage,02.png
+char13.bindgroup10.default,0
+char13.bindgroup11.name,foliage,03.png
+char13.bindgroup11.default,0
+char13.bindgroup12.name,foliage,04.png
+char13.bindgroup12.default,0
+char13.bindgroup13.name,foliage,05.png
+char13.bindgroup13.default,0
+char13.bindgroup14.name,Grasping at Glass,01.png
+char13.bindgroup14.default,0
+char13.bindgroup15.name,Grasping at Glass,02.png
+char13.bindgroup15.default,0
+char13.bindgroup16.name,Grasping at Glass,03.png
+char13.bindgroup16.default,0
+char13.bindgroup17.name,Grasping at Glass,04.png
+char13.bindgroup17.default,0
+char13.bindgroup18.name,Grasping at Glass,05.png
+char13.bindgroup18.default,0
+char13.bindgroup19.name,Hero of the Day,01.png
+char13.bindgroup19.default,0
+char13.bindgroup20.name,Hero of the Day,02.png
+char13.bindgroup20.default,0
+char13.bindgroup21.name,Hero of the Day,03.png
+char13.bindgroup21.default,0
+char13.bindgroup22.name,Hero of the Day,04.png
+char13.bindgroup22.default,0
+char13.bindgroup23.name,Hero of the Day,05.png
+char13.bindgroup23.default,0
+char13.bindgroup24.name,Hero of the Day,06.png
+char13.bindgroup24.default,0
+char13.bindgroup25.name,Lily Eater,01.png
+char13.bindgroup25.default,0
+char13.bindgroup26.name,Lily Eater,02.png
+char13.bindgroup26.default,0
+char13.bindgroup27.name,Lily Eater,03.png
+char13.bindgroup27.default,0
+char13.bindgroup28.name,Lily Eater,04.png
+char13.bindgroup28.default,0
+char13.bindgroup29.name,Lily Eater,05.png
+char13.bindgroup29.default,0
+char13.bindgroup30.name,Miss Daisys Vanity,01.png
+char13.bindgroup30.default,0
+char13.bindgroup31.name,Miss Daisys Vanity,02.png
+char13.bindgroup31.default,0
+char13.bindgroup32.name,Miss Daisys Vanity,03.png
+char13.bindgroup32.default,0
+char13.bindgroup33.name,Miss Daisys Vanity,04.png
+char13.bindgroup33.default,0
+char13.bindgroup34.name,Miss Daisys Vanity,05.png
+char13.bindgroup34.default,0
+char13.bindgroup35.name,space,little fish.png
+char13.bindgroup35.default,0
+char13.bindgroup36.name,space,miss daisys vanity.png
+char13.bindgroup36.default,0
+char13.bindgroup37.name,space,rainbowbeard.png
+char13.bindgroup37.default,0
+char13.bindgroup38.name,tender,01.png
+char13.bindgroup38.default,0
+char13.bindgroup39.name,tender,02.png
+char13.bindgroup39.default,0
+char13.bindgroup40.name,tender,03.png
+char13.bindgroup40.default,0
+char13.bindgroup41.name,tender,04.png
+char13.bindgroup41.default,0
+char14.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char14.bindgroup0.default,0
+char14.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char14.bindgroup1.default,0
+char14.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char14.bindgroup2.default,0
+char14.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char14.bindgroup3.default,0
+char14.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char14.bindgroup4.default,0
+char14.bindgroup5.name,Filling in the Gaps,01.png
+char14.bindgroup5.default,0
+char14.bindgroup6.name,Filling in the Gaps,02.png
+char14.bindgroup6.default,0
+char14.bindgroup7.name,Filling in the Gaps,03.png
+char14.bindgroup7.default,0
+char14.bindgroup8.name,Filling in the Gaps,04.png
+char14.bindgroup8.default,0
+char14.bindgroup9.name,foliage,01.png
+char14.bindgroup9.default,0
+char14.bindgroup10.name,foliage,02.png
+char14.bindgroup10.default,0
+char14.bindgroup11.name,foliage,03.png
+char14.bindgroup11.default,0
+char14.bindgroup12.name,foliage,04.png
+char14.bindgroup12.default,0
+char14.bindgroup13.name,foliage,05.png
+char14.bindgroup13.default,0
+char14.bindgroup14.name,Grasping at Glass,01.png
+char14.bindgroup14.default,0
+char14.bindgroup15.name,Grasping at Glass,02.png
+char14.bindgroup15.default,0
+char14.bindgroup16.name,Grasping at Glass,03.png
+char14.bindgroup16.default,0
+char14.bindgroup17.name,Grasping at Glass,04.png
+char14.bindgroup17.default,0
+char14.bindgroup18.name,Grasping at Glass,05.png
+char14.bindgroup18.default,0
+char14.bindgroup19.name,Hero of the Day,01.png
+char14.bindgroup19.default,0
+char14.bindgroup20.name,Hero of the Day,02.png
+char14.bindgroup20.default,0
+char14.bindgroup21.name,Hero of the Day,03.png
+char14.bindgroup21.default,0
+char14.bindgroup22.name,Hero of the Day,04.png
+char14.bindgroup22.default,0
+char14.bindgroup23.name,Hero of the Day,05.png
+char14.bindgroup23.default,0
+char14.bindgroup24.name,Hero of the Day,06.png
+char14.bindgroup24.default,0
+char14.bindgroup25.name,Lily Eater,01.png
+char14.bindgroup25.default,0
+char14.bindgroup26.name,Lily Eater,02.png
+char14.bindgroup26.default,0
+char14.bindgroup27.name,Lily Eater,03.png
+char14.bindgroup27.default,0
+char14.bindgroup28.name,Lily Eater,04.png
+char14.bindgroup28.default,0
+char14.bindgroup29.name,Lily Eater,05.png
+char14.bindgroup29.default,0
+char14.bindgroup30.name,Miss Daisys Vanity,01.png
+char14.bindgroup30.default,0
+char14.bindgroup31.name,Miss Daisys Vanity,02.png
+char14.bindgroup31.default,0
+char14.bindgroup32.name,Miss Daisys Vanity,03.png
+char14.bindgroup32.default,0
+char14.bindgroup33.name,Miss Daisys Vanity,04.png
+char14.bindgroup33.default,0
+char14.bindgroup34.name,Miss Daisys Vanity,05.png
+char14.bindgroup34.default,0
+char14.bindgroup35.name,space,little fish.png
+char14.bindgroup35.default,0
+char14.bindgroup36.name,space,miss daisys vanity.png
+char14.bindgroup36.default,0
+char14.bindgroup37.name,space,rainbowbeard.png
+char14.bindgroup37.default,0
+char14.bindgroup38.name,tender,01.png
+char14.bindgroup38.default,0
+char14.bindgroup39.name,tender,02.png
+char14.bindgroup39.default,0
+char14.bindgroup40.name,tender,03.png
+char14.bindgroup40.default,0
+char14.bindgroup41.name,tender,04.png
+char14.bindgroup41.default,0
+char15.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char15.bindgroup0.default,0
+char15.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char15.bindgroup1.default,0
+char15.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char15.bindgroup2.default,0
+char15.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char15.bindgroup3.default,0
+char15.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char15.bindgroup4.default,0
+char15.bindgroup5.name,Filling in the Gaps,01.png
+char15.bindgroup5.default,0
+char15.bindgroup6.name,Filling in the Gaps,02.png
+char15.bindgroup6.default,0
+char15.bindgroup7.name,Filling in the Gaps,03.png
+char15.bindgroup7.default,0
+char15.bindgroup8.name,Filling in the Gaps,04.png
+char15.bindgroup8.default,0
+char15.bindgroup9.name,foliage,01.png
+char15.bindgroup9.default,0
+char15.bindgroup10.name,foliage,02.png
+char15.bindgroup10.default,0
+char15.bindgroup11.name,foliage,03.png
+char15.bindgroup11.default,0
+char15.bindgroup12.name,foliage,04.png
+char15.bindgroup12.default,0
+char15.bindgroup13.name,foliage,05.png
+char15.bindgroup13.default,0
+char15.bindgroup14.name,Grasping at Glass,01.png
+char15.bindgroup14.default,0
+char15.bindgroup15.name,Grasping at Glass,02.png
+char15.bindgroup15.default,0
+char15.bindgroup16.name,Grasping at Glass,03.png
+char15.bindgroup16.default,0
+char15.bindgroup17.name,Grasping at Glass,04.png
+char15.bindgroup17.default,0
+char15.bindgroup18.name,Grasping at Glass,05.png
+char15.bindgroup18.default,0
+char15.bindgroup19.name,Hero of the Day,01.png
+char15.bindgroup19.default,0
+char15.bindgroup20.name,Hero of the Day,02.png
+char15.bindgroup20.default,0
+char15.bindgroup21.name,Hero of the Day,03.png
+char15.bindgroup21.default,0
+char15.bindgroup22.name,Hero of the Day,04.png
+char15.bindgroup22.default,0
+char15.bindgroup23.name,Hero of the Day,05.png
+char15.bindgroup23.default,0
+char15.bindgroup24.name,Hero of the Day,06.png
+char15.bindgroup24.default,0
+char15.bindgroup25.name,Lily Eater,01.png
+char15.bindgroup25.default,0
+char15.bindgroup26.name,Lily Eater,02.png
+char15.bindgroup26.default,0
+char15.bindgroup27.name,Lily Eater,03.png
+char15.bindgroup27.default,0
+char15.bindgroup28.name,Lily Eater,04.png
+char15.bindgroup28.default,0
+char15.bindgroup29.name,Lily Eater,05.png
+char15.bindgroup29.default,0
+char15.bindgroup30.name,Miss Daisys Vanity,01.png
+char15.bindgroup30.default,0
+char15.bindgroup31.name,Miss Daisys Vanity,02.png
+char15.bindgroup31.default,0
+char15.bindgroup32.name,Miss Daisys Vanity,03.png
+char15.bindgroup32.default,0
+char15.bindgroup33.name,Miss Daisys Vanity,04.png
+char15.bindgroup33.default,0
+char15.bindgroup34.name,Miss Daisys Vanity,05.png
+char15.bindgroup34.default,0
+char15.bindgroup35.name,space,little fish.png
+char15.bindgroup35.default,0
+char15.bindgroup36.name,space,miss daisys vanity.png
+char15.bindgroup36.default,0
+char15.bindgroup37.name,space,rainbowbeard.png
+char15.bindgroup37.default,0
+char15.bindgroup38.name,tender,01.png
+char15.bindgroup38.default,0
+char15.bindgroup39.name,tender,02.png
+char15.bindgroup39.default,0
+char15.bindgroup40.name,tender,03.png
+char15.bindgroup40.default,0
+char15.bindgroup41.name,tender,04.png
+char15.bindgroup41.default,0
+char16.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char16.bindgroup0.default,0
+char16.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char16.bindgroup1.default,0
+char16.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char16.bindgroup2.default,0
+char16.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char16.bindgroup3.default,0
+char16.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char16.bindgroup4.default,0
+char16.bindgroup5.name,Filling in the Gaps,01.png
+char16.bindgroup5.default,0
+char16.bindgroup6.name,Filling in the Gaps,02.png
+char16.bindgroup6.default,0
+char16.bindgroup7.name,Filling in the Gaps,03.png
+char16.bindgroup7.default,0
+char16.bindgroup8.name,Filling in the Gaps,04.png
+char16.bindgroup8.default,0
+char16.bindgroup9.name,foliage,01.png
+char16.bindgroup9.default,0
+char16.bindgroup10.name,foliage,02.png
+char16.bindgroup10.default,0
+char16.bindgroup11.name,foliage,03.png
+char16.bindgroup11.default,0
+char16.bindgroup12.name,foliage,04.png
+char16.bindgroup12.default,0
+char16.bindgroup13.name,foliage,05.png
+char16.bindgroup13.default,0
+char16.bindgroup14.name,Grasping at Glass,01.png
+char16.bindgroup14.default,0
+char16.bindgroup15.name,Grasping at Glass,02.png
+char16.bindgroup15.default,0
+char16.bindgroup16.name,Grasping at Glass,03.png
+char16.bindgroup16.default,0
+char16.bindgroup17.name,Grasping at Glass,04.png
+char16.bindgroup17.default,0
+char16.bindgroup18.name,Grasping at Glass,05.png
+char16.bindgroup18.default,0
+char16.bindgroup19.name,Hero of the Day,01.png
+char16.bindgroup19.default,0
+char16.bindgroup20.name,Hero of the Day,02.png
+char16.bindgroup20.default,0
+char16.bindgroup21.name,Hero of the Day,03.png
+char16.bindgroup21.default,0
+char16.bindgroup22.name,Hero of the Day,04.png
+char16.bindgroup22.default,0
+char16.bindgroup23.name,Hero of the Day,05.png
+char16.bindgroup23.default,0
+char16.bindgroup24.name,Hero of the Day,06.png
+char16.bindgroup24.default,0
+char16.bindgroup25.name,Lily Eater,01.png
+char16.bindgroup25.default,0
+char16.bindgroup26.name,Lily Eater,02.png
+char16.bindgroup26.default,0
+char16.bindgroup27.name,Lily Eater,03.png
+char16.bindgroup27.default,0
+char16.bindgroup28.name,Lily Eater,04.png
+char16.bindgroup28.default,0
+char16.bindgroup29.name,Lily Eater,05.png
+char16.bindgroup29.default,0
+char16.bindgroup30.name,Miss Daisys Vanity,01.png
+char16.bindgroup30.default,0
+char16.bindgroup31.name,Miss Daisys Vanity,02.png
+char16.bindgroup31.default,0
+char16.bindgroup32.name,Miss Daisys Vanity,03.png
+char16.bindgroup32.default,0
+char16.bindgroup33.name,Miss Daisys Vanity,04.png
+char16.bindgroup33.default,0
+char16.bindgroup34.name,Miss Daisys Vanity,05.png
+char16.bindgroup34.default,0
+char16.bindgroup35.name,space,little fish.png
+char16.bindgroup35.default,0
+char16.bindgroup36.name,space,miss daisys vanity.png
+char16.bindgroup36.default,0
+char16.bindgroup37.name,space,rainbowbeard.png
+char16.bindgroup37.default,0
+char16.bindgroup38.name,tender,01.png
+char16.bindgroup38.default,0
+char16.bindgroup39.name,tender,02.png
+char16.bindgroup39.default,0
+char16.bindgroup40.name,tender,03.png
+char16.bindgroup40.default,0
+char16.bindgroup41.name,tender,04.png
+char16.bindgroup41.default,0
+char17.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char17.bindgroup0.default,0
+char17.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char17.bindgroup1.default,0
+char17.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char17.bindgroup2.default,0
+char17.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char17.bindgroup3.default,0
+char17.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char17.bindgroup4.default,0
+char17.bindgroup5.name,Filling in the Gaps,01.png
+char17.bindgroup5.default,0
+char17.bindgroup6.name,Filling in the Gaps,02.png
+char17.bindgroup6.default,0
+char17.bindgroup7.name,Filling in the Gaps,03.png
+char17.bindgroup7.default,0
+char17.bindgroup8.name,Filling in the Gaps,04.png
+char17.bindgroup8.default,0
+char17.bindgroup9.name,foliage,01.png
+char17.bindgroup9.default,0
+char17.bindgroup10.name,foliage,02.png
+char17.bindgroup10.default,0
+char17.bindgroup11.name,foliage,03.png
+char17.bindgroup11.default,0
+char17.bindgroup12.name,foliage,04.png
+char17.bindgroup12.default,0
+char17.bindgroup13.name,foliage,05.png
+char17.bindgroup13.default,0
+char17.bindgroup14.name,Grasping at Glass,01.png
+char17.bindgroup14.default,0
+char17.bindgroup15.name,Grasping at Glass,02.png
+char17.bindgroup15.default,0
+char17.bindgroup16.name,Grasping at Glass,03.png
+char17.bindgroup16.default,0
+char17.bindgroup17.name,Grasping at Glass,04.png
+char17.bindgroup17.default,0
+char17.bindgroup18.name,Grasping at Glass,05.png
+char17.bindgroup18.default,0
+char17.bindgroup19.name,Hero of the Day,01.png
+char17.bindgroup19.default,0
+char17.bindgroup20.name,Hero of the Day,02.png
+char17.bindgroup20.default,0
+char17.bindgroup21.name,Hero of the Day,03.png
+char17.bindgroup21.default,0
+char17.bindgroup22.name,Hero of the Day,04.png
+char17.bindgroup22.default,0
+char17.bindgroup23.name,Hero of the Day,05.png
+char17.bindgroup23.default,0
+char17.bindgroup24.name,Hero of the Day,06.png
+char17.bindgroup24.default,0
+char17.bindgroup25.name,Lily Eater,01.png
+char17.bindgroup25.default,0
+char17.bindgroup26.name,Lily Eater,02.png
+char17.bindgroup26.default,0
+char17.bindgroup27.name,Lily Eater,03.png
+char17.bindgroup27.default,0
+char17.bindgroup28.name,Lily Eater,04.png
+char17.bindgroup28.default,0
+char17.bindgroup29.name,Lily Eater,05.png
+char17.bindgroup29.default,0
+char17.bindgroup30.name,Miss Daisys Vanity,01.png
+char17.bindgroup30.default,0
+char17.bindgroup31.name,Miss Daisys Vanity,02.png
+char17.bindgroup31.default,0
+char17.bindgroup32.name,Miss Daisys Vanity,03.png
+char17.bindgroup32.default,0
+char17.bindgroup33.name,Miss Daisys Vanity,04.png
+char17.bindgroup33.default,0
+char17.bindgroup34.name,Miss Daisys Vanity,05.png
+char17.bindgroup34.default,0
+char17.bindgroup35.name,space,little fish.png
+char17.bindgroup35.default,0
+char17.bindgroup36.name,space,miss daisys vanity.png
+char17.bindgroup36.default,0
+char17.bindgroup37.name,space,rainbowbeard.png
+char17.bindgroup37.default,0
+char17.bindgroup38.name,tender,01.png
+char17.bindgroup38.default,0
+char17.bindgroup39.name,tender,02.png
+char17.bindgroup39.default,0
+char17.bindgroup40.name,tender,03.png
+char17.bindgroup40.default,0
+char17.bindgroup41.name,tender,04.png
+char17.bindgroup41.default,0
+char18.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char18.bindgroup0.default,0
+char18.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char18.bindgroup1.default,0
+char18.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char18.bindgroup2.default,0
+char18.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char18.bindgroup3.default,0
+char18.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char18.bindgroup4.default,0
+char18.bindgroup5.name,Filling in the Gaps,01.png
+char18.bindgroup5.default,0
+char18.bindgroup6.name,Filling in the Gaps,02.png
+char18.bindgroup6.default,0
+char18.bindgroup7.name,Filling in the Gaps,03.png
+char18.bindgroup7.default,0
+char18.bindgroup8.name,Filling in the Gaps,04.png
+char18.bindgroup8.default,0
+char18.bindgroup9.name,foliage,01.png
+char18.bindgroup9.default,0
+char18.bindgroup10.name,foliage,02.png
+char18.bindgroup10.default,0
+char18.bindgroup11.name,foliage,03.png
+char18.bindgroup11.default,0
+char18.bindgroup12.name,foliage,04.png
+char18.bindgroup12.default,0
+char18.bindgroup13.name,foliage,05.png
+char18.bindgroup13.default,0
+char18.bindgroup14.name,Grasping at Glass,01.png
+char18.bindgroup14.default,0
+char18.bindgroup15.name,Grasping at Glass,02.png
+char18.bindgroup15.default,0
+char18.bindgroup16.name,Grasping at Glass,03.png
+char18.bindgroup16.default,0
+char18.bindgroup17.name,Grasping at Glass,04.png
+char18.bindgroup17.default,0
+char18.bindgroup18.name,Grasping at Glass,05.png
+char18.bindgroup18.default,0
+char18.bindgroup19.name,Hero of the Day,01.png
+char18.bindgroup19.default,0
+char18.bindgroup20.name,Hero of the Day,02.png
+char18.bindgroup20.default,0
+char18.bindgroup21.name,Hero of the Day,03.png
+char18.bindgroup21.default,0
+char18.bindgroup22.name,Hero of the Day,04.png
+char18.bindgroup22.default,0
+char18.bindgroup23.name,Hero of the Day,05.png
+char18.bindgroup23.default,0
+char18.bindgroup24.name,Hero of the Day,06.png
+char18.bindgroup24.default,0
+char18.bindgroup25.name,Lily Eater,01.png
+char18.bindgroup25.default,0
+char18.bindgroup26.name,Lily Eater,02.png
+char18.bindgroup26.default,0
+char18.bindgroup27.name,Lily Eater,03.png
+char18.bindgroup27.default,0
+char18.bindgroup28.name,Lily Eater,04.png
+char18.bindgroup28.default,0
+char18.bindgroup29.name,Lily Eater,05.png
+char18.bindgroup29.default,0
+char18.bindgroup30.name,Miss Daisys Vanity,01.png
+char18.bindgroup30.default,0
+char18.bindgroup31.name,Miss Daisys Vanity,02.png
+char18.bindgroup31.default,0
+char18.bindgroup32.name,Miss Daisys Vanity,03.png
+char18.bindgroup32.default,0
+char18.bindgroup33.name,Miss Daisys Vanity,04.png
+char18.bindgroup33.default,0
+char18.bindgroup34.name,Miss Daisys Vanity,05.png
+char18.bindgroup34.default,0
+char18.bindgroup35.name,space,little fish.png
+char18.bindgroup35.default,0
+char18.bindgroup36.name,space,miss daisys vanity.png
+char18.bindgroup36.default,0
+char18.bindgroup37.name,space,rainbowbeard.png
+char18.bindgroup37.default,0
+char18.bindgroup38.name,tender,01.png
+char18.bindgroup38.default,0
+char18.bindgroup39.name,tender,02.png
+char18.bindgroup39.default,0
+char18.bindgroup40.name,tender,03.png
+char18.bindgroup40.default,0
+char18.bindgroup41.name,tender,04.png
+char18.bindgroup41.default,0
+char19.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char19.bindgroup0.default,0
+char19.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char19.bindgroup1.default,0
+char19.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char19.bindgroup2.default,0
+char19.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char19.bindgroup3.default,0
+char19.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char19.bindgroup4.default,0
+char19.bindgroup5.name,Filling in the Gaps,01.png
+char19.bindgroup5.default,0
+char19.bindgroup6.name,Filling in the Gaps,02.png
+char19.bindgroup6.default,0
+char19.bindgroup7.name,Filling in the Gaps,03.png
+char19.bindgroup7.default,0
+char19.bindgroup8.name,Filling in the Gaps,04.png
+char19.bindgroup8.default,0
+char19.bindgroup9.name,foliage,01.png
+char19.bindgroup9.default,0
+char19.bindgroup10.name,foliage,02.png
+char19.bindgroup10.default,0
+char19.bindgroup11.name,foliage,03.png
+char19.bindgroup11.default,0
+char19.bindgroup12.name,foliage,04.png
+char19.bindgroup12.default,0
+char19.bindgroup13.name,foliage,05.png
+char19.bindgroup13.default,0
+char19.bindgroup14.name,Grasping at Glass,01.png
+char19.bindgroup14.default,0
+char19.bindgroup15.name,Grasping at Glass,02.png
+char19.bindgroup15.default,0
+char19.bindgroup16.name,Grasping at Glass,03.png
+char19.bindgroup16.default,0
+char19.bindgroup17.name,Grasping at Glass,04.png
+char19.bindgroup17.default,0
+char19.bindgroup18.name,Grasping at Glass,05.png
+char19.bindgroup18.default,0
+char19.bindgroup19.name,Hero of the Day,01.png
+char19.bindgroup19.default,0
+char19.bindgroup20.name,Hero of the Day,02.png
+char19.bindgroup20.default,0
+char19.bindgroup21.name,Hero of the Day,03.png
+char19.bindgroup21.default,0
+char19.bindgroup22.name,Hero of the Day,04.png
+char19.bindgroup22.default,0
+char19.bindgroup23.name,Hero of the Day,05.png
+char19.bindgroup23.default,0
+char19.bindgroup24.name,Hero of the Day,06.png
+char19.bindgroup24.default,0
+char19.bindgroup25.name,Lily Eater,01.png
+char19.bindgroup25.default,0
+char19.bindgroup26.name,Lily Eater,02.png
+char19.bindgroup26.default,0
+char19.bindgroup27.name,Lily Eater,03.png
+char19.bindgroup27.default,0
+char19.bindgroup28.name,Lily Eater,04.png
+char19.bindgroup28.default,0
+char19.bindgroup29.name,Lily Eater,05.png
+char19.bindgroup29.default,0
+char19.bindgroup30.name,Miss Daisys Vanity,01.png
+char19.bindgroup30.default,0
+char19.bindgroup31.name,Miss Daisys Vanity,02.png
+char19.bindgroup31.default,0
+char19.bindgroup32.name,Miss Daisys Vanity,03.png
+char19.bindgroup32.default,0
+char19.bindgroup33.name,Miss Daisys Vanity,04.png
+char19.bindgroup33.default,0
+char19.bindgroup34.name,Miss Daisys Vanity,05.png
+char19.bindgroup34.default,0
+char19.bindgroup35.name,space,little fish.png
+char19.bindgroup35.default,0
+char19.bindgroup36.name,space,miss daisys vanity.png
+char19.bindgroup36.default,0
+char19.bindgroup37.name,space,rainbowbeard.png
+char19.bindgroup37.default,0
+char19.bindgroup38.name,tender,01.png
+char19.bindgroup38.default,0
+char19.bindgroup39.name,tender,02.png
+char19.bindgroup39.default,0
+char19.bindgroup40.name,tender,03.png
+char19.bindgroup40.default,0
+char19.bindgroup41.name,tender,04.png
+char19.bindgroup41.default,0
+char20.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char20.bindgroup0.default,0
+char20.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char20.bindgroup1.default,0
+char20.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char20.bindgroup2.default,0
+char20.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char20.bindgroup3.default,0
+char20.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char20.bindgroup4.default,0
+char20.bindgroup5.name,Filling in the Gaps,01.png
+char20.bindgroup5.default,0
+char20.bindgroup6.name,Filling in the Gaps,02.png
+char20.bindgroup6.default,0
+char20.bindgroup7.name,Filling in the Gaps,03.png
+char20.bindgroup7.default,0
+char20.bindgroup8.name,Filling in the Gaps,04.png
+char20.bindgroup8.default,0
+char20.bindgroup9.name,foliage,01.png
+char20.bindgroup9.default,0
+char20.bindgroup10.name,foliage,02.png
+char20.bindgroup10.default,0
+char20.bindgroup11.name,foliage,03.png
+char20.bindgroup11.default,0
+char20.bindgroup12.name,foliage,04.png
+char20.bindgroup12.default,0
+char20.bindgroup13.name,foliage,05.png
+char20.bindgroup13.default,0
+char20.bindgroup14.name,Grasping at Glass,01.png
+char20.bindgroup14.default,0
+char20.bindgroup15.name,Grasping at Glass,02.png
+char20.bindgroup15.default,0
+char20.bindgroup16.name,Grasping at Glass,03.png
+char20.bindgroup16.default,0
+char20.bindgroup17.name,Grasping at Glass,04.png
+char20.bindgroup17.default,0
+char20.bindgroup18.name,Grasping at Glass,05.png
+char20.bindgroup18.default,0
+char20.bindgroup19.name,Hero of the Day,01.png
+char20.bindgroup19.default,0
+char20.bindgroup20.name,Hero of the Day,02.png
+char20.bindgroup20.default,0
+char20.bindgroup21.name,Hero of the Day,03.png
+char20.bindgroup21.default,0
+char20.bindgroup22.name,Hero of the Day,04.png
+char20.bindgroup22.default,0
+char20.bindgroup23.name,Hero of the Day,05.png
+char20.bindgroup23.default,0
+char20.bindgroup24.name,Hero of the Day,06.png
+char20.bindgroup24.default,0
+char20.bindgroup25.name,Lily Eater,01.png
+char20.bindgroup25.default,0
+char20.bindgroup26.name,Lily Eater,02.png
+char20.bindgroup26.default,0
+char20.bindgroup27.name,Lily Eater,03.png
+char20.bindgroup27.default,0
+char20.bindgroup28.name,Lily Eater,04.png
+char20.bindgroup28.default,0
+char20.bindgroup29.name,Lily Eater,05.png
+char20.bindgroup29.default,0
+char20.bindgroup30.name,Miss Daisys Vanity,01.png
+char20.bindgroup30.default,0
+char20.bindgroup31.name,Miss Daisys Vanity,02.png
+char20.bindgroup31.default,0
+char20.bindgroup32.name,Miss Daisys Vanity,03.png
+char20.bindgroup32.default,0
+char20.bindgroup33.name,Miss Daisys Vanity,04.png
+char20.bindgroup33.default,0
+char20.bindgroup34.name,Miss Daisys Vanity,05.png
+char20.bindgroup34.default,0
+char20.bindgroup35.name,space,little fish.png
+char20.bindgroup35.default,0
+char20.bindgroup36.name,space,miss daisys vanity.png
+char20.bindgroup36.default,0
+char20.bindgroup37.name,space,rainbowbeard.png
+char20.bindgroup37.default,0
+char20.bindgroup38.name,tender,01.png
+char20.bindgroup38.default,0
+char20.bindgroup39.name,tender,02.png
+char20.bindgroup39.default,0
+char20.bindgroup40.name,tender,03.png
+char20.bindgroup40.default,0
+char20.bindgroup41.name,tender,04.png
+char20.bindgroup41.default,0
+char21.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char21.bindgroup0.default,0
+char21.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char21.bindgroup1.default,0
+char21.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char21.bindgroup2.default,0
+char21.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char21.bindgroup3.default,0
+char21.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char21.bindgroup4.default,0
+char21.bindgroup5.name,Filling in the Gaps,01.png
+char21.bindgroup5.default,0
+char21.bindgroup6.name,Filling in the Gaps,02.png
+char21.bindgroup6.default,0
+char21.bindgroup7.name,Filling in the Gaps,03.png
+char21.bindgroup7.default,0
+char21.bindgroup8.name,Filling in the Gaps,04.png
+char21.bindgroup8.default,0
+char21.bindgroup9.name,foliage,01.png
+char21.bindgroup9.default,0
+char21.bindgroup10.name,foliage,02.png
+char21.bindgroup10.default,0
+char21.bindgroup11.name,foliage,03.png
+char21.bindgroup11.default,0
+char21.bindgroup12.name,foliage,04.png
+char21.bindgroup12.default,0
+char21.bindgroup13.name,foliage,05.png
+char21.bindgroup13.default,0
+char21.bindgroup14.name,Grasping at Glass,01.png
+char21.bindgroup14.default,0
+char21.bindgroup15.name,Grasping at Glass,02.png
+char21.bindgroup15.default,0
+char21.bindgroup16.name,Grasping at Glass,03.png
+char21.bindgroup16.default,0
+char21.bindgroup17.name,Grasping at Glass,04.png
+char21.bindgroup17.default,0
+char21.bindgroup18.name,Grasping at Glass,05.png
+char21.bindgroup18.default,0
+char21.bindgroup19.name,Hero of the Day,01.png
+char21.bindgroup19.default,0
+char21.bindgroup20.name,Hero of the Day,02.png
+char21.bindgroup20.default,0
+char21.bindgroup21.name,Hero of the Day,03.png
+char21.bindgroup21.default,0
+char21.bindgroup22.name,Hero of the Day,04.png
+char21.bindgroup22.default,0
+char21.bindgroup23.name,Hero of the Day,05.png
+char21.bindgroup23.default,0
+char21.bindgroup24.name,Hero of the Day,06.png
+char21.bindgroup24.default,0
+char21.bindgroup25.name,Lily Eater,01.png
+char21.bindgroup25.default,0
+char21.bindgroup26.name,Lily Eater,02.png
+char21.bindgroup26.default,0
+char21.bindgroup27.name,Lily Eater,03.png
+char21.bindgroup27.default,0
+char21.bindgroup28.name,Lily Eater,04.png
+char21.bindgroup28.default,0
+char21.bindgroup29.name,Lily Eater,05.png
+char21.bindgroup29.default,0
+char21.bindgroup30.name,Miss Daisys Vanity,01.png
+char21.bindgroup30.default,0
+char21.bindgroup31.name,Miss Daisys Vanity,02.png
+char21.bindgroup31.default,0
+char21.bindgroup32.name,Miss Daisys Vanity,03.png
+char21.bindgroup32.default,0
+char21.bindgroup33.name,Miss Daisys Vanity,04.png
+char21.bindgroup33.default,0
+char21.bindgroup34.name,Miss Daisys Vanity,05.png
+char21.bindgroup34.default,0
+char21.bindgroup35.name,space,little fish.png
+char21.bindgroup35.default,0
+char21.bindgroup36.name,space,miss daisys vanity.png
+char21.bindgroup36.default,0
+char21.bindgroup37.name,space,rainbowbeard.png
+char21.bindgroup37.default,0
+char21.bindgroup38.name,tender,01.png
+char21.bindgroup38.default,0
+char21.bindgroup39.name,tender,02.png
+char21.bindgroup39.default,0
+char21.bindgroup40.name,tender,03.png
+char21.bindgroup40.default,0
+char21.bindgroup41.name,tender,04.png
+char21.bindgroup41.default,0
+char22.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char22.bindgroup0.default,0
+char22.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char22.bindgroup1.default,0
+char22.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char22.bindgroup2.default,0
+char22.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char22.bindgroup3.default,0
+char22.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char22.bindgroup4.default,0
+char22.bindgroup5.name,Filling in the Gaps,01.png
+char22.bindgroup5.default,0
+char22.bindgroup6.name,Filling in the Gaps,02.png
+char22.bindgroup6.default,0
+char22.bindgroup7.name,Filling in the Gaps,03.png
+char22.bindgroup7.default,0
+char22.bindgroup8.name,Filling in the Gaps,04.png
+char22.bindgroup8.default,0
+char22.bindgroup9.name,foliage,01.png
+char22.bindgroup9.default,0
+char22.bindgroup10.name,foliage,02.png
+char22.bindgroup10.default,0
+char22.bindgroup11.name,foliage,03.png
+char22.bindgroup11.default,0
+char22.bindgroup12.name,foliage,04.png
+char22.bindgroup12.default,0
+char22.bindgroup13.name,foliage,05.png
+char22.bindgroup13.default,0
+char22.bindgroup14.name,Grasping at Glass,01.png
+char22.bindgroup14.default,0
+char22.bindgroup15.name,Grasping at Glass,02.png
+char22.bindgroup15.default,0
+char22.bindgroup16.name,Grasping at Glass,03.png
+char22.bindgroup16.default,0
+char22.bindgroup17.name,Grasping at Glass,04.png
+char22.bindgroup17.default,0
+char22.bindgroup18.name,Grasping at Glass,05.png
+char22.bindgroup18.default,0
+char22.bindgroup19.name,Hero of the Day,01.png
+char22.bindgroup19.default,0
+char22.bindgroup20.name,Hero of the Day,02.png
+char22.bindgroup20.default,0
+char22.bindgroup21.name,Hero of the Day,03.png
+char22.bindgroup21.default,0
+char22.bindgroup22.name,Hero of the Day,04.png
+char22.bindgroup22.default,0
+char22.bindgroup23.name,Hero of the Day,05.png
+char22.bindgroup23.default,0
+char22.bindgroup24.name,Hero of the Day,06.png
+char22.bindgroup24.default,0
+char22.bindgroup25.name,Lily Eater,01.png
+char22.bindgroup25.default,0
+char22.bindgroup26.name,Lily Eater,02.png
+char22.bindgroup26.default,0
+char22.bindgroup27.name,Lily Eater,03.png
+char22.bindgroup27.default,0
+char22.bindgroup28.name,Lily Eater,04.png
+char22.bindgroup28.default,0
+char22.bindgroup29.name,Lily Eater,05.png
+char22.bindgroup29.default,0
+char22.bindgroup30.name,Miss Daisys Vanity,01.png
+char22.bindgroup30.default,0
+char22.bindgroup31.name,Miss Daisys Vanity,02.png
+char22.bindgroup31.default,0
+char22.bindgroup32.name,Miss Daisys Vanity,03.png
+char22.bindgroup32.default,0
+char22.bindgroup33.name,Miss Daisys Vanity,04.png
+char22.bindgroup33.default,0
+char22.bindgroup34.name,Miss Daisys Vanity,05.png
+char22.bindgroup34.default,0
+char22.bindgroup35.name,space,little fish.png
+char22.bindgroup35.default,0
+char22.bindgroup36.name,space,miss daisys vanity.png
+char22.bindgroup36.default,0
+char22.bindgroup37.name,space,rainbowbeard.png
+char22.bindgroup37.default,0
+char22.bindgroup38.name,tender,01.png
+char22.bindgroup38.default,0
+char22.bindgroup39.name,tender,02.png
+char22.bindgroup39.default,0
+char22.bindgroup40.name,tender,03.png
+char22.bindgroup40.default,0
+char22.bindgroup41.name,tender,04.png
+char22.bindgroup41.default,0
+char23.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char23.bindgroup0.default,0
+char23.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char23.bindgroup1.default,0
+char23.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char23.bindgroup2.default,0
+char23.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char23.bindgroup3.default,0
+char23.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char23.bindgroup4.default,0
+char23.bindgroup5.name,Filling in the Gaps,01.png
+char23.bindgroup5.default,0
+char23.bindgroup6.name,Filling in the Gaps,02.png
+char23.bindgroup6.default,0
+char23.bindgroup7.name,Filling in the Gaps,03.png
+char23.bindgroup7.default,0
+char23.bindgroup8.name,Filling in the Gaps,04.png
+char23.bindgroup8.default,0
+char23.bindgroup9.name,foliage,01.png
+char23.bindgroup9.default,0
+char23.bindgroup10.name,foliage,02.png
+char23.bindgroup10.default,0
+char23.bindgroup11.name,foliage,03.png
+char23.bindgroup11.default,0
+char23.bindgroup12.name,foliage,04.png
+char23.bindgroup12.default,0
+char23.bindgroup13.name,foliage,05.png
+char23.bindgroup13.default,0
+char23.bindgroup14.name,Grasping at Glass,01.png
+char23.bindgroup14.default,0
+char23.bindgroup15.name,Grasping at Glass,02.png
+char23.bindgroup15.default,0
+char23.bindgroup16.name,Grasping at Glass,03.png
+char23.bindgroup16.default,0
+char23.bindgroup17.name,Grasping at Glass,04.png
+char23.bindgroup17.default,0
+char23.bindgroup18.name,Grasping at Glass,05.png
+char23.bindgroup18.default,0
+char23.bindgroup19.name,Hero of the Day,01.png
+char23.bindgroup19.default,0
+char23.bindgroup20.name,Hero of the Day,02.png
+char23.bindgroup20.default,0
+char23.bindgroup21.name,Hero of the Day,03.png
+char23.bindgroup21.default,0
+char23.bindgroup22.name,Hero of the Day,04.png
+char23.bindgroup22.default,0
+char23.bindgroup23.name,Hero of the Day,05.png
+char23.bindgroup23.default,0
+char23.bindgroup24.name,Hero of the Day,06.png
+char23.bindgroup24.default,0
+char23.bindgroup25.name,Lily Eater,01.png
+char23.bindgroup25.default,0
+char23.bindgroup26.name,Lily Eater,02.png
+char23.bindgroup26.default,0
+char23.bindgroup27.name,Lily Eater,03.png
+char23.bindgroup27.default,0
+char23.bindgroup28.name,Lily Eater,04.png
+char23.bindgroup28.default,0
+char23.bindgroup29.name,Lily Eater,05.png
+char23.bindgroup29.default,0
+char23.bindgroup30.name,Miss Daisys Vanity,01.png
+char23.bindgroup30.default,0
+char23.bindgroup31.name,Miss Daisys Vanity,02.png
+char23.bindgroup31.default,0
+char23.bindgroup32.name,Miss Daisys Vanity,03.png
+char23.bindgroup32.default,0
+char23.bindgroup33.name,Miss Daisys Vanity,04.png
+char23.bindgroup33.default,0
+char23.bindgroup34.name,Miss Daisys Vanity,05.png
+char23.bindgroup34.default,0
+char23.bindgroup35.name,space,little fish.png
+char23.bindgroup35.default,0
+char23.bindgroup36.name,space,miss daisys vanity.png
+char23.bindgroup36.default,0
+char23.bindgroup37.name,space,rainbowbeard.png
+char23.bindgroup37.default,0
+char23.bindgroup38.name,tender,01.png
+char23.bindgroup38.default,0
+char23.bindgroup39.name,tender,02.png
+char23.bindgroup39.default,0
+char23.bindgroup40.name,tender,03.png
+char23.bindgroup40.default,0
+char23.bindgroup41.name,tender,04.png
+char23.bindgroup41.default,0
+char24.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char24.bindgroup0.default,0
+char24.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char24.bindgroup1.default,0
+char24.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char24.bindgroup2.default,0
+char24.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char24.bindgroup3.default,0
+char24.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char24.bindgroup4.default,0
+char24.bindgroup5.name,Filling in the Gaps,01.png
+char24.bindgroup5.default,0
+char24.bindgroup6.name,Filling in the Gaps,02.png
+char24.bindgroup6.default,0
+char24.bindgroup7.name,Filling in the Gaps,03.png
+char24.bindgroup7.default,0
+char24.bindgroup8.name,Filling in the Gaps,04.png
+char24.bindgroup8.default,0
+char24.bindgroup9.name,foliage,01.png
+char24.bindgroup9.default,0
+char24.bindgroup10.name,foliage,02.png
+char24.bindgroup10.default,0
+char24.bindgroup11.name,foliage,03.png
+char24.bindgroup11.default,0
+char24.bindgroup12.name,foliage,04.png
+char24.bindgroup12.default,0
+char24.bindgroup13.name,foliage,05.png
+char24.bindgroup13.default,0
+char24.bindgroup14.name,Grasping at Glass,01.png
+char24.bindgroup14.default,0
+char24.bindgroup15.name,Grasping at Glass,02.png
+char24.bindgroup15.default,0
+char24.bindgroup16.name,Grasping at Glass,03.png
+char24.bindgroup16.default,0
+char24.bindgroup17.name,Grasping at Glass,04.png
+char24.bindgroup17.default,0
+char24.bindgroup18.name,Grasping at Glass,05.png
+char24.bindgroup18.default,0
+char24.bindgroup19.name,Hero of the Day,01.png
+char24.bindgroup19.default,0
+char24.bindgroup20.name,Hero of the Day,02.png
+char24.bindgroup20.default,0
+char24.bindgroup21.name,Hero of the Day,03.png
+char24.bindgroup21.default,0
+char24.bindgroup22.name,Hero of the Day,04.png
+char24.bindgroup22.default,0
+char24.bindgroup23.name,Hero of the Day,05.png
+char24.bindgroup23.default,0
+char24.bindgroup24.name,Hero of the Day,06.png
+char24.bindgroup24.default,0
+char24.bindgroup25.name,Lily Eater,01.png
+char24.bindgroup25.default,0
+char24.bindgroup26.name,Lily Eater,02.png
+char24.bindgroup26.default,0
+char24.bindgroup27.name,Lily Eater,03.png
+char24.bindgroup27.default,0
+char24.bindgroup28.name,Lily Eater,04.png
+char24.bindgroup28.default,0
+char24.bindgroup29.name,Lily Eater,05.png
+char24.bindgroup29.default,0
+char24.bindgroup30.name,Miss Daisys Vanity,01.png
+char24.bindgroup30.default,0
+char24.bindgroup31.name,Miss Daisys Vanity,02.png
+char24.bindgroup31.default,0
+char24.bindgroup32.name,Miss Daisys Vanity,03.png
+char24.bindgroup32.default,0
+char24.bindgroup33.name,Miss Daisys Vanity,04.png
+char24.bindgroup33.default,0
+char24.bindgroup34.name,Miss Daisys Vanity,05.png
+char24.bindgroup34.default,0
+char24.bindgroup35.name,space,little fish.png
+char24.bindgroup35.default,0
+char24.bindgroup36.name,space,miss daisys vanity.png
+char24.bindgroup36.default,0
+char24.bindgroup37.name,space,rainbowbeard.png
+char24.bindgroup37.default,0
+char24.bindgroup38.name,tender,01.png
+char24.bindgroup38.default,0
+char24.bindgroup39.name,tender,02.png
+char24.bindgroup39.default,0
+char24.bindgroup40.name,tender,03.png
+char24.bindgroup40.default,0
+char24.bindgroup41.name,tender,04.png
+char24.bindgroup41.default,0
+char25.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char25.bindgroup0.default,0
+char25.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char25.bindgroup1.default,0
+char25.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char25.bindgroup2.default,0
+char25.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char25.bindgroup3.default,0
+char25.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char25.bindgroup4.default,0
+char25.bindgroup5.name,Filling in the Gaps,01.png
+char25.bindgroup5.default,0
+char25.bindgroup6.name,Filling in the Gaps,02.png
+char25.bindgroup6.default,0
+char25.bindgroup7.name,Filling in the Gaps,03.png
+char25.bindgroup7.default,0
+char25.bindgroup8.name,Filling in the Gaps,04.png
+char25.bindgroup8.default,0
+char25.bindgroup9.name,foliage,01.png
+char25.bindgroup9.default,0
+char25.bindgroup10.name,foliage,02.png
+char25.bindgroup10.default,0
+char25.bindgroup11.name,foliage,03.png
+char25.bindgroup11.default,0
+char25.bindgroup12.name,foliage,04.png
+char25.bindgroup12.default,0
+char25.bindgroup13.name,foliage,05.png
+char25.bindgroup13.default,0
+char25.bindgroup14.name,Grasping at Glass,01.png
+char25.bindgroup14.default,0
+char25.bindgroup15.name,Grasping at Glass,02.png
+char25.bindgroup15.default,0
+char25.bindgroup16.name,Grasping at Glass,03.png
+char25.bindgroup16.default,0
+char25.bindgroup17.name,Grasping at Glass,04.png
+char25.bindgroup17.default,0
+char25.bindgroup18.name,Grasping at Glass,05.png
+char25.bindgroup18.default,0
+char25.bindgroup19.name,Hero of the Day,01.png
+char25.bindgroup19.default,0
+char25.bindgroup20.name,Hero of the Day,02.png
+char25.bindgroup20.default,0
+char25.bindgroup21.name,Hero of the Day,03.png
+char25.bindgroup21.default,0
+char25.bindgroup22.name,Hero of the Day,04.png
+char25.bindgroup22.default,0
+char25.bindgroup23.name,Hero of the Day,05.png
+char25.bindgroup23.default,0
+char25.bindgroup24.name,Hero of the Day,06.png
+char25.bindgroup24.default,0
+char25.bindgroup25.name,Lily Eater,01.png
+char25.bindgroup25.default,0
+char25.bindgroup26.name,Lily Eater,02.png
+char25.bindgroup26.default,0
+char25.bindgroup27.name,Lily Eater,03.png
+char25.bindgroup27.default,0
+char25.bindgroup28.name,Lily Eater,04.png
+char25.bindgroup28.default,0
+char25.bindgroup29.name,Lily Eater,05.png
+char25.bindgroup29.default,0
+char25.bindgroup30.name,Miss Daisys Vanity,01.png
+char25.bindgroup30.default,0
+char25.bindgroup31.name,Miss Daisys Vanity,02.png
+char25.bindgroup31.default,0
+char25.bindgroup32.name,Miss Daisys Vanity,03.png
+char25.bindgroup32.default,0
+char25.bindgroup33.name,Miss Daisys Vanity,04.png
+char25.bindgroup33.default,0
+char25.bindgroup34.name,Miss Daisys Vanity,05.png
+char25.bindgroup34.default,0
+char25.bindgroup35.name,space,little fish.png
+char25.bindgroup35.default,0
+char25.bindgroup36.name,space,miss daisys vanity.png
+char25.bindgroup36.default,0
+char25.bindgroup37.name,space,rainbowbeard.png
+char25.bindgroup37.default,0
+char25.bindgroup38.name,tender,01.png
+char25.bindgroup38.default,0
+char25.bindgroup39.name,tender,02.png
+char25.bindgroup39.default,0
+char25.bindgroup40.name,tender,03.png
+char25.bindgroup40.default,0
+char25.bindgroup41.name,tender,04.png
+char25.bindgroup41.default,0
+char26.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char26.bindgroup0.default,0
+char26.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char26.bindgroup1.default,0
+char26.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char26.bindgroup2.default,0
+char26.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char26.bindgroup3.default,0
+char26.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char26.bindgroup4.default,0
+char26.bindgroup5.name,Filling in the Gaps,01.png
+char26.bindgroup5.default,0
+char26.bindgroup6.name,Filling in the Gaps,02.png
+char26.bindgroup6.default,0
+char26.bindgroup7.name,Filling in the Gaps,03.png
+char26.bindgroup7.default,0
+char26.bindgroup8.name,Filling in the Gaps,04.png
+char26.bindgroup8.default,0
+char26.bindgroup9.name,foliage,01.png
+char26.bindgroup9.default,0
+char26.bindgroup10.name,foliage,02.png
+char26.bindgroup10.default,0
+char26.bindgroup11.name,foliage,03.png
+char26.bindgroup11.default,0
+char26.bindgroup12.name,foliage,04.png
+char26.bindgroup12.default,0
+char26.bindgroup13.name,foliage,05.png
+char26.bindgroup13.default,0
+char26.bindgroup14.name,Grasping at Glass,01.png
+char26.bindgroup14.default,0
+char26.bindgroup15.name,Grasping at Glass,02.png
+char26.bindgroup15.default,0
+char26.bindgroup16.name,Grasping at Glass,03.png
+char26.bindgroup16.default,0
+char26.bindgroup17.name,Grasping at Glass,04.png
+char26.bindgroup17.default,0
+char26.bindgroup18.name,Grasping at Glass,05.png
+char26.bindgroup18.default,0
+char26.bindgroup19.name,Hero of the Day,01.png
+char26.bindgroup19.default,0
+char26.bindgroup20.name,Hero of the Day,02.png
+char26.bindgroup20.default,0
+char26.bindgroup21.name,Hero of the Day,03.png
+char26.bindgroup21.default,0
+char26.bindgroup22.name,Hero of the Day,04.png
+char26.bindgroup22.default,0
+char26.bindgroup23.name,Hero of the Day,05.png
+char26.bindgroup23.default,0
+char26.bindgroup24.name,Hero of the Day,06.png
+char26.bindgroup24.default,0
+char26.bindgroup25.name,Lily Eater,01.png
+char26.bindgroup25.default,0
+char26.bindgroup26.name,Lily Eater,02.png
+char26.bindgroup26.default,0
+char26.bindgroup27.name,Lily Eater,03.png
+char26.bindgroup27.default,0
+char26.bindgroup28.name,Lily Eater,04.png
+char26.bindgroup28.default,0
+char26.bindgroup29.name,Lily Eater,05.png
+char26.bindgroup29.default,0
+char26.bindgroup30.name,Miss Daisys Vanity,01.png
+char26.bindgroup30.default,0
+char26.bindgroup31.name,Miss Daisys Vanity,02.png
+char26.bindgroup31.default,0
+char26.bindgroup32.name,Miss Daisys Vanity,03.png
+char26.bindgroup32.default,0
+char26.bindgroup33.name,Miss Daisys Vanity,04.png
+char26.bindgroup33.default,0
+char26.bindgroup34.name,Miss Daisys Vanity,05.png
+char26.bindgroup34.default,0
+char26.bindgroup35.name,space,little fish.png
+char26.bindgroup35.default,0
+char26.bindgroup36.name,space,miss daisys vanity.png
+char26.bindgroup36.default,0
+char26.bindgroup37.name,space,rainbowbeard.png
+char26.bindgroup37.default,0
+char26.bindgroup38.name,tender,01.png
+char26.bindgroup38.default,0
+char26.bindgroup39.name,tender,02.png
+char26.bindgroup39.default,0
+char26.bindgroup40.name,tender,03.png
+char26.bindgroup40.default,0
+char26.bindgroup41.name,tender,04.png
+char26.bindgroup41.default,0
+char27.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char27.bindgroup0.default,0
+char27.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char27.bindgroup1.default,0
+char27.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char27.bindgroup2.default,0
+char27.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char27.bindgroup3.default,0
+char27.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char27.bindgroup4.default,0
+char27.bindgroup5.name,Filling in the Gaps,01.png
+char27.bindgroup5.default,0
+char27.bindgroup6.name,Filling in the Gaps,02.png
+char27.bindgroup6.default,0
+char27.bindgroup7.name,Filling in the Gaps,03.png
+char27.bindgroup7.default,0
+char27.bindgroup8.name,Filling in the Gaps,04.png
+char27.bindgroup8.default,0
+char27.bindgroup9.name,foliage,01.png
+char27.bindgroup9.default,0
+char27.bindgroup10.name,foliage,02.png
+char27.bindgroup10.default,0
+char27.bindgroup11.name,foliage,03.png
+char27.bindgroup11.default,0
+char27.bindgroup12.name,foliage,04.png
+char27.bindgroup12.default,0
+char27.bindgroup13.name,foliage,05.png
+char27.bindgroup13.default,0
+char27.bindgroup14.name,Grasping at Glass,01.png
+char27.bindgroup14.default,0
+char27.bindgroup15.name,Grasping at Glass,02.png
+char27.bindgroup15.default,0
+char27.bindgroup16.name,Grasping at Glass,03.png
+char27.bindgroup16.default,0
+char27.bindgroup17.name,Grasping at Glass,04.png
+char27.bindgroup17.default,0
+char27.bindgroup18.name,Grasping at Glass,05.png
+char27.bindgroup18.default,0
+char27.bindgroup19.name,Hero of the Day,01.png
+char27.bindgroup19.default,0
+char27.bindgroup20.name,Hero of the Day,02.png
+char27.bindgroup20.default,0
+char27.bindgroup21.name,Hero of the Day,03.png
+char27.bindgroup21.default,0
+char27.bindgroup22.name,Hero of the Day,04.png
+char27.bindgroup22.default,0
+char27.bindgroup23.name,Hero of the Day,05.png
+char27.bindgroup23.default,0
+char27.bindgroup24.name,Hero of the Day,06.png
+char27.bindgroup24.default,0
+char27.bindgroup25.name,Lily Eater,01.png
+char27.bindgroup25.default,0
+char27.bindgroup26.name,Lily Eater,02.png
+char27.bindgroup26.default,0
+char27.bindgroup27.name,Lily Eater,03.png
+char27.bindgroup27.default,0
+char27.bindgroup28.name,Lily Eater,04.png
+char27.bindgroup28.default,0
+char27.bindgroup29.name,Lily Eater,05.png
+char27.bindgroup29.default,0
+char27.bindgroup30.name,Miss Daisys Vanity,01.png
+char27.bindgroup30.default,0
+char27.bindgroup31.name,Miss Daisys Vanity,02.png
+char27.bindgroup31.default,0
+char27.bindgroup32.name,Miss Daisys Vanity,03.png
+char27.bindgroup32.default,0
+char27.bindgroup33.name,Miss Daisys Vanity,04.png
+char27.bindgroup33.default,0
+char27.bindgroup34.name,Miss Daisys Vanity,05.png
+char27.bindgroup34.default,0
+char27.bindgroup35.name,space,little fish.png
+char27.bindgroup35.default,0
+char27.bindgroup36.name,space,miss daisys vanity.png
+char27.bindgroup36.default,0
+char27.bindgroup37.name,space,rainbowbeard.png
+char27.bindgroup37.default,0
+char27.bindgroup38.name,tender,01.png
+char27.bindgroup38.default,0
+char27.bindgroup39.name,tender,02.png
+char27.bindgroup39.default,0
+char27.bindgroup40.name,tender,03.png
+char27.bindgroup40.default,0
+char27.bindgroup41.name,tender,04.png
+char27.bindgroup41.default,0
+char28.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char28.bindgroup0.default,0
+char28.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char28.bindgroup1.default,0
+char28.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char28.bindgroup2.default,0
+char28.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char28.bindgroup3.default,0
+char28.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char28.bindgroup4.default,0
+char28.bindgroup5.name,Filling in the Gaps,01.png
+char28.bindgroup5.default,0
+char28.bindgroup6.name,Filling in the Gaps,02.png
+char28.bindgroup6.default,0
+char28.bindgroup7.name,Filling in the Gaps,03.png
+char28.bindgroup7.default,0
+char28.bindgroup8.name,Filling in the Gaps,04.png
+char28.bindgroup8.default,0
+char28.bindgroup9.name,foliage,01.png
+char28.bindgroup9.default,0
+char28.bindgroup10.name,foliage,02.png
+char28.bindgroup10.default,0
+char28.bindgroup11.name,foliage,03.png
+char28.bindgroup11.default,0
+char28.bindgroup12.name,foliage,04.png
+char28.bindgroup12.default,0
+char28.bindgroup13.name,foliage,05.png
+char28.bindgroup13.default,0
+char28.bindgroup14.name,Grasping at Glass,01.png
+char28.bindgroup14.default,0
+char28.bindgroup15.name,Grasping at Glass,02.png
+char28.bindgroup15.default,0
+char28.bindgroup16.name,Grasping at Glass,03.png
+char28.bindgroup16.default,0
+char28.bindgroup17.name,Grasping at Glass,04.png
+char28.bindgroup17.default,0
+char28.bindgroup18.name,Grasping at Glass,05.png
+char28.bindgroup18.default,0
+char28.bindgroup19.name,Hero of the Day,01.png
+char28.bindgroup19.default,0
+char28.bindgroup20.name,Hero of the Day,02.png
+char28.bindgroup20.default,0
+char28.bindgroup21.name,Hero of the Day,03.png
+char28.bindgroup21.default,0
+char28.bindgroup22.name,Hero of the Day,04.png
+char28.bindgroup22.default,0
+char28.bindgroup23.name,Hero of the Day,05.png
+char28.bindgroup23.default,0
+char28.bindgroup24.name,Hero of the Day,06.png
+char28.bindgroup24.default,0
+char28.bindgroup25.name,Lily Eater,01.png
+char28.bindgroup25.default,0
+char28.bindgroup26.name,Lily Eater,02.png
+char28.bindgroup26.default,0
+char28.bindgroup27.name,Lily Eater,03.png
+char28.bindgroup27.default,0
+char28.bindgroup28.name,Lily Eater,04.png
+char28.bindgroup28.default,0
+char28.bindgroup29.name,Lily Eater,05.png
+char28.bindgroup29.default,0
+char28.bindgroup30.name,Miss Daisys Vanity,01.png
+char28.bindgroup30.default,0
+char28.bindgroup31.name,Miss Daisys Vanity,02.png
+char28.bindgroup31.default,0
+char28.bindgroup32.name,Miss Daisys Vanity,03.png
+char28.bindgroup32.default,0
+char28.bindgroup33.name,Miss Daisys Vanity,04.png
+char28.bindgroup33.default,0
+char28.bindgroup34.name,Miss Daisys Vanity,05.png
+char28.bindgroup34.default,0
+char28.bindgroup35.name,space,little fish.png
+char28.bindgroup35.default,0
+char28.bindgroup36.name,space,miss daisys vanity.png
+char28.bindgroup36.default,0
+char28.bindgroup37.name,space,rainbowbeard.png
+char28.bindgroup37.default,0
+char28.bindgroup38.name,tender,01.png
+char28.bindgroup38.default,0
+char28.bindgroup39.name,tender,02.png
+char28.bindgroup39.default,0
+char28.bindgroup40.name,tender,03.png
+char28.bindgroup40.default,0
+char28.bindgroup41.name,tender,04.png
+char28.bindgroup41.default,0
+char29.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char29.bindgroup0.default,0
+char29.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char29.bindgroup1.default,0
+char29.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char29.bindgroup2.default,0
+char29.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char29.bindgroup3.default,0
+char29.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char29.bindgroup4.default,0
+char29.bindgroup5.name,Filling in the Gaps,01.png
+char29.bindgroup5.default,0
+char29.bindgroup6.name,Filling in the Gaps,02.png
+char29.bindgroup6.default,0
+char29.bindgroup7.name,Filling in the Gaps,03.png
+char29.bindgroup7.default,0
+char29.bindgroup8.name,Filling in the Gaps,04.png
+char29.bindgroup8.default,0
+char29.bindgroup9.name,foliage,01.png
+char29.bindgroup9.default,0
+char29.bindgroup10.name,foliage,02.png
+char29.bindgroup10.default,0
+char29.bindgroup11.name,foliage,03.png
+char29.bindgroup11.default,0
+char29.bindgroup12.name,foliage,04.png
+char29.bindgroup12.default,0
+char29.bindgroup13.name,foliage,05.png
+char29.bindgroup13.default,0
+char29.bindgroup14.name,Grasping at Glass,01.png
+char29.bindgroup14.default,0
+char29.bindgroup15.name,Grasping at Glass,02.png
+char29.bindgroup15.default,0
+char29.bindgroup16.name,Grasping at Glass,03.png
+char29.bindgroup16.default,0
+char29.bindgroup17.name,Grasping at Glass,04.png
+char29.bindgroup17.default,0
+char29.bindgroup18.name,Grasping at Glass,05.png
+char29.bindgroup18.default,0
+char29.bindgroup19.name,Hero of the Day,01.png
+char29.bindgroup19.default,0
+char29.bindgroup20.name,Hero of the Day,02.png
+char29.bindgroup20.default,0
+char29.bindgroup21.name,Hero of the Day,03.png
+char29.bindgroup21.default,0
+char29.bindgroup22.name,Hero of the Day,04.png
+char29.bindgroup22.default,0
+char29.bindgroup23.name,Hero of the Day,05.png
+char29.bindgroup23.default,0
+char29.bindgroup24.name,Hero of the Day,06.png
+char29.bindgroup24.default,0
+char29.bindgroup25.name,Lily Eater,01.png
+char29.bindgroup25.default,0
+char29.bindgroup26.name,Lily Eater,02.png
+char29.bindgroup26.default,0
+char29.bindgroup27.name,Lily Eater,03.png
+char29.bindgroup27.default,0
+char29.bindgroup28.name,Lily Eater,04.png
+char29.bindgroup28.default,0
+char29.bindgroup29.name,Lily Eater,05.png
+char29.bindgroup29.default,0
+char29.bindgroup30.name,Miss Daisys Vanity,01.png
+char29.bindgroup30.default,0
+char29.bindgroup31.name,Miss Daisys Vanity,02.png
+char29.bindgroup31.default,0
+char29.bindgroup32.name,Miss Daisys Vanity,03.png
+char29.bindgroup32.default,0
+char29.bindgroup33.name,Miss Daisys Vanity,04.png
+char29.bindgroup33.default,0
+char29.bindgroup34.name,Miss Daisys Vanity,05.png
+char29.bindgroup34.default,0
+char29.bindgroup35.name,space,little fish.png
+char29.bindgroup35.default,0
+char29.bindgroup36.name,space,miss daisys vanity.png
+char29.bindgroup36.default,0
+char29.bindgroup37.name,space,rainbowbeard.png
+char29.bindgroup37.default,0
+char29.bindgroup38.name,tender,01.png
+char29.bindgroup38.default,0
+char29.bindgroup39.name,tender,02.png
+char29.bindgroup39.default,0
+char29.bindgroup40.name,tender,03.png
+char29.bindgroup40.default,0
+char29.bindgroup41.name,tender,04.png
+char29.bindgroup41.default,0
+char30.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char30.bindgroup0.default,0
+char30.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char30.bindgroup1.default,0
+char30.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char30.bindgroup2.default,0
+char30.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char30.bindgroup3.default,0
+char30.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char30.bindgroup4.default,0
+char30.bindgroup5.name,Filling in the Gaps,01.png
+char30.bindgroup5.default,0
+char30.bindgroup6.name,Filling in the Gaps,02.png
+char30.bindgroup6.default,0
+char30.bindgroup7.name,Filling in the Gaps,03.png
+char30.bindgroup7.default,0
+char30.bindgroup8.name,Filling in the Gaps,04.png
+char30.bindgroup8.default,0
+char30.bindgroup9.name,foliage,01.png
+char30.bindgroup9.default,0
+char30.bindgroup10.name,foliage,02.png
+char30.bindgroup10.default,0
+char30.bindgroup11.name,foliage,03.png
+char30.bindgroup11.default,0
+char30.bindgroup12.name,foliage,04.png
+char30.bindgroup12.default,0
+char30.bindgroup13.name,foliage,05.png
+char30.bindgroup13.default,0
+char30.bindgroup14.name,Grasping at Glass,01.png
+char30.bindgroup14.default,0
+char30.bindgroup15.name,Grasping at Glass,02.png
+char30.bindgroup15.default,0
+char30.bindgroup16.name,Grasping at Glass,03.png
+char30.bindgroup16.default,0
+char30.bindgroup17.name,Grasping at Glass,04.png
+char30.bindgroup17.default,0
+char30.bindgroup18.name,Grasping at Glass,05.png
+char30.bindgroup18.default,0
+char30.bindgroup19.name,Hero of the Day,01.png
+char30.bindgroup19.default,0
+char30.bindgroup20.name,Hero of the Day,02.png
+char30.bindgroup20.default,0
+char30.bindgroup21.name,Hero of the Day,03.png
+char30.bindgroup21.default,0
+char30.bindgroup22.name,Hero of the Day,04.png
+char30.bindgroup22.default,0
+char30.bindgroup23.name,Hero of the Day,05.png
+char30.bindgroup23.default,0
+char30.bindgroup24.name,Hero of the Day,06.png
+char30.bindgroup24.default,0
+char30.bindgroup25.name,Lily Eater,01.png
+char30.bindgroup25.default,0
+char30.bindgroup26.name,Lily Eater,02.png
+char30.bindgroup26.default,0
+char30.bindgroup27.name,Lily Eater,03.png
+char30.bindgroup27.default,0
+char30.bindgroup28.name,Lily Eater,04.png
+char30.bindgroup28.default,0
+char30.bindgroup29.name,Lily Eater,05.png
+char30.bindgroup29.default,0
+char30.bindgroup30.name,Miss Daisys Vanity,01.png
+char30.bindgroup30.default,0
+char30.bindgroup31.name,Miss Daisys Vanity,02.png
+char30.bindgroup31.default,0
+char30.bindgroup32.name,Miss Daisys Vanity,03.png
+char30.bindgroup32.default,0
+char30.bindgroup33.name,Miss Daisys Vanity,04.png
+char30.bindgroup33.default,0
+char30.bindgroup34.name,Miss Daisys Vanity,05.png
+char30.bindgroup34.default,0
+char30.bindgroup35.name,space,little fish.png
+char30.bindgroup35.default,0
+char30.bindgroup36.name,space,miss daisys vanity.png
+char30.bindgroup36.default,0
+char30.bindgroup37.name,space,rainbowbeard.png
+char30.bindgroup37.default,0
+char30.bindgroup38.name,tender,01.png
+char30.bindgroup38.default,0
+char30.bindgroup39.name,tender,02.png
+char30.bindgroup39.default,0
+char30.bindgroup40.name,tender,03.png
+char30.bindgroup40.default,0
+char30.bindgroup41.name,tender,04.png
+char30.bindgroup41.default,0
+char31.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char31.bindgroup0.default,0
+char31.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char31.bindgroup1.default,0
+char31.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char31.bindgroup2.default,0
+char31.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char31.bindgroup3.default,0
+char31.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char31.bindgroup4.default,0
+char31.bindgroup5.name,Filling in the Gaps,01.png
+char31.bindgroup5.default,0
+char31.bindgroup6.name,Filling in the Gaps,02.png
+char31.bindgroup6.default,0
+char31.bindgroup7.name,Filling in the Gaps,03.png
+char31.bindgroup7.default,0
+char31.bindgroup8.name,Filling in the Gaps,04.png
+char31.bindgroup8.default,0
+char31.bindgroup9.name,foliage,01.png
+char31.bindgroup9.default,0
+char31.bindgroup10.name,foliage,02.png
+char31.bindgroup10.default,0
+char31.bindgroup11.name,foliage,03.png
+char31.bindgroup11.default,0
+char31.bindgroup12.name,foliage,04.png
+char31.bindgroup12.default,0
+char31.bindgroup13.name,foliage,05.png
+char31.bindgroup13.default,0
+char31.bindgroup14.name,Grasping at Glass,01.png
+char31.bindgroup14.default,0
+char31.bindgroup15.name,Grasping at Glass,02.png
+char31.bindgroup15.default,0
+char31.bindgroup16.name,Grasping at Glass,03.png
+char31.bindgroup16.default,0
+char31.bindgroup17.name,Grasping at Glass,04.png
+char31.bindgroup17.default,0
+char31.bindgroup18.name,Grasping at Glass,05.png
+char31.bindgroup18.default,0
+char31.bindgroup19.name,Hero of the Day,01.png
+char31.bindgroup19.default,0
+char31.bindgroup20.name,Hero of the Day,02.png
+char31.bindgroup20.default,0
+char31.bindgroup21.name,Hero of the Day,03.png
+char31.bindgroup21.default,0
+char31.bindgroup22.name,Hero of the Day,04.png
+char31.bindgroup22.default,0
+char31.bindgroup23.name,Hero of the Day,05.png
+char31.bindgroup23.default,0
+char31.bindgroup24.name,Hero of the Day,06.png
+char31.bindgroup24.default,0
+char31.bindgroup25.name,Lily Eater,01.png
+char31.bindgroup25.default,0
+char31.bindgroup26.name,Lily Eater,02.png
+char31.bindgroup26.default,0
+char31.bindgroup27.name,Lily Eater,03.png
+char31.bindgroup27.default,0
+char31.bindgroup28.name,Lily Eater,04.png
+char31.bindgroup28.default,0
+char31.bindgroup29.name,Lily Eater,05.png
+char31.bindgroup29.default,0
+char31.bindgroup30.name,Miss Daisys Vanity,01.png
+char31.bindgroup30.default,0
+char31.bindgroup31.name,Miss Daisys Vanity,02.png
+char31.bindgroup31.default,0
+char31.bindgroup32.name,Miss Daisys Vanity,03.png
+char31.bindgroup32.default,0
+char31.bindgroup33.name,Miss Daisys Vanity,04.png
+char31.bindgroup33.default,0
+char31.bindgroup34.name,Miss Daisys Vanity,05.png
+char31.bindgroup34.default,0
+char31.bindgroup35.name,space,little fish.png
+char31.bindgroup35.default,0
+char31.bindgroup36.name,space,miss daisys vanity.png
+char31.bindgroup36.default,0
+char31.bindgroup37.name,space,rainbowbeard.png
+char31.bindgroup37.default,0
+char31.bindgroup38.name,tender,01.png
+char31.bindgroup38.default,0
+char31.bindgroup39.name,tender,02.png
+char31.bindgroup39.default,0
+char31.bindgroup40.name,tender,03.png
+char31.bindgroup40.default,0
+char31.bindgroup41.name,tender,04.png
+char31.bindgroup41.default,0
+char32.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char32.bindgroup0.default,0
+char32.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char32.bindgroup1.default,0
+char32.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char32.bindgroup2.default,0
+char32.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char32.bindgroup3.default,0
+char32.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char32.bindgroup4.default,0
+char32.bindgroup5.name,Filling in the Gaps,01.png
+char32.bindgroup5.default,0
+char32.bindgroup6.name,Filling in the Gaps,02.png
+char32.bindgroup6.default,0
+char32.bindgroup7.name,Filling in the Gaps,03.png
+char32.bindgroup7.default,0
+char32.bindgroup8.name,Filling in the Gaps,04.png
+char32.bindgroup8.default,0
+char32.bindgroup9.name,foliage,01.png
+char32.bindgroup9.default,0
+char32.bindgroup10.name,foliage,02.png
+char32.bindgroup10.default,0
+char32.bindgroup11.name,foliage,03.png
+char32.bindgroup11.default,0
+char32.bindgroup12.name,foliage,04.png
+char32.bindgroup12.default,0
+char32.bindgroup13.name,foliage,05.png
+char32.bindgroup13.default,0
+char32.bindgroup14.name,Grasping at Glass,01.png
+char32.bindgroup14.default,0
+char32.bindgroup15.name,Grasping at Glass,02.png
+char32.bindgroup15.default,0
+char32.bindgroup16.name,Grasping at Glass,03.png
+char32.bindgroup16.default,0
+char32.bindgroup17.name,Grasping at Glass,04.png
+char32.bindgroup17.default,0
+char32.bindgroup18.name,Grasping at Glass,05.png
+char32.bindgroup18.default,0
+char32.bindgroup19.name,Hero of the Day,01.png
+char32.bindgroup19.default,0
+char32.bindgroup20.name,Hero of the Day,02.png
+char32.bindgroup20.default,0
+char32.bindgroup21.name,Hero of the Day,03.png
+char32.bindgroup21.default,0
+char32.bindgroup22.name,Hero of the Day,04.png
+char32.bindgroup22.default,0
+char32.bindgroup23.name,Hero of the Day,05.png
+char32.bindgroup23.default,0
+char32.bindgroup24.name,Hero of the Day,06.png
+char32.bindgroup24.default,0
+char32.bindgroup25.name,Lily Eater,01.png
+char32.bindgroup25.default,0
+char32.bindgroup26.name,Lily Eater,02.png
+char32.bindgroup26.default,0
+char32.bindgroup27.name,Lily Eater,03.png
+char32.bindgroup27.default,0
+char32.bindgroup28.name,Lily Eater,04.png
+char32.bindgroup28.default,0
+char32.bindgroup29.name,Lily Eater,05.png
+char32.bindgroup29.default,0
+char32.bindgroup30.name,Miss Daisys Vanity,01.png
+char32.bindgroup30.default,0
+char32.bindgroup31.name,Miss Daisys Vanity,02.png
+char32.bindgroup31.default,0
+char32.bindgroup32.name,Miss Daisys Vanity,03.png
+char32.bindgroup32.default,0
+char32.bindgroup33.name,Miss Daisys Vanity,04.png
+char32.bindgroup33.default,0
+char32.bindgroup34.name,Miss Daisys Vanity,05.png
+char32.bindgroup34.default,0
+char32.bindgroup35.name,space,little fish.png
+char32.bindgroup35.default,0
+char32.bindgroup36.name,space,miss daisys vanity.png
+char32.bindgroup36.default,0
+char32.bindgroup37.name,space,rainbowbeard.png
+char32.bindgroup37.default,0
+char32.bindgroup38.name,tender,01.png
+char32.bindgroup38.default,0
+char32.bindgroup39.name,tender,02.png
+char32.bindgroup39.default,0
+char32.bindgroup40.name,tender,03.png
+char32.bindgroup40.default,0
+char32.bindgroup41.name,tender,04.png
+char32.bindgroup41.default,0
+char33.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char33.bindgroup0.default,0
+char33.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char33.bindgroup1.default,0
+char33.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char33.bindgroup2.default,0
+char33.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char33.bindgroup3.default,0
+char33.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char33.bindgroup4.default,0
+char33.bindgroup5.name,Filling in the Gaps,01.png
+char33.bindgroup5.default,0
+char33.bindgroup6.name,Filling in the Gaps,02.png
+char33.bindgroup6.default,0
+char33.bindgroup7.name,Filling in the Gaps,03.png
+char33.bindgroup7.default,0
+char33.bindgroup8.name,Filling in the Gaps,04.png
+char33.bindgroup8.default,0
+char33.bindgroup9.name,foliage,01.png
+char33.bindgroup9.default,0
+char33.bindgroup10.name,foliage,02.png
+char33.bindgroup10.default,0
+char33.bindgroup11.name,foliage,03.png
+char33.bindgroup11.default,0
+char33.bindgroup12.name,foliage,04.png
+char33.bindgroup12.default,0
+char33.bindgroup13.name,foliage,05.png
+char33.bindgroup13.default,0
+char33.bindgroup14.name,Grasping at Glass,01.png
+char33.bindgroup14.default,0
+char33.bindgroup15.name,Grasping at Glass,02.png
+char33.bindgroup15.default,0
+char33.bindgroup16.name,Grasping at Glass,03.png
+char33.bindgroup16.default,0
+char33.bindgroup17.name,Grasping at Glass,04.png
+char33.bindgroup17.default,0
+char33.bindgroup18.name,Grasping at Glass,05.png
+char33.bindgroup18.default,0
+char33.bindgroup19.name,Hero of the Day,01.png
+char33.bindgroup19.default,0
+char33.bindgroup20.name,Hero of the Day,02.png
+char33.bindgroup20.default,0
+char33.bindgroup21.name,Hero of the Day,03.png
+char33.bindgroup21.default,0
+char33.bindgroup22.name,Hero of the Day,04.png
+char33.bindgroup22.default,0
+char33.bindgroup23.name,Hero of the Day,05.png
+char33.bindgroup23.default,0
+char33.bindgroup24.name,Hero of the Day,06.png
+char33.bindgroup24.default,0
+char33.bindgroup25.name,Lily Eater,01.png
+char33.bindgroup25.default,0
+char33.bindgroup26.name,Lily Eater,02.png
+char33.bindgroup26.default,0
+char33.bindgroup27.name,Lily Eater,03.png
+char33.bindgroup27.default,0
+char33.bindgroup28.name,Lily Eater,04.png
+char33.bindgroup28.default,0
+char33.bindgroup29.name,Lily Eater,05.png
+char33.bindgroup29.default,0
+char33.bindgroup30.name,Miss Daisys Vanity,01.png
+char33.bindgroup30.default,0
+char33.bindgroup31.name,Miss Daisys Vanity,02.png
+char33.bindgroup31.default,0
+char33.bindgroup32.name,Miss Daisys Vanity,03.png
+char33.bindgroup32.default,0
+char33.bindgroup33.name,Miss Daisys Vanity,04.png
+char33.bindgroup33.default,0
+char33.bindgroup34.name,Miss Daisys Vanity,05.png
+char33.bindgroup34.default,0
+char33.bindgroup35.name,space,little fish.png
+char33.bindgroup35.default,0
+char33.bindgroup36.name,space,miss daisys vanity.png
+char33.bindgroup36.default,0
+char33.bindgroup37.name,space,rainbowbeard.png
+char33.bindgroup37.default,0
+char33.bindgroup38.name,tender,01.png
+char33.bindgroup38.default,0
+char33.bindgroup39.name,tender,02.png
+char33.bindgroup39.default,0
+char33.bindgroup40.name,tender,03.png
+char33.bindgroup40.default,0
+char33.bindgroup41.name,tender,04.png
+char33.bindgroup41.default,0
+char34.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char34.bindgroup0.default,0
+char34.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char34.bindgroup1.default,0
+char34.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char34.bindgroup2.default,0
+char34.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char34.bindgroup3.default,0
+char34.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char34.bindgroup4.default,0
+char34.bindgroup5.name,Filling in the Gaps,01.png
+char34.bindgroup5.default,0
+char34.bindgroup6.name,Filling in the Gaps,02.png
+char34.bindgroup6.default,0
+char34.bindgroup7.name,Filling in the Gaps,03.png
+char34.bindgroup7.default,0
+char34.bindgroup8.name,Filling in the Gaps,04.png
+char34.bindgroup8.default,0
+char34.bindgroup9.name,foliage,01.png
+char34.bindgroup9.default,0
+char34.bindgroup10.name,foliage,02.png
+char34.bindgroup10.default,0
+char34.bindgroup11.name,foliage,03.png
+char34.bindgroup11.default,0
+char34.bindgroup12.name,foliage,04.png
+char34.bindgroup12.default,0
+char34.bindgroup13.name,foliage,05.png
+char34.bindgroup13.default,0
+char34.bindgroup14.name,Grasping at Glass,01.png
+char34.bindgroup14.default,0
+char34.bindgroup15.name,Grasping at Glass,02.png
+char34.bindgroup15.default,0
+char34.bindgroup16.name,Grasping at Glass,03.png
+char34.bindgroup16.default,0
+char34.bindgroup17.name,Grasping at Glass,04.png
+char34.bindgroup17.default,0
+char34.bindgroup18.name,Grasping at Glass,05.png
+char34.bindgroup18.default,0
+char34.bindgroup19.name,Hero of the Day,01.png
+char34.bindgroup19.default,0
+char34.bindgroup20.name,Hero of the Day,02.png
+char34.bindgroup20.default,0
+char34.bindgroup21.name,Hero of the Day,03.png
+char34.bindgroup21.default,0
+char34.bindgroup22.name,Hero of the Day,04.png
+char34.bindgroup22.default,0
+char34.bindgroup23.name,Hero of the Day,05.png
+char34.bindgroup23.default,0
+char34.bindgroup24.name,Hero of the Day,06.png
+char34.bindgroup24.default,0
+char34.bindgroup25.name,Lily Eater,01.png
+char34.bindgroup25.default,0
+char34.bindgroup26.name,Lily Eater,02.png
+char34.bindgroup26.default,0
+char34.bindgroup27.name,Lily Eater,03.png
+char34.bindgroup27.default,0
+char34.bindgroup28.name,Lily Eater,04.png
+char34.bindgroup28.default,0
+char34.bindgroup29.name,Lily Eater,05.png
+char34.bindgroup29.default,0
+char34.bindgroup30.name,Miss Daisys Vanity,01.png
+char34.bindgroup30.default,0
+char34.bindgroup31.name,Miss Daisys Vanity,02.png
+char34.bindgroup31.default,0
+char34.bindgroup32.name,Miss Daisys Vanity,03.png
+char34.bindgroup32.default,0
+char34.bindgroup33.name,Miss Daisys Vanity,04.png
+char34.bindgroup33.default,0
+char34.bindgroup34.name,Miss Daisys Vanity,05.png
+char34.bindgroup34.default,0
+char34.bindgroup35.name,space,little fish.png
+char34.bindgroup35.default,0
+char34.bindgroup36.name,space,miss daisys vanity.png
+char34.bindgroup36.default,0
+char34.bindgroup37.name,space,rainbowbeard.png
+char34.bindgroup37.default,0
+char34.bindgroup38.name,tender,01.png
+char34.bindgroup38.default,0
+char34.bindgroup39.name,tender,02.png
+char34.bindgroup39.default,0
+char34.bindgroup40.name,tender,03.png
+char34.bindgroup40.default,0
+char34.bindgroup41.name,tender,04.png
+char34.bindgroup41.default,0
+char35.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char35.bindgroup0.default,0
+char35.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char35.bindgroup1.default,0
+char35.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char35.bindgroup2.default,0
+char35.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char35.bindgroup3.default,0
+char35.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char35.bindgroup4.default,0
+char35.bindgroup5.name,Filling in the Gaps,01.png
+char35.bindgroup5.default,0
+char35.bindgroup6.name,Filling in the Gaps,02.png
+char35.bindgroup6.default,0
+char35.bindgroup7.name,Filling in the Gaps,03.png
+char35.bindgroup7.default,0
+char35.bindgroup8.name,Filling in the Gaps,04.png
+char35.bindgroup8.default,0
+char35.bindgroup9.name,foliage,01.png
+char35.bindgroup9.default,0
+char35.bindgroup10.name,foliage,02.png
+char35.bindgroup10.default,0
+char35.bindgroup11.name,foliage,03.png
+char35.bindgroup11.default,0
+char35.bindgroup12.name,foliage,04.png
+char35.bindgroup12.default,0
+char35.bindgroup13.name,foliage,05.png
+char35.bindgroup13.default,0
+char35.bindgroup14.name,Grasping at Glass,01.png
+char35.bindgroup14.default,0
+char35.bindgroup15.name,Grasping at Glass,02.png
+char35.bindgroup15.default,0
+char35.bindgroup16.name,Grasping at Glass,03.png
+char35.bindgroup16.default,0
+char35.bindgroup17.name,Grasping at Glass,04.png
+char35.bindgroup17.default,0
+char35.bindgroup18.name,Grasping at Glass,05.png
+char35.bindgroup18.default,0
+char35.bindgroup19.name,Hero of the Day,01.png
+char35.bindgroup19.default,0
+char35.bindgroup20.name,Hero of the Day,02.png
+char35.bindgroup20.default,0
+char35.bindgroup21.name,Hero of the Day,03.png
+char35.bindgroup21.default,0
+char35.bindgroup22.name,Hero of the Day,04.png
+char35.bindgroup22.default,0
+char35.bindgroup23.name,Hero of the Day,05.png
+char35.bindgroup23.default,0
+char35.bindgroup24.name,Hero of the Day,06.png
+char35.bindgroup24.default,0
+char35.bindgroup25.name,Lily Eater,01.png
+char35.bindgroup25.default,0
+char35.bindgroup26.name,Lily Eater,02.png
+char35.bindgroup26.default,0
+char35.bindgroup27.name,Lily Eater,03.png
+char35.bindgroup27.default,0
+char35.bindgroup28.name,Lily Eater,04.png
+char35.bindgroup28.default,0
+char35.bindgroup29.name,Lily Eater,05.png
+char35.bindgroup29.default,0
+char35.bindgroup30.name,Miss Daisys Vanity,01.png
+char35.bindgroup30.default,0
+char35.bindgroup31.name,Miss Daisys Vanity,02.png
+char35.bindgroup31.default,0
+char35.bindgroup32.name,Miss Daisys Vanity,03.png
+char35.bindgroup32.default,0
+char35.bindgroup33.name,Miss Daisys Vanity,04.png
+char35.bindgroup33.default,0
+char35.bindgroup34.name,Miss Daisys Vanity,05.png
+char35.bindgroup34.default,0
+char35.bindgroup35.name,space,little fish.png
+char35.bindgroup35.default,0
+char35.bindgroup36.name,space,miss daisys vanity.png
+char35.bindgroup36.default,0
+char35.bindgroup37.name,space,rainbowbeard.png
+char35.bindgroup37.default,0
+char35.bindgroup38.name,tender,01.png
+char35.bindgroup38.default,0
+char35.bindgroup39.name,tender,02.png
+char35.bindgroup39.default,0
+char35.bindgroup40.name,tender,03.png
+char35.bindgroup40.default,0
+char35.bindgroup41.name,tender,04.png
+char35.bindgroup41.default,0
+char36.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char36.bindgroup0.default,0
+char36.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char36.bindgroup1.default,0
+char36.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char36.bindgroup2.default,0
+char36.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char36.bindgroup3.default,0
+char36.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char36.bindgroup4.default,0
+char36.bindgroup5.name,Filling in the Gaps,01.png
+char36.bindgroup5.default,0
+char36.bindgroup6.name,Filling in the Gaps,02.png
+char36.bindgroup6.default,0
+char36.bindgroup7.name,Filling in the Gaps,03.png
+char36.bindgroup7.default,0
+char36.bindgroup8.name,Filling in the Gaps,04.png
+char36.bindgroup8.default,0
+char36.bindgroup9.name,foliage,01.png
+char36.bindgroup9.default,0
+char36.bindgroup10.name,foliage,02.png
+char36.bindgroup10.default,0
+char36.bindgroup11.name,foliage,03.png
+char36.bindgroup11.default,0
+char36.bindgroup12.name,foliage,04.png
+char36.bindgroup12.default,0
+char36.bindgroup13.name,foliage,05.png
+char36.bindgroup13.default,0
+char36.bindgroup14.name,Grasping at Glass,01.png
+char36.bindgroup14.default,0
+char36.bindgroup15.name,Grasping at Glass,02.png
+char36.bindgroup15.default,0
+char36.bindgroup16.name,Grasping at Glass,03.png
+char36.bindgroup16.default,0
+char36.bindgroup17.name,Grasping at Glass,04.png
+char36.bindgroup17.default,0
+char36.bindgroup18.name,Grasping at Glass,05.png
+char36.bindgroup18.default,0
+char36.bindgroup19.name,Hero of the Day,01.png
+char36.bindgroup19.default,0
+char36.bindgroup20.name,Hero of the Day,02.png
+char36.bindgroup20.default,0
+char36.bindgroup21.name,Hero of the Day,03.png
+char36.bindgroup21.default,0
+char36.bindgroup22.name,Hero of the Day,04.png
+char36.bindgroup22.default,0
+char36.bindgroup23.name,Hero of the Day,05.png
+char36.bindgroup23.default,0
+char36.bindgroup24.name,Hero of the Day,06.png
+char36.bindgroup24.default,0
+char36.bindgroup25.name,Lily Eater,01.png
+char36.bindgroup25.default,0
+char36.bindgroup26.name,Lily Eater,02.png
+char36.bindgroup26.default,0
+char36.bindgroup27.name,Lily Eater,03.png
+char36.bindgroup27.default,0
+char36.bindgroup28.name,Lily Eater,04.png
+char36.bindgroup28.default,0
+char36.bindgroup29.name,Lily Eater,05.png
+char36.bindgroup29.default,0
+char36.bindgroup30.name,Miss Daisys Vanity,01.png
+char36.bindgroup30.default,0
+char36.bindgroup31.name,Miss Daisys Vanity,02.png
+char36.bindgroup31.default,0
+char36.bindgroup32.name,Miss Daisys Vanity,03.png
+char36.bindgroup32.default,0
+char36.bindgroup33.name,Miss Daisys Vanity,04.png
+char36.bindgroup33.default,0
+char36.bindgroup34.name,Miss Daisys Vanity,05.png
+char36.bindgroup34.default,0
+char36.bindgroup35.name,space,little fish.png
+char36.bindgroup35.default,0
+char36.bindgroup36.name,space,miss daisys vanity.png
+char36.bindgroup36.default,0
+char36.bindgroup37.name,space,rainbowbeard.png
+char36.bindgroup37.default,0
+char36.bindgroup38.name,tender,01.png
+char36.bindgroup38.default,0
+char36.bindgroup39.name,tender,02.png
+char36.bindgroup39.default,0
+char36.bindgroup40.name,tender,03.png
+char36.bindgroup40.default,0
+char36.bindgroup41.name,tender,04.png
+char36.bindgroup41.default,0
+char37.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char37.bindgroup0.default,0
+char37.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char37.bindgroup1.default,0
+char37.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char37.bindgroup2.default,0
+char37.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char37.bindgroup3.default,0
+char37.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char37.bindgroup4.default,0
+char37.bindgroup5.name,Filling in the Gaps,01.png
+char37.bindgroup5.default,0
+char37.bindgroup6.name,Filling in the Gaps,02.png
+char37.bindgroup6.default,0
+char37.bindgroup7.name,Filling in the Gaps,03.png
+char37.bindgroup7.default,0
+char37.bindgroup8.name,Filling in the Gaps,04.png
+char37.bindgroup8.default,0
+char37.bindgroup9.name,foliage,01.png
+char37.bindgroup9.default,0
+char37.bindgroup10.name,foliage,02.png
+char37.bindgroup10.default,0
+char37.bindgroup11.name,foliage,03.png
+char37.bindgroup11.default,0
+char37.bindgroup12.name,foliage,04.png
+char37.bindgroup12.default,0
+char37.bindgroup13.name,foliage,05.png
+char37.bindgroup13.default,0
+char37.bindgroup14.name,Grasping at Glass,01.png
+char37.bindgroup14.default,0
+char37.bindgroup15.name,Grasping at Glass,02.png
+char37.bindgroup15.default,0
+char37.bindgroup16.name,Grasping at Glass,03.png
+char37.bindgroup16.default,0
+char37.bindgroup17.name,Grasping at Glass,04.png
+char37.bindgroup17.default,0
+char37.bindgroup18.name,Grasping at Glass,05.png
+char37.bindgroup18.default,0
+char37.bindgroup19.name,Hero of the Day,01.png
+char37.bindgroup19.default,0
+char37.bindgroup20.name,Hero of the Day,02.png
+char37.bindgroup20.default,0
+char37.bindgroup21.name,Hero of the Day,03.png
+char37.bindgroup21.default,0
+char37.bindgroup22.name,Hero of the Day,04.png
+char37.bindgroup22.default,0
+char37.bindgroup23.name,Hero of the Day,05.png
+char37.bindgroup23.default,0
+char37.bindgroup24.name,Hero of the Day,06.png
+char37.bindgroup24.default,0
+char37.bindgroup25.name,Lily Eater,01.png
+char37.bindgroup25.default,0
+char37.bindgroup26.name,Lily Eater,02.png
+char37.bindgroup26.default,0
+char37.bindgroup27.name,Lily Eater,03.png
+char37.bindgroup27.default,0
+char37.bindgroup28.name,Lily Eater,04.png
+char37.bindgroup28.default,0
+char37.bindgroup29.name,Lily Eater,05.png
+char37.bindgroup29.default,0
+char37.bindgroup30.name,Miss Daisys Vanity,01.png
+char37.bindgroup30.default,0
+char37.bindgroup31.name,Miss Daisys Vanity,02.png
+char37.bindgroup31.default,0
+char37.bindgroup32.name,Miss Daisys Vanity,03.png
+char37.bindgroup32.default,0
+char37.bindgroup33.name,Miss Daisys Vanity,04.png
+char37.bindgroup33.default,0
+char37.bindgroup34.name,Miss Daisys Vanity,05.png
+char37.bindgroup34.default,0
+char37.bindgroup35.name,space,little fish.png
+char37.bindgroup35.default,0
+char37.bindgroup36.name,space,miss daisys vanity.png
+char37.bindgroup36.default,0
+char37.bindgroup37.name,space,rainbowbeard.png
+char37.bindgroup37.default,0
+char37.bindgroup38.name,tender,01.png
+char37.bindgroup38.default,0
+char37.bindgroup39.name,tender,02.png
+char37.bindgroup39.default,0
+char37.bindgroup40.name,tender,03.png
+char37.bindgroup40.default,0
+char37.bindgroup41.name,tender,04.png
+char37.bindgroup41.default,0
+char38.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char38.bindgroup0.default,0
+char38.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char38.bindgroup1.default,0
+char38.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char38.bindgroup2.default,0
+char38.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char38.bindgroup3.default,0
+char38.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char38.bindgroup4.default,0
+char38.bindgroup5.name,Filling in the Gaps,01.png
+char38.bindgroup5.default,0
+char38.bindgroup6.name,Filling in the Gaps,02.png
+char38.bindgroup6.default,0
+char38.bindgroup7.name,Filling in the Gaps,03.png
+char38.bindgroup7.default,0
+char38.bindgroup8.name,Filling in the Gaps,04.png
+char38.bindgroup8.default,0
+char38.bindgroup9.name,foliage,01.png
+char38.bindgroup9.default,0
+char38.bindgroup10.name,foliage,02.png
+char38.bindgroup10.default,0
+char38.bindgroup11.name,foliage,03.png
+char38.bindgroup11.default,0
+char38.bindgroup12.name,foliage,04.png
+char38.bindgroup12.default,0
+char38.bindgroup13.name,foliage,05.png
+char38.bindgroup13.default,0
+char38.bindgroup14.name,Grasping at Glass,01.png
+char38.bindgroup14.default,0
+char38.bindgroup15.name,Grasping at Glass,02.png
+char38.bindgroup15.default,0
+char38.bindgroup16.name,Grasping at Glass,03.png
+char38.bindgroup16.default,0
+char38.bindgroup17.name,Grasping at Glass,04.png
+char38.bindgroup17.default,0
+char38.bindgroup18.name,Grasping at Glass,05.png
+char38.bindgroup18.default,0
+char38.bindgroup19.name,Hero of the Day,01.png
+char38.bindgroup19.default,0
+char38.bindgroup20.name,Hero of the Day,02.png
+char38.bindgroup20.default,0
+char38.bindgroup21.name,Hero of the Day,03.png
+char38.bindgroup21.default,0
+char38.bindgroup22.name,Hero of the Day,04.png
+char38.bindgroup22.default,0
+char38.bindgroup23.name,Hero of the Day,05.png
+char38.bindgroup23.default,0
+char38.bindgroup24.name,Hero of the Day,06.png
+char38.bindgroup24.default,0
+char38.bindgroup25.name,Lily Eater,01.png
+char38.bindgroup25.default,0
+char38.bindgroup26.name,Lily Eater,02.png
+char38.bindgroup26.default,0
+char38.bindgroup27.name,Lily Eater,03.png
+char38.bindgroup27.default,0
+char38.bindgroup28.name,Lily Eater,04.png
+char38.bindgroup28.default,0
+char38.bindgroup29.name,Lily Eater,05.png
+char38.bindgroup29.default,0
+char38.bindgroup30.name,Miss Daisys Vanity,01.png
+char38.bindgroup30.default,0
+char38.bindgroup31.name,Miss Daisys Vanity,02.png
+char38.bindgroup31.default,0
+char38.bindgroup32.name,Miss Daisys Vanity,03.png
+char38.bindgroup32.default,0
+char38.bindgroup33.name,Miss Daisys Vanity,04.png
+char38.bindgroup33.default,0
+char38.bindgroup34.name,Miss Daisys Vanity,05.png
+char38.bindgroup34.default,0
+char38.bindgroup35.name,space,little fish.png
+char38.bindgroup35.default,0
+char38.bindgroup36.name,space,miss daisys vanity.png
+char38.bindgroup36.default,0
+char38.bindgroup37.name,space,rainbowbeard.png
+char38.bindgroup37.default,0
+char38.bindgroup38.name,tender,01.png
+char38.bindgroup38.default,0
+char38.bindgroup39.name,tender,02.png
+char38.bindgroup39.default,0
+char38.bindgroup40.name,tender,03.png
+char38.bindgroup40.default,0
+char38.bindgroup41.name,tender,04.png
+char38.bindgroup41.default,0
+char39.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char39.bindgroup0.default,0
+char39.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char39.bindgroup1.default,0
+char39.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char39.bindgroup2.default,0
+char39.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char39.bindgroup3.default,0
+char39.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char39.bindgroup4.default,0
+char39.bindgroup5.name,Filling in the Gaps,01.png
+char39.bindgroup5.default,0
+char39.bindgroup6.name,Filling in the Gaps,02.png
+char39.bindgroup6.default,0
+char39.bindgroup7.name,Filling in the Gaps,03.png
+char39.bindgroup7.default,0
+char39.bindgroup8.name,Filling in the Gaps,04.png
+char39.bindgroup8.default,0
+char39.bindgroup9.name,foliage,01.png
+char39.bindgroup9.default,0
+char39.bindgroup10.name,foliage,02.png
+char39.bindgroup10.default,0
+char39.bindgroup11.name,foliage,03.png
+char39.bindgroup11.default,0
+char39.bindgroup12.name,foliage,04.png
+char39.bindgroup12.default,0
+char39.bindgroup13.name,foliage,05.png
+char39.bindgroup13.default,0
+char39.bindgroup14.name,Grasping at Glass,01.png
+char39.bindgroup14.default,0
+char39.bindgroup15.name,Grasping at Glass,02.png
+char39.bindgroup15.default,0
+char39.bindgroup16.name,Grasping at Glass,03.png
+char39.bindgroup16.default,0
+char39.bindgroup17.name,Grasping at Glass,04.png
+char39.bindgroup17.default,0
+char39.bindgroup18.name,Grasping at Glass,05.png
+char39.bindgroup18.default,0
+char39.bindgroup19.name,Hero of the Day,01.png
+char39.bindgroup19.default,0
+char39.bindgroup20.name,Hero of the Day,02.png
+char39.bindgroup20.default,0
+char39.bindgroup21.name,Hero of the Day,03.png
+char39.bindgroup21.default,0
+char39.bindgroup22.name,Hero of the Day,04.png
+char39.bindgroup22.default,0
+char39.bindgroup23.name,Hero of the Day,05.png
+char39.bindgroup23.default,0
+char39.bindgroup24.name,Hero of the Day,06.png
+char39.bindgroup24.default,0
+char39.bindgroup25.name,Lily Eater,01.png
+char39.bindgroup25.default,0
+char39.bindgroup26.name,Lily Eater,02.png
+char39.bindgroup26.default,0
+char39.bindgroup27.name,Lily Eater,03.png
+char39.bindgroup27.default,0
+char39.bindgroup28.name,Lily Eater,04.png
+char39.bindgroup28.default,0
+char39.bindgroup29.name,Lily Eater,05.png
+char39.bindgroup29.default,0
+char39.bindgroup30.name,Miss Daisys Vanity,01.png
+char39.bindgroup30.default,0
+char39.bindgroup31.name,Miss Daisys Vanity,02.png
+char39.bindgroup31.default,0
+char39.bindgroup32.name,Miss Daisys Vanity,03.png
+char39.bindgroup32.default,0
+char39.bindgroup33.name,Miss Daisys Vanity,04.png
+char39.bindgroup33.default,0
+char39.bindgroup34.name,Miss Daisys Vanity,05.png
+char39.bindgroup34.default,0
+char39.bindgroup35.name,space,little fish.png
+char39.bindgroup35.default,0
+char39.bindgroup36.name,space,miss daisys vanity.png
+char39.bindgroup36.default,0
+char39.bindgroup37.name,space,rainbowbeard.png
+char39.bindgroup37.default,0
+char39.bindgroup38.name,tender,01.png
+char39.bindgroup38.default,0
+char39.bindgroup39.name,tender,02.png
+char39.bindgroup39.default,0
+char39.bindgroup40.name,tender,03.png
+char39.bindgroup40.default,0
+char39.bindgroup41.name,tender,04.png
+char39.bindgroup41.default,0
+char40.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char40.bindgroup0.default,0
+char40.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char40.bindgroup1.default,0
+char40.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char40.bindgroup2.default,0
+char40.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char40.bindgroup3.default,0
+char40.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char40.bindgroup4.default,0
+char40.bindgroup5.name,Filling in the Gaps,01.png
+char40.bindgroup5.default,0
+char40.bindgroup6.name,Filling in the Gaps,02.png
+char40.bindgroup6.default,0
+char40.bindgroup7.name,Filling in the Gaps,03.png
+char40.bindgroup7.default,0
+char40.bindgroup8.name,Filling in the Gaps,04.png
+char40.bindgroup8.default,0
+char40.bindgroup9.name,foliage,01.png
+char40.bindgroup9.default,0
+char40.bindgroup10.name,foliage,02.png
+char40.bindgroup10.default,0
+char40.bindgroup11.name,foliage,03.png
+char40.bindgroup11.default,0
+char40.bindgroup12.name,foliage,04.png
+char40.bindgroup12.default,0
+char40.bindgroup13.name,foliage,05.png
+char40.bindgroup13.default,0
+char40.bindgroup14.name,Grasping at Glass,01.png
+char40.bindgroup14.default,0
+char40.bindgroup15.name,Grasping at Glass,02.png
+char40.bindgroup15.default,0
+char40.bindgroup16.name,Grasping at Glass,03.png
+char40.bindgroup16.default,0
+char40.bindgroup17.name,Grasping at Glass,04.png
+char40.bindgroup17.default,0
+char40.bindgroup18.name,Grasping at Glass,05.png
+char40.bindgroup18.default,0
+char40.bindgroup19.name,Hero of the Day,01.png
+char40.bindgroup19.default,0
+char40.bindgroup20.name,Hero of the Day,02.png
+char40.bindgroup20.default,0
+char40.bindgroup21.name,Hero of the Day,03.png
+char40.bindgroup21.default,0
+char40.bindgroup22.name,Hero of the Day,04.png
+char40.bindgroup22.default,0
+char40.bindgroup23.name,Hero of the Day,05.png
+char40.bindgroup23.default,0
+char40.bindgroup24.name,Hero of the Day,06.png
+char40.bindgroup24.default,0
+char40.bindgroup25.name,Lily Eater,01.png
+char40.bindgroup25.default,0
+char40.bindgroup26.name,Lily Eater,02.png
+char40.bindgroup26.default,0
+char40.bindgroup27.name,Lily Eater,03.png
+char40.bindgroup27.default,0
+char40.bindgroup28.name,Lily Eater,04.png
+char40.bindgroup28.default,0
+char40.bindgroup29.name,Lily Eater,05.png
+char40.bindgroup29.default,0
+char40.bindgroup30.name,Miss Daisys Vanity,01.png
+char40.bindgroup30.default,0
+char40.bindgroup31.name,Miss Daisys Vanity,02.png
+char40.bindgroup31.default,0
+char40.bindgroup32.name,Miss Daisys Vanity,03.png
+char40.bindgroup32.default,0
+char40.bindgroup33.name,Miss Daisys Vanity,04.png
+char40.bindgroup33.default,0
+char40.bindgroup34.name,Miss Daisys Vanity,05.png
+char40.bindgroup34.default,0
+char40.bindgroup35.name,space,little fish.png
+char40.bindgroup35.default,0
+char40.bindgroup36.name,space,miss daisys vanity.png
+char40.bindgroup36.default,0
+char40.bindgroup37.name,space,rainbowbeard.png
+char40.bindgroup37.default,0
+char40.bindgroup38.name,tender,01.png
+char40.bindgroup38.default,0
+char40.bindgroup39.name,tender,02.png
+char40.bindgroup39.default,0
+char40.bindgroup40.name,tender,03.png
+char40.bindgroup40.default,0
+char40.bindgroup41.name,tender,04.png
+char40.bindgroup41.default,0
+char41.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char41.bindgroup0.default,0
+char41.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char41.bindgroup1.default,0
+char41.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char41.bindgroup2.default,0
+char41.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char41.bindgroup3.default,0
+char41.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char41.bindgroup4.default,0
+char41.bindgroup5.name,Filling in the Gaps,01.png
+char41.bindgroup5.default,0
+char41.bindgroup6.name,Filling in the Gaps,02.png
+char41.bindgroup6.default,0
+char41.bindgroup7.name,Filling in the Gaps,03.png
+char41.bindgroup7.default,0
+char41.bindgroup8.name,Filling in the Gaps,04.png
+char41.bindgroup8.default,0
+char41.bindgroup9.name,foliage,01.png
+char41.bindgroup9.default,0
+char41.bindgroup10.name,foliage,02.png
+char41.bindgroup10.default,0
+char41.bindgroup11.name,foliage,03.png
+char41.bindgroup11.default,0
+char41.bindgroup12.name,foliage,04.png
+char41.bindgroup12.default,0
+char41.bindgroup13.name,foliage,05.png
+char41.bindgroup13.default,0
+char41.bindgroup14.name,Grasping at Glass,01.png
+char41.bindgroup14.default,0
+char41.bindgroup15.name,Grasping at Glass,02.png
+char41.bindgroup15.default,0
+char41.bindgroup16.name,Grasping at Glass,03.png
+char41.bindgroup16.default,0
+char41.bindgroup17.name,Grasping at Glass,04.png
+char41.bindgroup17.default,0
+char41.bindgroup18.name,Grasping at Glass,05.png
+char41.bindgroup18.default,0
+char41.bindgroup19.name,Hero of the Day,01.png
+char41.bindgroup19.default,0
+char41.bindgroup20.name,Hero of the Day,02.png
+char41.bindgroup20.default,0
+char41.bindgroup21.name,Hero of the Day,03.png
+char41.bindgroup21.default,0
+char41.bindgroup22.name,Hero of the Day,04.png
+char41.bindgroup22.default,0
+char41.bindgroup23.name,Hero of the Day,05.png
+char41.bindgroup23.default,0
+char41.bindgroup24.name,Hero of the Day,06.png
+char41.bindgroup24.default,0
+char41.bindgroup25.name,Lily Eater,01.png
+char41.bindgroup25.default,0
+char41.bindgroup26.name,Lily Eater,02.png
+char41.bindgroup26.default,0
+char41.bindgroup27.name,Lily Eater,03.png
+char41.bindgroup27.default,0
+char41.bindgroup28.name,Lily Eater,04.png
+char41.bindgroup28.default,0
+char41.bindgroup29.name,Lily Eater,05.png
+char41.bindgroup29.default,0
+char41.bindgroup30.name,Miss Daisys Vanity,01.png
+char41.bindgroup30.default,0
+char41.bindgroup31.name,Miss Daisys Vanity,02.png
+char41.bindgroup31.default,0
+char41.bindgroup32.name,Miss Daisys Vanity,03.png
+char41.bindgroup32.default,0
+char41.bindgroup33.name,Miss Daisys Vanity,04.png
+char41.bindgroup33.default,0
+char41.bindgroup34.name,Miss Daisys Vanity,05.png
+char41.bindgroup34.default,0
+char41.bindgroup35.name,space,little fish.png
+char41.bindgroup35.default,0
+char41.bindgroup36.name,space,miss daisys vanity.png
+char41.bindgroup36.default,0
+char41.bindgroup37.name,space,rainbowbeard.png
+char41.bindgroup37.default,0
+char41.bindgroup38.name,tender,01.png
+char41.bindgroup38.default,0
+char41.bindgroup39.name,tender,02.png
+char41.bindgroup39.default,0
+char41.bindgroup40.name,tender,03.png
+char41.bindgroup40.default,0
+char41.bindgroup41.name,tender,04.png
+char41.bindgroup41.default,0
+char42.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char42.bindgroup0.default,0
+char42.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char42.bindgroup1.default,0
+char42.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char42.bindgroup2.default,0
+char42.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char42.bindgroup3.default,0
+char42.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char42.bindgroup4.default,0
+char42.bindgroup5.name,Filling in the Gaps,01.png
+char42.bindgroup5.default,0
+char42.bindgroup6.name,Filling in the Gaps,02.png
+char42.bindgroup6.default,0
+char42.bindgroup7.name,Filling in the Gaps,03.png
+char42.bindgroup7.default,0
+char42.bindgroup8.name,Filling in the Gaps,04.png
+char42.bindgroup8.default,0
+char42.bindgroup9.name,foliage,01.png
+char42.bindgroup9.default,0
+char42.bindgroup10.name,foliage,02.png
+char42.bindgroup10.default,0
+char42.bindgroup11.name,foliage,03.png
+char42.bindgroup11.default,0
+char42.bindgroup12.name,foliage,04.png
+char42.bindgroup12.default,0
+char42.bindgroup13.name,foliage,05.png
+char42.bindgroup13.default,0
+char42.bindgroup14.name,Grasping at Glass,01.png
+char42.bindgroup14.default,0
+char42.bindgroup15.name,Grasping at Glass,02.png
+char42.bindgroup15.default,0
+char42.bindgroup16.name,Grasping at Glass,03.png
+char42.bindgroup16.default,0
+char42.bindgroup17.name,Grasping at Glass,04.png
+char42.bindgroup17.default,0
+char42.bindgroup18.name,Grasping at Glass,05.png
+char42.bindgroup18.default,0
+char42.bindgroup19.name,Hero of the Day,01.png
+char42.bindgroup19.default,0
+char42.bindgroup20.name,Hero of the Day,02.png
+char42.bindgroup20.default,0
+char42.bindgroup21.name,Hero of the Day,03.png
+char42.bindgroup21.default,0
+char42.bindgroup22.name,Hero of the Day,04.png
+char42.bindgroup22.default,0
+char42.bindgroup23.name,Hero of the Day,05.png
+char42.bindgroup23.default,0
+char42.bindgroup24.name,Hero of the Day,06.png
+char42.bindgroup24.default,0
+char42.bindgroup25.name,Lily Eater,01.png
+char42.bindgroup25.default,0
+char42.bindgroup26.name,Lily Eater,02.png
+char42.bindgroup26.default,0
+char42.bindgroup27.name,Lily Eater,03.png
+char42.bindgroup27.default,0
+char42.bindgroup28.name,Lily Eater,04.png
+char42.bindgroup28.default,0
+char42.bindgroup29.name,Lily Eater,05.png
+char42.bindgroup29.default,0
+char42.bindgroup30.name,Miss Daisys Vanity,01.png
+char42.bindgroup30.default,0
+char42.bindgroup31.name,Miss Daisys Vanity,02.png
+char42.bindgroup31.default,0
+char42.bindgroup32.name,Miss Daisys Vanity,03.png
+char42.bindgroup32.default,0
+char42.bindgroup33.name,Miss Daisys Vanity,04.png
+char42.bindgroup33.default,0
+char42.bindgroup34.name,Miss Daisys Vanity,05.png
+char42.bindgroup34.default,0
+char42.bindgroup35.name,space,little fish.png
+char42.bindgroup35.default,0
+char42.bindgroup36.name,space,miss daisys vanity.png
+char42.bindgroup36.default,0
+char42.bindgroup37.name,space,rainbowbeard.png
+char42.bindgroup37.default,0
+char42.bindgroup38.name,tender,01.png
+char42.bindgroup38.default,0
+char42.bindgroup39.name,tender,02.png
+char42.bindgroup39.default,0
+char42.bindgroup40.name,tender,03.png
+char42.bindgroup40.default,0
+char42.bindgroup41.name,tender,04.png
+char42.bindgroup41.default,0
+char43.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char43.bindgroup0.default,0
+char43.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char43.bindgroup1.default,0
+char43.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char43.bindgroup2.default,0
+char43.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char43.bindgroup3.default,0
+char43.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char43.bindgroup4.default,0
+char43.bindgroup5.name,Filling in the Gaps,01.png
+char43.bindgroup5.default,0
+char43.bindgroup6.name,Filling in the Gaps,02.png
+char43.bindgroup6.default,0
+char43.bindgroup7.name,Filling in the Gaps,03.png
+char43.bindgroup7.default,0
+char43.bindgroup8.name,Filling in the Gaps,04.png
+char43.bindgroup8.default,0
+char43.bindgroup9.name,foliage,01.png
+char43.bindgroup9.default,0
+char43.bindgroup10.name,foliage,02.png
+char43.bindgroup10.default,0
+char43.bindgroup11.name,foliage,03.png
+char43.bindgroup11.default,0
+char43.bindgroup12.name,foliage,04.png
+char43.bindgroup12.default,0
+char43.bindgroup13.name,foliage,05.png
+char43.bindgroup13.default,0
+char43.bindgroup14.name,Grasping at Glass,01.png
+char43.bindgroup14.default,0
+char43.bindgroup15.name,Grasping at Glass,02.png
+char43.bindgroup15.default,0
+char43.bindgroup16.name,Grasping at Glass,03.png
+char43.bindgroup16.default,0
+char43.bindgroup17.name,Grasping at Glass,04.png
+char43.bindgroup17.default,0
+char43.bindgroup18.name,Grasping at Glass,05.png
+char43.bindgroup18.default,0
+char43.bindgroup19.name,Hero of the Day,01.png
+char43.bindgroup19.default,0
+char43.bindgroup20.name,Hero of the Day,02.png
+char43.bindgroup20.default,0
+char43.bindgroup21.name,Hero of the Day,03.png
+char43.bindgroup21.default,0
+char43.bindgroup22.name,Hero of the Day,04.png
+char43.bindgroup22.default,0
+char43.bindgroup23.name,Hero of the Day,05.png
+char43.bindgroup23.default,0
+char43.bindgroup24.name,Hero of the Day,06.png
+char43.bindgroup24.default,0
+char43.bindgroup25.name,Lily Eater,01.png
+char43.bindgroup25.default,0
+char43.bindgroup26.name,Lily Eater,02.png
+char43.bindgroup26.default,0
+char43.bindgroup27.name,Lily Eater,03.png
+char43.bindgroup27.default,0
+char43.bindgroup28.name,Lily Eater,04.png
+char43.bindgroup28.default,0
+char43.bindgroup29.name,Lily Eater,05.png
+char43.bindgroup29.default,0
+char43.bindgroup30.name,Miss Daisys Vanity,01.png
+char43.bindgroup30.default,0
+char43.bindgroup31.name,Miss Daisys Vanity,02.png
+char43.bindgroup31.default,0
+char43.bindgroup32.name,Miss Daisys Vanity,03.png
+char43.bindgroup32.default,0
+char43.bindgroup33.name,Miss Daisys Vanity,04.png
+char43.bindgroup33.default,0
+char43.bindgroup34.name,Miss Daisys Vanity,05.png
+char43.bindgroup34.default,0
+char43.bindgroup35.name,space,little fish.png
+char43.bindgroup35.default,0
+char43.bindgroup36.name,space,miss daisys vanity.png
+char43.bindgroup36.default,0
+char43.bindgroup37.name,space,rainbowbeard.png
+char43.bindgroup37.default,0
+char43.bindgroup38.name,tender,01.png
+char43.bindgroup38.default,0
+char43.bindgroup39.name,tender,02.png
+char43.bindgroup39.default,0
+char43.bindgroup40.name,tender,03.png
+char43.bindgroup40.default,0
+char43.bindgroup41.name,tender,04.png
+char43.bindgroup41.default,0
+char44.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char44.bindgroup0.default,0
+char44.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char44.bindgroup1.default,0
+char44.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char44.bindgroup2.default,0
+char44.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char44.bindgroup3.default,0
+char44.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char44.bindgroup4.default,0
+char44.bindgroup5.name,Filling in the Gaps,01.png
+char44.bindgroup5.default,0
+char44.bindgroup6.name,Filling in the Gaps,02.png
+char44.bindgroup6.default,0
+char44.bindgroup7.name,Filling in the Gaps,03.png
+char44.bindgroup7.default,0
+char44.bindgroup8.name,Filling in the Gaps,04.png
+char44.bindgroup8.default,0
+char44.bindgroup9.name,foliage,01.png
+char44.bindgroup9.default,0
+char44.bindgroup10.name,foliage,02.png
+char44.bindgroup10.default,0
+char44.bindgroup11.name,foliage,03.png
+char44.bindgroup11.default,0
+char44.bindgroup12.name,foliage,04.png
+char44.bindgroup12.default,0
+char44.bindgroup13.name,foliage,05.png
+char44.bindgroup13.default,0
+char44.bindgroup14.name,Grasping at Glass,01.png
+char44.bindgroup14.default,0
+char44.bindgroup15.name,Grasping at Glass,02.png
+char44.bindgroup15.default,0
+char44.bindgroup16.name,Grasping at Glass,03.png
+char44.bindgroup16.default,0
+char44.bindgroup17.name,Grasping at Glass,04.png
+char44.bindgroup17.default,0
+char44.bindgroup18.name,Grasping at Glass,05.png
+char44.bindgroup18.default,0
+char44.bindgroup19.name,Hero of the Day,01.png
+char44.bindgroup19.default,0
+char44.bindgroup20.name,Hero of the Day,02.png
+char44.bindgroup20.default,0
+char44.bindgroup21.name,Hero of the Day,03.png
+char44.bindgroup21.default,0
+char44.bindgroup22.name,Hero of the Day,04.png
+char44.bindgroup22.default,0
+char44.bindgroup23.name,Hero of the Day,05.png
+char44.bindgroup23.default,0
+char44.bindgroup24.name,Hero of the Day,06.png
+char44.bindgroup24.default,0
+char44.bindgroup25.name,Lily Eater,01.png
+char44.bindgroup25.default,0
+char44.bindgroup26.name,Lily Eater,02.png
+char44.bindgroup26.default,0
+char44.bindgroup27.name,Lily Eater,03.png
+char44.bindgroup27.default,0
+char44.bindgroup28.name,Lily Eater,04.png
+char44.bindgroup28.default,0
+char44.bindgroup29.name,Lily Eater,05.png
+char44.bindgroup29.default,0
+char44.bindgroup30.name,Miss Daisys Vanity,01.png
+char44.bindgroup30.default,0
+char44.bindgroup31.name,Miss Daisys Vanity,02.png
+char44.bindgroup31.default,0
+char44.bindgroup32.name,Miss Daisys Vanity,03.png
+char44.bindgroup32.default,0
+char44.bindgroup33.name,Miss Daisys Vanity,04.png
+char44.bindgroup33.default,0
+char44.bindgroup34.name,Miss Daisys Vanity,05.png
+char44.bindgroup34.default,0
+char44.bindgroup35.name,space,little fish.png
+char44.bindgroup35.default,0
+char44.bindgroup36.name,space,miss daisys vanity.png
+char44.bindgroup36.default,0
+char44.bindgroup37.name,space,rainbowbeard.png
+char44.bindgroup37.default,0
+char44.bindgroup38.name,tender,01.png
+char44.bindgroup38.default,0
+char44.bindgroup39.name,tender,02.png
+char44.bindgroup39.default,0
+char44.bindgroup40.name,tender,03.png
+char44.bindgroup40.default,0
+char44.bindgroup41.name,tender,04.png
+char44.bindgroup41.default,0
+char45.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char45.bindgroup0.default,0
+char45.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char45.bindgroup1.default,0
+char45.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char45.bindgroup2.default,0
+char45.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char45.bindgroup3.default,0
+char45.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char45.bindgroup4.default,0
+char45.bindgroup5.name,Filling in the Gaps,01.png
+char45.bindgroup5.default,0
+char45.bindgroup6.name,Filling in the Gaps,02.png
+char45.bindgroup6.default,0
+char45.bindgroup7.name,Filling in the Gaps,03.png
+char45.bindgroup7.default,0
+char45.bindgroup8.name,Filling in the Gaps,04.png
+char45.bindgroup8.default,0
+char45.bindgroup9.name,foliage,01.png
+char45.bindgroup9.default,0
+char45.bindgroup10.name,foliage,02.png
+char45.bindgroup10.default,0
+char45.bindgroup11.name,foliage,03.png
+char45.bindgroup11.default,0
+char45.bindgroup12.name,foliage,04.png
+char45.bindgroup12.default,0
+char45.bindgroup13.name,foliage,05.png
+char45.bindgroup13.default,0
+char45.bindgroup14.name,Grasping at Glass,01.png
+char45.bindgroup14.default,0
+char45.bindgroup15.name,Grasping at Glass,02.png
+char45.bindgroup15.default,0
+char45.bindgroup16.name,Grasping at Glass,03.png
+char45.bindgroup16.default,0
+char45.bindgroup17.name,Grasping at Glass,04.png
+char45.bindgroup17.default,0
+char45.bindgroup18.name,Grasping at Glass,05.png
+char45.bindgroup18.default,0
+char45.bindgroup19.name,Hero of the Day,01.png
+char45.bindgroup19.default,0
+char45.bindgroup20.name,Hero of the Day,02.png
+char45.bindgroup20.default,0
+char45.bindgroup21.name,Hero of the Day,03.png
+char45.bindgroup21.default,0
+char45.bindgroup22.name,Hero of the Day,04.png
+char45.bindgroup22.default,0
+char45.bindgroup23.name,Hero of the Day,05.png
+char45.bindgroup23.default,0
+char45.bindgroup24.name,Hero of the Day,06.png
+char45.bindgroup24.default,0
+char45.bindgroup25.name,Lily Eater,01.png
+char45.bindgroup25.default,0
+char45.bindgroup26.name,Lily Eater,02.png
+char45.bindgroup26.default,0
+char45.bindgroup27.name,Lily Eater,03.png
+char45.bindgroup27.default,0
+char45.bindgroup28.name,Lily Eater,04.png
+char45.bindgroup28.default,0
+char45.bindgroup29.name,Lily Eater,05.png
+char45.bindgroup29.default,0
+char45.bindgroup30.name,Miss Daisys Vanity,01.png
+char45.bindgroup30.default,0
+char45.bindgroup31.name,Miss Daisys Vanity,02.png
+char45.bindgroup31.default,0
+char45.bindgroup32.name,Miss Daisys Vanity,03.png
+char45.bindgroup32.default,0
+char45.bindgroup33.name,Miss Daisys Vanity,04.png
+char45.bindgroup33.default,0
+char45.bindgroup34.name,Miss Daisys Vanity,05.png
+char45.bindgroup34.default,0
+char45.bindgroup35.name,space,little fish.png
+char45.bindgroup35.default,0
+char45.bindgroup36.name,space,miss daisys vanity.png
+char45.bindgroup36.default,0
+char45.bindgroup37.name,space,rainbowbeard.png
+char45.bindgroup37.default,0
+char45.bindgroup38.name,tender,01.png
+char45.bindgroup38.default,0
+char45.bindgroup39.name,tender,02.png
+char45.bindgroup39.default,0
+char45.bindgroup40.name,tender,03.png
+char45.bindgroup40.default,0
+char45.bindgroup41.name,tender,04.png
+char45.bindgroup41.default,0
+char46.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char46.bindgroup0.default,0
+char46.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char46.bindgroup1.default,0
+char46.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char46.bindgroup2.default,0
+char46.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char46.bindgroup3.default,0
+char46.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char46.bindgroup4.default,0
+char46.bindgroup5.name,Filling in the Gaps,01.png
+char46.bindgroup5.default,0
+char46.bindgroup6.name,Filling in the Gaps,02.png
+char46.bindgroup6.default,0
+char46.bindgroup7.name,Filling in the Gaps,03.png
+char46.bindgroup7.default,0
+char46.bindgroup8.name,Filling in the Gaps,04.png
+char46.bindgroup8.default,0
+char46.bindgroup9.name,foliage,01.png
+char46.bindgroup9.default,0
+char46.bindgroup10.name,foliage,02.png
+char46.bindgroup10.default,0
+char46.bindgroup11.name,foliage,03.png
+char46.bindgroup11.default,0
+char46.bindgroup12.name,foliage,04.png
+char46.bindgroup12.default,0
+char46.bindgroup13.name,foliage,05.png
+char46.bindgroup13.default,0
+char46.bindgroup14.name,Grasping at Glass,01.png
+char46.bindgroup14.default,0
+char46.bindgroup15.name,Grasping at Glass,02.png
+char46.bindgroup15.default,0
+char46.bindgroup16.name,Grasping at Glass,03.png
+char46.bindgroup16.default,0
+char46.bindgroup17.name,Grasping at Glass,04.png
+char46.bindgroup17.default,0
+char46.bindgroup18.name,Grasping at Glass,05.png
+char46.bindgroup18.default,0
+char46.bindgroup19.name,Hero of the Day,01.png
+char46.bindgroup19.default,0
+char46.bindgroup20.name,Hero of the Day,02.png
+char46.bindgroup20.default,0
+char46.bindgroup21.name,Hero of the Day,03.png
+char46.bindgroup21.default,0
+char46.bindgroup22.name,Hero of the Day,04.png
+char46.bindgroup22.default,0
+char46.bindgroup23.name,Hero of the Day,05.png
+char46.bindgroup23.default,0
+char46.bindgroup24.name,Hero of the Day,06.png
+char46.bindgroup24.default,0
+char46.bindgroup25.name,Lily Eater,01.png
+char46.bindgroup25.default,0
+char46.bindgroup26.name,Lily Eater,02.png
+char46.bindgroup26.default,0
+char46.bindgroup27.name,Lily Eater,03.png
+char46.bindgroup27.default,0
+char46.bindgroup28.name,Lily Eater,04.png
+char46.bindgroup28.default,0
+char46.bindgroup29.name,Lily Eater,05.png
+char46.bindgroup29.default,0
+char46.bindgroup30.name,Miss Daisys Vanity,01.png
+char46.bindgroup30.default,0
+char46.bindgroup31.name,Miss Daisys Vanity,02.png
+char46.bindgroup31.default,0
+char46.bindgroup32.name,Miss Daisys Vanity,03.png
+char46.bindgroup32.default,0
+char46.bindgroup33.name,Miss Daisys Vanity,04.png
+char46.bindgroup33.default,0
+char46.bindgroup34.name,Miss Daisys Vanity,05.png
+char46.bindgroup34.default,0
+char46.bindgroup35.name,space,little fish.png
+char46.bindgroup35.default,0
+char46.bindgroup36.name,space,miss daisys vanity.png
+char46.bindgroup36.default,0
+char46.bindgroup37.name,space,rainbowbeard.png
+char46.bindgroup37.default,0
+char46.bindgroup38.name,tender,01.png
+char46.bindgroup38.default,0
+char46.bindgroup39.name,tender,02.png
+char46.bindgroup39.default,0
+char46.bindgroup40.name,tender,03.png
+char46.bindgroup40.default,0
+char46.bindgroup41.name,tender,04.png
+char46.bindgroup41.default,0
+char47.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char47.bindgroup0.default,0
+char47.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char47.bindgroup1.default,0
+char47.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char47.bindgroup2.default,0
+char47.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char47.bindgroup3.default,0
+char47.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char47.bindgroup4.default,0
+char47.bindgroup5.name,Filling in the Gaps,01.png
+char47.bindgroup5.default,0
+char47.bindgroup6.name,Filling in the Gaps,02.png
+char47.bindgroup6.default,0
+char47.bindgroup7.name,Filling in the Gaps,03.png
+char47.bindgroup7.default,0
+char47.bindgroup8.name,Filling in the Gaps,04.png
+char47.bindgroup8.default,0
+char47.bindgroup9.name,foliage,01.png
+char47.bindgroup9.default,0
+char47.bindgroup10.name,foliage,02.png
+char47.bindgroup10.default,0
+char47.bindgroup11.name,foliage,03.png
+char47.bindgroup11.default,0
+char47.bindgroup12.name,foliage,04.png
+char47.bindgroup12.default,0
+char47.bindgroup13.name,foliage,05.png
+char47.bindgroup13.default,0
+char47.bindgroup14.name,Grasping at Glass,01.png
+char47.bindgroup14.default,0
+char47.bindgroup15.name,Grasping at Glass,02.png
+char47.bindgroup15.default,0
+char47.bindgroup16.name,Grasping at Glass,03.png
+char47.bindgroup16.default,0
+char47.bindgroup17.name,Grasping at Glass,04.png
+char47.bindgroup17.default,0
+char47.bindgroup18.name,Grasping at Glass,05.png
+char47.bindgroup18.default,0
+char47.bindgroup19.name,Hero of the Day,01.png
+char47.bindgroup19.default,0
+char47.bindgroup20.name,Hero of the Day,02.png
+char47.bindgroup20.default,0
+char47.bindgroup21.name,Hero of the Day,03.png
+char47.bindgroup21.default,0
+char47.bindgroup22.name,Hero of the Day,04.png
+char47.bindgroup22.default,0
+char47.bindgroup23.name,Hero of the Day,05.png
+char47.bindgroup23.default,0
+char47.bindgroup24.name,Hero of the Day,06.png
+char47.bindgroup24.default,0
+char47.bindgroup25.name,Lily Eater,01.png
+char47.bindgroup25.default,0
+char47.bindgroup26.name,Lily Eater,02.png
+char47.bindgroup26.default,0
+char47.bindgroup27.name,Lily Eater,03.png
+char47.bindgroup27.default,0
+char47.bindgroup28.name,Lily Eater,04.png
+char47.bindgroup28.default,0
+char47.bindgroup29.name,Lily Eater,05.png
+char47.bindgroup29.default,0
+char47.bindgroup30.name,Miss Daisys Vanity,01.png
+char47.bindgroup30.default,0
+char47.bindgroup31.name,Miss Daisys Vanity,02.png
+char47.bindgroup31.default,0
+char47.bindgroup32.name,Miss Daisys Vanity,03.png
+char47.bindgroup32.default,0
+char47.bindgroup33.name,Miss Daisys Vanity,04.png
+char47.bindgroup33.default,0
+char47.bindgroup34.name,Miss Daisys Vanity,05.png
+char47.bindgroup34.default,0
+char47.bindgroup35.name,space,little fish.png
+char47.bindgroup35.default,0
+char47.bindgroup36.name,space,miss daisys vanity.png
+char47.bindgroup36.default,0
+char47.bindgroup37.name,space,rainbowbeard.png
+char47.bindgroup37.default,0
+char47.bindgroup38.name,tender,01.png
+char47.bindgroup38.default,0
+char47.bindgroup39.name,tender,02.png
+char47.bindgroup39.default,0
+char47.bindgroup40.name,tender,03.png
+char47.bindgroup40.default,0
+char47.bindgroup41.name,tender,04.png
+char47.bindgroup41.default,0
+char48.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char48.bindgroup0.default,0
+char48.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char48.bindgroup1.default,0
+char48.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char48.bindgroup2.default,0
+char48.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char48.bindgroup3.default,0
+char48.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char48.bindgroup4.default,0
+char48.bindgroup5.name,Filling in the Gaps,01.png
+char48.bindgroup5.default,0
+char48.bindgroup6.name,Filling in the Gaps,02.png
+char48.bindgroup6.default,0
+char48.bindgroup7.name,Filling in the Gaps,03.png
+char48.bindgroup7.default,0
+char48.bindgroup8.name,Filling in the Gaps,04.png
+char48.bindgroup8.default,0
+char48.bindgroup9.name,foliage,01.png
+char48.bindgroup9.default,0
+char48.bindgroup10.name,foliage,02.png
+char48.bindgroup10.default,0
+char48.bindgroup11.name,foliage,03.png
+char48.bindgroup11.default,0
+char48.bindgroup12.name,foliage,04.png
+char48.bindgroup12.default,0
+char48.bindgroup13.name,foliage,05.png
+char48.bindgroup13.default,0
+char48.bindgroup14.name,Grasping at Glass,01.png
+char48.bindgroup14.default,0
+char48.bindgroup15.name,Grasping at Glass,02.png
+char48.bindgroup15.default,0
+char48.bindgroup16.name,Grasping at Glass,03.png
+char48.bindgroup16.default,0
+char48.bindgroup17.name,Grasping at Glass,04.png
+char48.bindgroup17.default,0
+char48.bindgroup18.name,Grasping at Glass,05.png
+char48.bindgroup18.default,0
+char48.bindgroup19.name,Hero of the Day,01.png
+char48.bindgroup19.default,0
+char48.bindgroup20.name,Hero of the Day,02.png
+char48.bindgroup20.default,0
+char48.bindgroup21.name,Hero of the Day,03.png
+char48.bindgroup21.default,0
+char48.bindgroup22.name,Hero of the Day,04.png
+char48.bindgroup22.default,0
+char48.bindgroup23.name,Hero of the Day,05.png
+char48.bindgroup23.default,0
+char48.bindgroup24.name,Hero of the Day,06.png
+char48.bindgroup24.default,0
+char48.bindgroup25.name,Lily Eater,01.png
+char48.bindgroup25.default,0
+char48.bindgroup26.name,Lily Eater,02.png
+char48.bindgroup26.default,0
+char48.bindgroup27.name,Lily Eater,03.png
+char48.bindgroup27.default,0
+char48.bindgroup28.name,Lily Eater,04.png
+char48.bindgroup28.default,0
+char48.bindgroup29.name,Lily Eater,05.png
+char48.bindgroup29.default,0
+char48.bindgroup30.name,Miss Daisys Vanity,01.png
+char48.bindgroup30.default,0
+char48.bindgroup31.name,Miss Daisys Vanity,02.png
+char48.bindgroup31.default,0
+char48.bindgroup32.name,Miss Daisys Vanity,03.png
+char48.bindgroup32.default,0
+char48.bindgroup33.name,Miss Daisys Vanity,04.png
+char48.bindgroup33.default,0
+char48.bindgroup34.name,Miss Daisys Vanity,05.png
+char48.bindgroup34.default,0
+char48.bindgroup35.name,space,little fish.png
+char48.bindgroup35.default,0
+char48.bindgroup36.name,space,miss daisys vanity.png
+char48.bindgroup36.default,0
+char48.bindgroup37.name,space,rainbowbeard.png
+char48.bindgroup37.default,0
+char48.bindgroup38.name,tender,01.png
+char48.bindgroup38.default,0
+char48.bindgroup39.name,tender,02.png
+char48.bindgroup39.default,0
+char48.bindgroup40.name,tender,03.png
+char48.bindgroup40.default,0
+char48.bindgroup41.name,tender,04.png
+char48.bindgroup41.default,0
+char49.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char49.bindgroup0.default,0
+char49.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char49.bindgroup1.default,0
+char49.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char49.bindgroup2.default,0
+char49.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char49.bindgroup3.default,0
+char49.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char49.bindgroup4.default,0
+char49.bindgroup5.name,Filling in the Gaps,01.png
+char49.bindgroup5.default,0
+char49.bindgroup6.name,Filling in the Gaps,02.png
+char49.bindgroup6.default,0
+char49.bindgroup7.name,Filling in the Gaps,03.png
+char49.bindgroup7.default,0
+char49.bindgroup8.name,Filling in the Gaps,04.png
+char49.bindgroup8.default,0
+char49.bindgroup9.name,foliage,01.png
+char49.bindgroup9.default,0
+char49.bindgroup10.name,foliage,02.png
+char49.bindgroup10.default,0
+char49.bindgroup11.name,foliage,03.png
+char49.bindgroup11.default,0
+char49.bindgroup12.name,foliage,04.png
+char49.bindgroup12.default,0
+char49.bindgroup13.name,foliage,05.png
+char49.bindgroup13.default,0
+char49.bindgroup14.name,Grasping at Glass,01.png
+char49.bindgroup14.default,0
+char49.bindgroup15.name,Grasping at Glass,02.png
+char49.bindgroup15.default,0
+char49.bindgroup16.name,Grasping at Glass,03.png
+char49.bindgroup16.default,0
+char49.bindgroup17.name,Grasping at Glass,04.png
+char49.bindgroup17.default,0
+char49.bindgroup18.name,Grasping at Glass,05.png
+char49.bindgroup18.default,0
+char49.bindgroup19.name,Hero of the Day,01.png
+char49.bindgroup19.default,0
+char49.bindgroup20.name,Hero of the Day,02.png
+char49.bindgroup20.default,0
+char49.bindgroup21.name,Hero of the Day,03.png
+char49.bindgroup21.default,0
+char49.bindgroup22.name,Hero of the Day,04.png
+char49.bindgroup22.default,0
+char49.bindgroup23.name,Hero of the Day,05.png
+char49.bindgroup23.default,0
+char49.bindgroup24.name,Hero of the Day,06.png
+char49.bindgroup24.default,0
+char49.bindgroup25.name,Lily Eater,01.png
+char49.bindgroup25.default,0
+char49.bindgroup26.name,Lily Eater,02.png
+char49.bindgroup26.default,0
+char49.bindgroup27.name,Lily Eater,03.png
+char49.bindgroup27.default,0
+char49.bindgroup28.name,Lily Eater,04.png
+char49.bindgroup28.default,0
+char49.bindgroup29.name,Lily Eater,05.png
+char49.bindgroup29.default,0
+char49.bindgroup30.name,Miss Daisys Vanity,01.png
+char49.bindgroup30.default,0
+char49.bindgroup31.name,Miss Daisys Vanity,02.png
+char49.bindgroup31.default,0
+char49.bindgroup32.name,Miss Daisys Vanity,03.png
+char49.bindgroup32.default,0
+char49.bindgroup33.name,Miss Daisys Vanity,04.png
+char49.bindgroup33.default,0
+char49.bindgroup34.name,Miss Daisys Vanity,05.png
+char49.bindgroup34.default,0
+char49.bindgroup35.name,space,little fish.png
+char49.bindgroup35.default,0
+char49.bindgroup36.name,space,miss daisys vanity.png
+char49.bindgroup36.default,0
+char49.bindgroup37.name,space,rainbowbeard.png
+char49.bindgroup37.default,0
+char49.bindgroup38.name,tender,01.png
+char49.bindgroup38.default,0
+char49.bindgroup39.name,tender,02.png
+char49.bindgroup39.default,0
+char49.bindgroup40.name,tender,03.png
+char49.bindgroup40.default,0
+char49.bindgroup41.name,tender,04.png
+char49.bindgroup41.default,0
+char50.bindgroup0.name,Angels Observing Gods New Experimental Art Exhibit,01.png
+char50.bindgroup0.default,0
+char50.bindgroup1.name,Angels Observing Gods New Experimental Art Exhibit,02.png
+char50.bindgroup1.default,0
+char50.bindgroup2.name,Angels Observing Gods New Experimental Art Exhibit,03.png
+char50.bindgroup2.default,0
+char50.bindgroup3.name,Angels Observing Gods New Experimental Art Exhibit,04.png
+char50.bindgroup3.default,0
+char50.bindgroup4.name,Angels Observing Gods New Experimental Art Exhibit,05.png
+char50.bindgroup4.default,0
+char50.bindgroup5.name,Filling in the Gaps,01.png
+char50.bindgroup5.default,0
+char50.bindgroup6.name,Filling in the Gaps,02.png
+char50.bindgroup6.default,0
+char50.bindgroup7.name,Filling in the Gaps,03.png
+char50.bindgroup7.default,0
+char50.bindgroup8.name,Filling in the Gaps,04.png
+char50.bindgroup8.default,0
+char50.bindgroup9.name,foliage,01.png
+char50.bindgroup9.default,0
+char50.bindgroup10.name,foliage,02.png
+char50.bindgroup10.default,0
+char50.bindgroup11.name,foliage,03.png
+char50.bindgroup11.default,0
+char50.bindgroup12.name,foliage,04.png
+char50.bindgroup12.default,0
+char50.bindgroup13.name,foliage,05.png
+char50.bindgroup13.default,0
+char50.bindgroup14.name,Grasping at Glass,01.png
+char50.bindgroup14.default,0
+char50.bindgroup15.name,Grasping at Glass,02.png
+char50.bindgroup15.default,0
+char50.bindgroup16.name,Grasping at Glass,03.png
+char50.bindgroup16.default,0
+char50.bindgroup17.name,Grasping at Glass,04.png
+char50.bindgroup17.default,0
+char50.bindgroup18.name,Grasping at Glass,05.png
+char50.bindgroup18.default,0
+char50.bindgroup19.name,Hero of the Day,01.png
+char50.bindgroup19.default,0
+char50.bindgroup20.name,Hero of the Day,02.png
+char50.bindgroup20.default,0
+char50.bindgroup21.name,Hero of the Day,03.png
+char50.bindgroup21.default,0
+char50.bindgroup22.name,Hero of the Day,04.png
+char50.bindgroup22.default,0
+char50.bindgroup23.name,Hero of the Day,05.png
+char50.bindgroup23.default,0
+char50.bindgroup24.name,Hero of the Day,06.png
+char50.bindgroup24.default,0
+char50.bindgroup25.name,Lily Eater,01.png
+char50.bindgroup25.default,0
+char50.bindgroup26.name,Lily Eater,02.png
+char50.bindgroup26.default,0
+char50.bindgroup27.name,Lily Eater,03.png
+char50.bindgroup27.default,0
+char50.bindgroup28.name,Lily Eater,04.png
+char50.bindgroup28.default,0
+char50.bindgroup29.name,Lily Eater,05.png
+char50.bindgroup29.default,0
+char50.bindgroup30.name,Miss Daisys Vanity,01.png
+char50.bindgroup30.default,0
+char50.bindgroup31.name,Miss Daisys Vanity,02.png
+char50.bindgroup31.default,0
+char50.bindgroup32.name,Miss Daisys Vanity,03.png
+char50.bindgroup32.default,0
+char50.bindgroup33.name,Miss Daisys Vanity,04.png
+char50.bindgroup33.default,0
+char50.bindgroup34.name,Miss Daisys Vanity,05.png
+char50.bindgroup34.default,0
+char50.bindgroup35.name,space,little fish.png
+char50.bindgroup35.default,0
+char50.bindgroup36.name,space,miss daisys vanity.png
+char50.bindgroup36.default,0
+char50.bindgroup37.name,space,rainbowbeard.png
+char50.bindgroup37.default,0
+char50.bindgroup38.name,tender,01.png
+char50.bindgroup38.default,0
+char50.bindgroup39.name,tender,02.png
+char50.bindgroup39.default,0
+char50.bindgroup40.name,tender,03.png
+char50.bindgroup40.default,0
+char50.bindgroup41.name,tender,04.png
+char50.bindgroup41.default,0

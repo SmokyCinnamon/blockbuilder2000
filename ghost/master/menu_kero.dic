@@ -1,0 +1,92 @@
+OnKeroMenu : all
+{
+	"\1\b2\![set,autoscroll,disable]\_q"
+	//"Windows Active: %(blockScope)\n\n[half]"
+	//"%(SHIORI3FW.LastSurface)\n%(SHIORI3FW.IsVisible)\n\n"
+	
+	"%*\__q[OnRemoveAllBlocks]Remove All Blocks\__q\n\n"
+	
+	"%*\__q[OnBlockGeneration.Settings]Block Generation: %(BlockGenerate.Setting)\__q\n\n[half]"
+	"%*\__q[OnBlockGeneration.Setup]Add Block\__q\n\n[half]"
+	"%*\__q[OnBlockGeneration.Single]Add Specific Block\__q\n\n[half]"
+	
+	"\![*]\q[Nevermind,blank]"
+}
+
+OnBlockGeneration.Settings {
+	if BlockGenerate.Setting == "Random"; BlockGenerate.Setting = "In Order"
+	else; BlockGenerate.Setting = "Random"
+	OnKeroMenu
+}
+
+OnBlockGeneration.Setup : all {
+	_empNum = ASEARCH(0,SHIORI3FW.IsVisible)
+	if _empNum != -1; blockScope = _empNum
+	else; blockScope = ARRAYSIZE(SHIORI3FW.LastSurface) //amount of character surfaces on-screen
+	_lastScopeID = ARRAYSIZE(SHIORI3FW.LastSurface) - 1
+	"\![get,property,OnGetLastScopeSurface,currentghost.scope%(_lastScopeID).surface.num]"
+	"\![raise,OnBlockGeneration]"
+}
+
+OnBlockGeneration : all {
+	"\C\_q"
+	if BlockGenerate.Setting == "Random" {
+		_surface = ANY(blockSurfaceList)
+		"\p[%(blockScope)]\s[%(_surface)]"
+	}
+	elseif BlockGenerate.Setting == "In Order" {
+		_temp = ASEARCH(previousBlockSurface,blockSurfaceList)
+		_num = _temp + 1
+		_surface = blockSurfaceList[_num]
+		if _surface == ''; _surface = 0
+		"\p[%(blockScope)]\s[%(_surface)]"
+	}
+	"\_q"
+	OnKeroMenu
+}
+
+OnBlockGeneration.Single : all {
+	if reference0 != '' {
+		_empNum = ASEARCH(0,SHIORI3FW.IsVisible)
+		if _empNum != -1; blockScope = _empNum
+		else; blockScope = ARRAYSIZE(SHIORI3FW.LastSurface) //amount of character surfaces on-screen
+		"\p[%(blockScope)]\s[%(reference0)]\_qBlock Added\_q"
+	}
+	"\1\b2\_q"
+	"\![set,autoscroll,disable]\*"
+	"Select a block to add:\n\n[half]"
+	_num = 0
+	foreach blockSurfaceList; _block {
+		_tempName = blockNames[_num]
+		"\__q[OnBlockGeneration.Single,%(_num),%(_tempName)]%(_tempName)\__q\n"
+		_num++
+	}
+	"\n%*\__q[OnKeroMenu]Main Menu\__q \![*]\q[Nevermind,blank]"
+	"\_q"
+}
+
+
+OnGetLastScopeSurface : all {
+	LOGGING("last scope surface")
+	LOGGING(reference)
+	if blockScope == 2; previousBlockSurface = 0
+	elseif reference == -1; previousBlockSurface = previousBlockSurface + 1
+	else; previousBlockSurface = reference
+}
+
+OnGetProperty : all {
+	"%(reference)\x"
+}
+
+OnRemoveAllBlocks : all {
+	"\1\_q"
+	//"Windows Active: %(blockScope)\n\n[half]"
+	//"%(SHIORI3FW.LastSurface)\n%(SHIORI3FW.IsVisible)\x"
+	_blocks = ARRAYSIZE(SHIORI3FW.IsVisible)
+	for _i = 2; _i <= _blocks; _i++ {
+		"\p[%(_i)]\s[-1]"
+	}
+	"All blocks removed.\n\n"
+	"%*\__q[OnKeroMenu]Main Menu\__q \![*]\q[Nevermind,blank]"
+	"\_q"
+}

@@ -1,0 +1,130 @@
+version,1
+surface.append0-22!10
+{
+    animation0.interval,bind
+    animation0.pattern0,overlayfast,101,0,0,0
+
+    animation1.interval,bind
+    animation1.pattern0,overlayfast,102,0,0,0
+
+    animation2.interval,bind
+    animation2.pattern0,overlayfast,103,0,0,0
+
+    animation3.interval,bind
+    animation3.pattern0,overlayfast,104,0,0,0
+
+    animation4.interval,bind
+    animation4.pattern0,overlayfast,105,0,0,0
+
+    animation5.interval,bind
+    animation5.pattern0,overlayfast,106,0,0,0
+
+    animation6.interval,bind
+    animation6.pattern0,overlayfast,107,0,0,0
+
+    animation7.interval,bind
+    animation7.pattern0,overlayfast,108,0,0,0
+
+    animation8.interval,bind
+    animation8.pattern0,overlayfast,109,0,0,0
+
+    animation9.interval,bind
+    animation9.pattern0,overlayfast,110,0,0,0
+
+    animation10.interval,bind
+    animation10.pattern0,overlayfast,111,0,0,0
+
+    animation11.interval,bind
+    animation11.pattern0,overlayfast,112,0,0,0
+
+    animation12.interval,bind
+    animation12.pattern0,overlayfast,113,0,0,0
+
+    animation13.interval,bind
+    animation13.pattern0,overlayfast,114,0,0,0
+
+    animation14.interval,bind
+    animation14.pattern0,overlayfast,115,0,0,0
+
+    animation15.interval,bind
+    animation15.pattern0,overlayfast,116,0,0,0
+
+    animation16.interval,bind
+    animation16.pattern0,overlayfast,117,0,0,0
+
+    animation17.interval,bind
+    animation17.pattern0,overlayfast,118,0,0,0
+
+    animation18.interval,bind
+    animation18.pattern0,overlayfast,119,0,0,0
+
+    animation19.interval,bind
+    animation19.pattern0,overlayfast,120,0,0,0
+
+    animation20.interval,bind
+    animation20.pattern0,overlayfast,121,0,0,0
+
+    animation21.interval,bind
+    animation21.pattern0,overlayfast,122,0,0,0
+
+    animation22.interval,bind
+    animation22.pattern0,overlayfast,123,0,0,0
+
+    animation23.interval,bind
+    animation23.pattern0,overlayfast,124,0,0,0
+
+    animation24.interval,bind
+    animation24.pattern0,overlayfast,125,0,0,0
+
+    animation25.interval,bind
+    animation25.pattern0,overlayfast,126,0,0,0
+
+    animation26.interval,bind
+    animation26.pattern0,overlayfast,127,0,0,0
+
+    animation27.interval,bind
+    animation27.pattern0,overlayfast,128,0,0,0
+
+    animation28.interval,bind
+    animation28.pattern0,overlayfast,129,0,0,0
+
+    animation29.interval,bind
+    animation29.pattern0,overlayfast,130,0,0,0
+
+    animation30.interval,bind
+    animation30.pattern0,overlayfast,131,0,0,0
+
+    animation31.interval,bind
+    animation31.pattern0,overlayfast,132,0,0,0
+
+    animation32.interval,bind
+    animation32.pattern0,overlayfast,133,0,0,0
+
+    animation33.interval,bind
+    animation33.pattern0,overlayfast,134,0,0,0
+
+    animation34.interval,bind
+    animation34.pattern0,overlayfast,135,0,0,0
+
+    animation35.interval,bind
+    animation35.pattern0,overlayfast,136,0,0,0
+
+    animation36.interval,bind
+    animation36.pattern0,overlayfast,137,0,0,0
+
+    animation37.interval,bind
+    animation37.pattern0,overlayfast,138,0,0,0
+
+    animation38.interval,bind
+    animation38.pattern0,overlayfast,139,0,0,0
+
+    animation39.interval,bind
+    animation39.pattern0,overlayfast,140,0,0,0
+
+    animation40.interval,bind
+    animation40.pattern0,overlayfast,141,0,0,0
+
+    animation41.interval,bind
+    animation41.pattern0,overlayfast,142,0,0,0
+
+}

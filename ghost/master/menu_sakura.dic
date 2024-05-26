@@ -1,0 +1,52 @@
+OnSakuraMenu : all
+{
+	if reference0 == "return"; _argv[0] = reference1
+	_p = "\p[%(_argv[0])]"
+	_num = SHIORI3FW.LastSurface[_argv[0]]
+	_name = blockNames[_num]
+	"%(_p)\b2\![set,autoscroll,disable]\_qBlock %(_argv[0]) (%(_name))\n\n"
+	"%*\__q[OnFlip,horizontal,%(_argv[0])]Flip Horizontally\__q"
+	"\n%*\__q[OnFlip,verticle,%(_argv[0])]Flip Vertically\__q"
+	"\n%*\__q[OnFlip,reset,%(_argv[0])]Reset Flip\__q"
+	"\n\n[half]%*\__q[OnChangeBlock,%(_argv[0])]Change Block\__q"
+	"\n\n\n[half]%*\__q[OnRemoveBlock,%(_argv[0])]Remove Block\__q"
+	"\n\n[half]%*\q[Close Menu,blank]"	
+}
+
+OnRemoveBlock : all {
+	if reference0 == 0 {
+		"\_qMain Character cannot be removed.\_q\x\![raise,OnSakuraMenu]"
+	}
+	else {
+		"\p[%(reference0)]\s[-1]"
+		"\0\_qBlock %(reference0) removed.\_q\e"
+	}
+}
+
+OnFlip : all {
+	_p = "\p[%(reference1)]"
+	if reference0 == "horizontal"; "%(_p)\![set,scaling,-100,100]"
+	elseif reference0 == "verticle"; "%(_p)\![set,scaling,100,-100]"
+	elseif reference0 == "reset"; "%(_p)\![set,scaling,100,100]"
+	OnSakuraMenu(reference1)
+}
+
+OnChangeBlock : all {
+	_p = reference0
+	
+	if reference1; "\p[%(_p)]\s[%(reference1)]"
+	
+	_num = SHIORI3FW.LastSurface[_p]
+	_name = blockNames[_num]
+	if reference2; _name = reference2
+	"\p[%(_p)]\b[2]\*\![set,autoscroll,disable]\_q"
+	"Change Block (Currently: %(_name))\n\n"
+	_num = 0
+	foreach blockSurfaceList; _block {
+		_tempName = blockNames[_num]
+		"\__q[OnChangeBlock,%(reference0),%(_block),%(_tempName)]%(_tempName)\__q\n"
+		_num++
+	}
+	"\n[half]"
+	"\n[half]%*\__q[OnSakuraMenu,return,%(reference0)]Main Menu\__q %*\q[Close Menu,blank]"
+}

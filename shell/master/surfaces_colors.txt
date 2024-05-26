@@ -1,0 +1,210 @@
+surface101
+{
+    element0,overlay,colors/Angels Observing Gods New Experimental Art Exhibit_01.png,0,0
+}
+
+surface102
+{
+    element0,overlay,colors/Angels Observing Gods New Experimental Art Exhibit_02.png,0,0
+}
+
+surface103
+{
+    element0,overlay,colors/Angels Observing Gods New Experimental Art Exhibit_03.png,0,0
+}
+
+surface104
+{
+    element0,overlay,colors/Angels Observing Gods New Experimental Art Exhibit_04.png,0,0
+}
+
+surface105
+{
+    element0,overlay,colors/Angels Observing Gods New Experimental Art Exhibit_05.png,0,0
+}
+
+surface106
+{
+    element0,overlay,colors/Filling in the Gaps_01.png,0,0
+}
+
+surface107
+{
+    element0,overlay,colors/Filling in the Gaps_02.png,0,0
+}
+
+surface108
+{
+    element0,overlay,colors/Filling in the Gaps_03.png,0,0
+}
+
+surface109
+{
+    element0,overlay,colors/Filling in the Gaps_04.png,0,0
+}
+
+surface110
+{
+    element0,overlay,colors/foliage_01.png,0,0
+}
+
+surface111
+{
+    element0,overlay,colors/foliage_02.png,0,0
+}
+
+surface112
+{
+    element0,overlay,colors/foliage_03.png,0,0
+}
+
+surface113
+{
+    element0,overlay,colors/foliage_04.png,0,0
+}
+
+surface114
+{
+    element0,overlay,colors/foliage_05.png,0,0
+}
+
+surface115
+{
+    element0,overlay,colors/Grasping at Glass_01.png,0,0
+}
+
+surface116
+{
+    element0,overlay,colors/Grasping at Glass_02.png,0,0
+}
+
+surface117
+{
+    element0,overlay,colors/Grasping at Glass_03.png,0,0
+}
+
+surface118
+{
+    element0,overlay,colors/Grasping at Glass_04.png,0,0
+}
+
+surface119
+{
+    element0,overlay,colors/Grasping at Glass_05.png,0,0
+}
+
+surface120
+{
+    element0,overlay,colors/Hero of the Day_01.png,0,0
+}
+
+surface121
+{
+    element0,overlay,colors/Hero of the Day_02.png,0,0
+}
+
+surface122
+{
+    element0,overlay,colors/Hero of the Day_03.png,0,0
+}
+
+surface123
+{
+    element0,overlay,colors/Hero of the Day_04.png,0,0
+}
+
+surface124
+{
+    element0,overlay,colors/Hero of the Day_05.png,0,0
+}
+
+surface125
+{
+    element0,overlay,colors/Hero of the Day_06.png,0,0
+}
+
+surface126
+{
+    element0,overlay,colors/Lily Eater_01.png,0,0
+}
+
+surface127
+{
+    element0,overlay,colors/Lily Eater_02.png,0,0
+}
+
+surface128
+{
+    element0,overlay,colors/Lily Eater_03.png,0,0
+}
+
+surface129
+{
+    element0,overlay,colors/Lily Eater_04.png,0,0
+}
+
+surface130
+{
+    element0,overlay,colors/Lily Eater_05.png,0,0
+}
+
+surface131
+{
+    element0,overlay,colors/Miss Daisys Vanity_01.png,0,0
+}
+
+surface132
+{
+    element0,overlay,colors/Miss Daisys Vanity_02.png,0,0
+}
+
+surface133
+{
+    element0,overlay,colors/Miss Daisys Vanity_03.png,0,0
+}
+
+surface134
+{
+    element0,overlay,colors/Miss Daisys Vanity_04.png,0,0
+}
+
+surface135
+{
+    element0,overlay,colors/Miss Daisys Vanity_05.png,0,0
+}
+
+surface136
+{
+    element0,overlay,colors/space_little fish.png,0,0
+}
+
+surface137
+{
+    element0,overlay,colors/space_miss daisys vanity.png,0,0
+}
+
+surface138
+{
+    element0,overlay,colors/space_rainbowbeard.png,0,0
+}
+
+surface139
+{
+    element0,overlay,colors/tender_01.png,0,0
+}
+
+surface140
+{
+    element0,overlay,colors/tender_02.png,0,0
+}
+
+surface141
+{
+    element0,overlay,colors/tender_03.png,0,0
+}
+
+surface142
+{
+    element0,overlay,colors/tender_04.png,0,0
+}
+

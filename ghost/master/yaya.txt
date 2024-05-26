@@ -1,0 +1,27 @@
+charset, UTF-8
+charset.dic, UTF-8
+charset.output, UTF-8
+charset.file, UTF-8
+charset.save, UTF-8
+charset.extension, UTF-8
+
+dicdir, yaya_base
+
+dic, boot.dic
+dic, menu_kero.dic
+dic, mouse.dic
+dic, meta.dic
+dic, etc.dic
+//i swapped meta & other. its because meta just reads as update urls and random other code stuff like that!!!
+dic, menu_sakura.dic
+dic, word.dic
+
+msglang,english
+
+//------------------------------------------------------------------------------
+//Execution log
+//The execution log is recorded in ayame.log. It is recommended to keep logs during development.
+//------------------------------------------------------------------------------
+// log, ayame.log	
+ignoreiolog, ID: OnSecondChange //Ignores OnSecondChange
+ignoreiolog, ID: OnMouse        //Ignores all OnMouse functions

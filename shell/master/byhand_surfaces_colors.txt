@@ -1,0 +1,584 @@
+//assuming base range is 0-100 (not 99 since kero surface is included) colors will be 101-400 (i think)
+
+//Answer to the Albatross
+surface101
+{
+	element0,overlay,colors/AnswertotheAlbatross_01.png,0,0
+}
+surface102
+{
+	element0,overlay,colors/AnswertotheAlbatross_02.png,0,0
+}
+surface103
+{
+	element0,overlay,colors/AnswertotheAlbatross_03.png,0,0
+}
+surface104
+{
+	element0,overlay,colors/AnswertotheAlbatross_04.png,0,0
+}
+surface105
+{
+	element0,overlay,colors/AnswertotheAlbatross_05.png,0,0
+}
+
+//Angels Observing God's Newest Experimental Art Exhibit
+surface106
+{
+	element0,overlay,colors/aognae_01.png,0,0
+}
+
+surface107
+{
+	element0,overlay,colors/aognae_02.png,0,0
+}
+surface108
+{
+	element0,overlay,colors/aognae_03.png,0,0
+}
+surface109
+{
+	element0,overlay,colors/aognae_04.png,0,0
+}
+surface110
+{
+	element0,overlay,colors/aognae_05.png,0,0
+}
+
+//Are You Aware of My Presence, Watching and Unbreathing?
+surface111
+{
+	element0,overlay,colors/AreYouAwareofMyPresenceWatchingandUnbreathing_01.png,0,0
+}
+surface112
+{
+	element0,overlay,colors/AreYouAwareofMyPresenceWatchingandUnbreathing_02.png,0,0
+}
+surface113
+{
+	element0,overlay,colors/AreYouAwareofMyPresenceWatchingandUnbreathing_03.png,0,0
+}
+surface114
+{
+	element0,overlay,colors/AreYouAwareofMyPresenceWatchingandUnbreathing_04.png,0,0
+}
+
+//Asleep by the Reservoir
+surface115
+{
+	element0,overlay,colors/AsleepbytheReservoir_01.png,0,0
+}
+surface116
+{
+	element0,overlay,colors/AsleepbytheReservoir_02.png,0,0
+}
+surface117
+{
+	element0,overlay,colors/AsleepbytheReservoir_03.png,0,0
+}
+surface118
+{
+	element0,overlay,colors/AsleepbytheReservoir_04.png,0,0
+}
+
+//Aster Aria
+surface119
+{
+	element0,overlay,colors/AsterAria_01.png,0,0
+}
+surface120
+{
+	element0,overlay,colors/AsterAria_02.png,0,0
+}
+surface121
+{
+	element0,overlay,colors/AsterAria_03.png,0,0
+}
+surface122
+{
+	element0,overlay,colors/AsterAria_04.png,0,0
+}
+surface123
+{
+	element0,overlay,colors/AsterAria_05.png,0,0
+}
+
+//Atomic Blossoms
+surface124
+{
+	element0,overlay,colors/AtomicBlossoms_01.png,0,0
+}
+surface125
+{
+	element0,overlay,colors/AtomicBlossoms_02.png,0,0
+}
+surface126
+{
+	element0,overlay,colors/AtomicBlossoms_03.png,0,0
+}
+surface127
+{
+	element0,overlay,colors/AtomicBlossoms_04.png,0,0
+}
+surface128
+{
+	element0,overlay,colors/AtomicBlossoms_05.png,0,0
+}
+
+//At the Tone....
+surface129
+{
+	element0,overlay,colors/AttheTone_01.png,0,0
+}
+surface130
+{
+	element0,overlay,colors/AttheTone_02.png,0,0
+}
+surface131
+{
+	element0,overlay,colors/AttheTone_03.png,0,0
+}
+surface132
+{
+	element0,overlay,colors/AttheTone_04.png,0,0
+}
+surface133
+{
+	element0,overlay,colors/AttheTone_05.png,0,0
+}
+
+//Bound to Serve You
+surface134
+{
+	element0,overlay,colors/BoundtoServeYou_01.png,0,0
+}
+surface135
+{
+	element0,overlay,colors/BoundtoServeYou_02.png,0,0
+}
+surface136
+{
+	element0,overlay,colors/BoundtoServeYou_03.png,0,0
+}
+surface137
+{
+	element0,overlay,colors/BoundtoServeYou_04.png,0,0
+}
+surface138
+{
+	element0,overlay,colors/BoundtoServeYou_05.png,0,0
+}
+
+//Breathe, Breathe, Breathe
+surface139
+{
+	element0,overlay,colors/BreatheBreatheBreathe_01.png,0,0
+}
+surface140
+{
+	element0,overlay,colors/BreatheBreatheBreathe_02.png,0,0
+}
+surface141
+{
+	element0,overlay,colors/BreatheBreatheBreathe_03.png,0,0
+}
+surface142
+{
+	element0,overlay,colors/BreatheBreatheBreathe_04.png,0,0
+}
+
+//Class Participation
+surface143
+{
+	element0,overlay,colors/ClassParticipation_01.png,0,0
+}
+surface144
+{
+	element0,overlay,colors/ClassParticipation_02.png,0,0
+}
+surface145
+{
+	element0,overlay,colors/ClassParticipation_03.png,0,0
+}
+surface146
+{
+	element0,overlay,colors/ClassParticipation_04.png,0,0
+}
+
+//Cotton Candy Seas
+surface147
+{
+	element0,overlay,colors/CottonCandySeas_01.png,0,0
+}
+surface148
+{
+	element0,overlay,colors/CottonCandySeas_02.png,0,0
+}
+surface149
+{
+	element0,overlay,colors/CottonCandySeas_03.png,0,0
+}
+surface150
+{
+	element0,overlay,colors/CottonCandySeas_04.png,0,0
+}
+surface151
+{
+	element0,overlay,colors/CottonCandySeas_05.png,0,0
+}
+
+//Cream Soda
+surface152
+{
+	element0,overlay,colors/CreamSoda_01.png,0,0
+}
+surface153
+{
+	element0,overlay,colors/CreamSoda_02.png,0,0
+}
+surface154
+{
+	element0,overlay,colors/CreamSoda_03.png,0,0
+}
+surface155
+{
+	element0,overlay,colors/CreamSoda_04.png,0,0
+}
+surface156
+{
+	element0,overlay,colors/CreamSoda_05.png,0,0
+}
+surface157
+{
+	element0,overlay,colors/CreamSoda_06.png,0,0
+}
+
+//Dance It Through
+surface158
+{
+	element0,overlay,colors/DanceItThrough_01.png,0,0
+}
+surface159
+{
+	element0,overlay,colors/DanceItThrough_02.png,0,0
+}
+surface160
+{
+	element0,overlay,colors/DanceItThrough_03.png,0,0
+}
+surface161
+{
+	element0,overlay,colors/DanceItThrough_04.png,0,0
+}
+surface162
+{
+	element0,overlay,colors/DanceItThrough_05.png,0,0
+}
+
+//Dancer, Dancer
+surface163
+{
+	element0,overlay,colors/DancerDancer_01.png,0,0
+}
+surface164
+{
+	element0,overlay,colors/DancerDancer_02.png,0,0
+}
+surface165
+{
+	element0,overlay,colors/DancerDancer_03.png,0,0
+}
+surface166
+{
+	element0,overlay,colors/DancerDancer_04.png,0,0
+}
+surface167
+{
+	element0,overlay,colors/DancerDancer_05.png,0,0
+}
+
+//December Halcyon
+surface168
+{
+	element0,overlay,colors/DecemberHalcyon_01.png,0,0
+}
+surface169
+{
+	element0,overlay,colors/DecemberHalcyon_02.png,0,0
+}
+surface170
+{
+	element0,overlay,colors/DecemberHalcyon_03.png,0,0
+}
+surface171
+{
+	element0,overlay,colors/DecemberHalcyon_04.png,0,0
+}
+surface172
+{
+	element0,overlay,colors/DecemberHalcyon_05.png,0,0
+}
+
+//Dream-Sourced Ice Cream
+surface173
+{
+	element0,overlay,colors/DreamSourcedIceCream_01.png,0,0
+}
+surface174
+{
+	element0,overlay,colors/DreamSourcedIceCream_02.png,0,0
+}
+surface175
+{
+	element0,overlay,colors/DreamSourcedIceCream_03.png,0,0
+}
+surface176
+{
+	element0,overlay,colors/DreamSourcedIceCream_04.png,0,0
+}
+surface177
+{
+	element0,overlay,colors/DreamSourcedIceCream_05.png,0,0
+}
+surface178
+{
+	element0,overlay,colors/DreamSourcedIceCream_06.png,0,0
+}
+
+//Dream Train Tickets
+surface179
+{
+	element0,overlay,colors/DreamTrainTickets_01.png,0,0
+}
+surface180
+{
+	element0,overlay,colors/DreamTrainTickets_02.png,0,0
+}
+surface181
+{
+	element0,overlay,colors/DreamTrainTickets_03.png,0,0
+}
+surface182
+{
+	element0,overlay,colors/DreamTrainTickets_04.png,0,0
+}
+surface183
+{
+	element0,overlay,colors/DreamTrainTickets_05.png,0,0
+}
+
+//Drown the Moon
+surface184
+{
+	element0,overlay,colors/DrowntheMoon_01.png,0,0
+}
+surface185
+{
+	element0,overlay,colors/DrowntheMoon_02.png,0,0
+}
+surface186
+{
+	element0,overlay,colors/DrowntheMoon_03.png,0,0
+}
+surface187
+{
+	element0,overlay,colors/DrowntheMoon_04.png,0,0
+}
+
+//DVD for Breakfast
+surface188
+{
+	element0,overlay,colors/DVDforBreakfast_01.png,0,0
+}
+surface189
+{
+	element0,overlay,colors/DVDforBreakfast_02.png,0,0
+}
+surface190
+{
+	element0,overlay,colors/DVDforBreakfast_03.png,0,0
+}
+surface191
+{
+	element0,overlay,colors/DVDforBreakfast_04.png,0,0
+}
+surface192
+{
+	element0,overlay,colors/DVDforBreakfast_05.png,0,0
+}
+
+//Escapism Theory
+surface193
+{
+	element0,overlay,colors/EscapismTheory_01.png,0,0
+}
+surface194
+{
+	element0,overlay,colors/EscapismTheory_02.png,0,0
+}
+surface195
+{
+	element0,overlay,colors/EscapismTheory_03.png,0,0
+}
+surface196
+{
+	element0,overlay,colors/EscapismTheory_04.png,0,0
+}
+surface197
+{
+	element0,overlay,colors/EscapismTheory_05.png,0,0
+}
+surface198
+{
+	element0,overlay,colors/EscapismTheory_06.png,0,0
+}
+
+//Fanciful Wishes
+surface199
+{
+	element0,overlay,colors/FancifulWishes_01.png,0,0
+}
+surface200
+{
+	element0,overlay,colors/FancifulWishes_02.png,0,0
+}
+surface201
+{
+	element0,overlay,colors/FancifulWishes_03.png,0,0
+}
+surface202
+{
+	element0,overlay,colors/FancifulWishes_04.png,0,0
+}
+surface203
+{
+	element0,overlay,colors/FancifulWishes_05.png,0,0
+}
+
+//Filling in the Gaps
+surface204
+{
+	element0,overlay,colors/FillingintheGaps_01.png,0,0
+}
+surface205
+{
+	element0,overlay,colors/FillingintheGaps_02.png,0,0
+}
+surface206
+{
+	element0,overlay,colors/FillingintheGaps_03.png,0,0
+}
+surface207
+{
+	element0,overlay,colors/FillingintheGaps_04.png,0,0
+}
+
+//Flow Into the Ever-Thirsting Ocean
+surface208
+{
+	element0,overlay,colors/FlowIntotheEverThirstingOcean_01.png,0,0
+}
+surface209
+{
+	element0,overlay,colors/FlowIntotheEverThirstingOcean_02.png,0,0
+}
+surface210
+{
+	element0,overlay,colors/FlowIntotheEverThirstingOcean_03.png,0,0
+}
+surface211
+{
+	element0,overlay,colors/FlowIntotheEverThirstingOcean_04.png,0,0
+}
+surface212
+{
+	element0,overlay,colors/FlowIntotheEverThirstingOcean_05.png,0,0
+}
+
+//foliage
+surface213
+{
+	element0,overlay,colors/foliage_01.png,0,0
+}
+surface214
+{
+	element0,overlay,colors/foliage_02.png,0,0
+}
+surface215
+{
+	element0,overlay,colors/foliage_03.png,0,0
+}
+surface216
+{
+	element0,overlay,colors/foliage_04.png,0,0
+}
+surface217
+{
+	element0,overlay,colors/foliage_05.png,0,0
+}
+
+//Frozen Disco
+surface218
+{
+	element0,overlay,colors/FrozenDisco_01.png,0,0
+}
+surface219
+{
+	element0,overlay,colors/FrozenDisco_02.png,0,0
+}
+surface220
+{
+	element0,overlay,colors/FrozenDisco_03.png,0,0
+}
+surface221
+{
+	element0,overlay,colors/FrozenDisco_04.png,0,0
+}
+surface222
+{
+	element0,overlay,colors/FrozenDisco_05.png,0,0
+}
+
+//Gentle Judgement
+surface223
+{
+	element0,overlay,colors/GentleJudgement_01.png,0,0
+}
+surface224
+{
+	element0,overlay,colors/GentleJudgement_02.png,0,0
+}
+surface225
+{
+	element0,overlay,colors/GentleJudgement_03.png,0,0
+}
+surface226
+{
+	element0,overlay,colors/GentleJudgement_04.png,0,0
+}
+surface227
+{
+	element0,overlay,colors/GentleJudgement_05.png,0,0
+}
+
+//Grasping at Glass
+surface228
+{
+	element0,overlay,colors/GraspingatGlass_01.png,0,0
+}
+surface229
+{
+	element0,overlay,colors/GraspingatGlass_02.png,0,0
+}
+surface230
+{
+	element0,overlay,colors/GraspingatGlass_03.png,0,0
+}
+surface231
+{
+	element0,overlay,colors/GraspingatGlass_04.png,0,0
+}
+surface232
+{
+	element0,overlay,colors/GraspingatGlass_05.png,0,0
+}
